@@ -1,0 +1,1176 @@
+age,gender,occupation,line_of_work,time_bp,time_dp,travel_time,easeof_online,home_env,prod_inc,sleep_bal,new_skill,fam_connect,relaxed,self_time,like_hw,dislike_hw,prefer,certaindays_hw
+19-25,Male,Student in College,Other/not working,7,5,0.5,3,3,0.0,0.0,0.5,1.0,-0.5,-0.5,0.08918918918918918,0.0,Complete Physical Attendance,Yes
+0-18,Male,Student in School,Other/not working,7,11,0.5,4,2,-0.5,0.5,-1.0,1.0,1.0,1.0,1.0,0.9990990990990991,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,7,1.5,2,2,1.0,0.0,0.5,0.5,0.5,0.5,0.9900900900900901,0.0990990990990991,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,7,7,1.5,3,1,0.0,1.0,0.5,0.0,-1.0,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,Yes
+19-25,Female,Student in College,Other/not working,7,7,1.5,2,2,0.0,0.0,0.0,0.0,0.5,0.0,0.909009009009009,0.9,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,5,7,0.5,4,4,-1.0,-1.0,0.0,-0.5,0.0,0.0,0.0981981981981982,0.9900900900900901,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,5,4,0.5,1,3,0.5,0.5,1.0,0.5,1.0,1.0,0.9900900900900901,0.990990990990991,Work/study from home,Yes
+19-25,Male,Student in College,Other/not working,7,9,0.5,3,2,0.0,-0.5,-0.5,-1.0,-0.5,0.0,0.9,0.9,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,5,9,0.5,1,2,1.0,1.0,1.0,1.0,1.0,1.0,0.909009009009009,0.08918918918918918,Work/study from home,Yes
+19-25,Male,Student in College,Other/not working,7,7,1.5,2,2,0.0,0.0,0.0,-1.0,0.0,0.0,0.9990990990990991,1.0,Work/study from home,Yes
+19-25,Male,Student in College,Other/not working,7,4,0.5,2,1,0.0,-0.5,0.5,0.5,0.0,0.5,0.9900900900900901,0.990990990990991,Complete Physical Attendance,Maybe
+19-25,Male,Student in College,Other/not working,5,9,0.5,3,3,0.0,0.0,0.0,0.0,0.0,0.0,0.9900900900900901,0.9099099099099099,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,11,0.5,5,4,0.0,-1.0,1.0,-0.5,-1.0,-1.0,0.0981981981981982,0.9900900900900901,Complete Physical Attendance,Yes
+19-25,Female,Student in College,Other/not working,7,7,0.5,2,1,-0.5,0.0,0.5,1.0,0.5,1.0,0.9990990990990991,0.9900900900900901,Complete Physical Attendance,Maybe
+33-40,Male,Working Professional,Teaching,9,11,0.5,2,3,0.0,0.5,0.5,0.0,0.5,0.0,0.9,0.08918918918918918,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,11,5,0.5,5,2,0.0,0.0,1.0,1.0,0.5,1.0,0.9990990990990991,0.9,Work/study from home,Yes
+33-40,Male,Working Professional,Teaching,7,5,0.5,2,3,0.0,-0.5,0.5,0.5,-0.5,0.5,0.0981981981981982,0.9009009009009009,Complete Physical Attendance,Maybe
+19-25,Female,Student in College,Other/not working,7,9,0.5,5,3,-0.5,-0.5,-1.0,-1.0,-1.0,-0.5,0.008108108108108109,0.9,Complete Physical Attendance,Maybe
+19-25,Male,Student in College,Other/not working,5,4,1.5,2,4,0.0,-0.5,-1.0,0.0,-0.5,-0.5,0.08918918918918918,0.08918918918918918,Complete Physical Attendance,Yes
+19-25,Female,Student in College,Other/not working,11,9,0.5,2,3,-0.5,-0.5,-0.5,1.0,0.0,0.0,0.08918918918918918,1.0,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,7,9,1.5,4,5,0.5,-0.5,0.5,-0.5,-1.0,-0.5,0.008108108108108109,0.9099099099099099,Complete Physical Attendance,Maybe
+19-25,Female,Student in College,Other/not working,7,5,0.5,3,4,0.5,0.5,0.5,1.0,0.5,0.0,0.9,0.9990990990990991,Complete Physical Attendance,Maybe
+19-25,Male,Working Professional,Engineering,7,9,1.5,1,2,0.0,-1.0,0.5,0.5,0.0,0.0,0.9,0.990990990990991,Complete Physical Attendance,Yes
+19-25,Female,Student in College,Other/not working,9,7,0.5,5,3,0.5,0.5,1.0,1.0,1.0,0.5,0.08918918918918918,0.0,Work/study from home,Yes
+19-25,Male,Student in College,Other/not working,9,4,2.5,2,4,0.0,0.0,0.0,0.5,0.0,0.0,0.9,0.9,Complete Physical Attendance,Maybe
+19-25,Male,Student in College,Other/not working,7,9,0.5,4,4,-0.5,-0.5,0.5,0.5,0.0,-0.5,0.9009009009009009,0.9009009009009009,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,9,7,2.5,2,1,0.5,0.5,-0.5,0.5,0.5,1.0,0.9,0.990990990990991,Work/study from home,Yes
+19-25,Male,Student in College,Other/not working,7,5,0.5,3,4,0.5,-0.5,0.0,0.0,-0.5,0.0,0.9900900900900901,1.0,Complete Physical Attendance,Maybe
+19-25,Male,Student in College,Other/not working,7,4,1.5,4,1,0.5,0.5,0.5,0.5,0.5,0.5,1.0,1.0,Complete Physical Attendance,Maybe
+19-25,Female,Student in College,Other/not working,7,4,1.5,4,3,0.0,-0.5,0.5,0.0,0.5,0.0,0.008108108108108109,1.0,Complete Physical Attendance,Maybe
+19-25,Male,Student in College,Other/not working,9,7,2.5,2,1,0.5,0.5,-0.5,0.5,0.5,1.0,0.9,0.990990990990991,Work/study from home,Yes
+19-25,Male,Student in College,Other/not working,11,4,0.5,5,1,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,0.9,0.9,Complete Physical Attendance,Maybe
+19-25,Female,Student in College,Other/not working,7,7,0.5,3,3,-0.5,0.0,0.5,0.5,-0.5,0.5,0.9,0.990990990990991,Complete Physical Attendance,Maybe
+19-25,Female,Student in College,Other/not working,7,5,0.5,3,2,0.5,0.5,0.5,0.5,0.5,0.5,0.9,1.0,Work/study from home,Yes
+19-25,Male,Student in College,Other/not working,9,5,0.5,3,3,0.5,1.0,-1.0,1.0,0.0,0.0,0.0,1.0,Complete Physical Attendance,Maybe
+19-25,Male,Student in College,Other/not working,9,7,2.5,3,3,0.0,-1.0,1.0,1.0,0.5,0.5,0.9900900900900901,1.0,Complete Physical Attendance,Maybe
+19-25,Male,Student in College,Other/not working,7,11,0.5,4,5,0.0,1.0,0.5,-1.0,-1.0,-1.0,0.9099099099099099,1.0,Complete Physical Attendance,Maybe
+19-25,Male,Student in College,Other/not working,9,11,1.5,2,1,0.5,1.0,0.5,0.5,0.5,0.5,0.9990990990990991,0.08918918918918918,Work/study from home,Yes
+19-25,Male,Student in College,Other/not working,4,4,0.5,1,3,1.0,1.0,1.0,1.0,1.0,1.0,0.9,0.08918918918918918,Complete Physical Attendance,No
+19-25,Female,Student in College,Other/not working,5,4,0.5,4,4,-0.5,-1.0,-0.5,-0.5,-1.0,-1.0,0.008108108108108109,0.9009009009009009,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,9,7,1.5,2,3,-0.5,-1.0,-1.0,0.5,0.0,0.5,0.9,0.9900900900900901,Complete Physical Attendance,No
+19-25,Female,Student in College,Other/not working,5,5,0.5,5,4,-0.5,0.0,0.0,0.0,0.0,0.0,0.08918918918918918,0.9099099099099099,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,4,5,0.5,4,4,0.5,0.5,1.0,0.0,-0.5,0.5,0.009009009009009009,0.9099099099099099,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,5,7,0.5,3,5,0.5,-0.5,0.0,0.5,0.0,0.0,0.0981981981981982,1.0,Complete Physical Attendance,Maybe
+33-40,Male,Working Professional,Teaching,9,11,0.5,4,3,-1.0,-1.0,-1.0,0.0,-1.0,-1.0,0.9,0.909009009009009,Complete Physical Attendance,No
+60+,Prefer not to say,Entrepreneur,Other/not working,12,12,3.0,5,5,-1.0,-1.0,-1.0,-1.0,-1.0,0.0,0.0,0.008108108108108109,Complete Physical Attendance,No
+19-25,Female,Student in College,Other/not working,7,9,0.5,4,4,0.5,1.0,0.5,1.0,1.0,1.0,0.9900900900900901,0.9,Work/study from home,Maybe
+19-25,Male,Student in College,Other/not working,7,5,0.5,5,4,-1.0,1.0,0.5,0.5,-0.5,0.0,0.9,1.0,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,7,4,0.5,4,3,-1.0,0.0,0.5,0.0,-0.5,0.0,0.9900900900900901,0.990990990990991,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,12,7,0.5,3,4,-0.5,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Work/study from home,Maybe
+19-25,Male,Student in College,Other/not working,12,4,0.5,5,5,-1.0,-1.0,-1.0,-0.5,-1.0,-1.0,0.9,1.0,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,5,5,0.5,3,4,1.0,0.5,1.0,0.5,1.0,1.0,0.909009009009009,1.0,Work/study from home,Maybe
+19-25,Female,Student in College,Other/not working,7,7,0.5,2,2,0.0,0.5,0.5,0.0,0.0,-0.5,0.0,0.09009009009009009,Work/study from home,Yes
+19-25,Male,Student in College,Other/not working,7,5,0.5,4,5,-0.5,-0.5,-1.0,-1.0,0.0,-1.0,0.008108108108108109,0.9,Complete Physical Attendance,Yes
+19-25,Male,Entrepreneur,Other/not working,12,12,1.5,2,2,0.5,-0.5,-0.5,0.5,-0.5,-0.5,0.9,0.0,Work/study from home,Yes
+19-25,Female,Student in College,Other/not working,7,9,1.5,3,1,0.0,-0.5,0.0,0.0,0.0,-0.5,0.9,0.9,Work/study from home,Yes
+19-25,Male,Student in College,Other/not working,5,4,0.5,3,2,0.0,1.0,1.0,1.0,1.0,1.0,0.9900900900900901,0.0990990990990991,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,5,5,0.5,1,2,-0.5,-1.0,0.5,0.5,0.5,1.0,0.008108108108108109,0.08918918918918918,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,5,5,0.5,1,2,-0.5,-1.0,0.5,0.5,0.5,1.0,0.008108108108108109,0.08918918918918918,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,9,9,0.5,2,3,0.5,0.0,0.5,0.5,0.5,0.5,0.909009009009009,0.9,Work/study from home,Yes
+19-25,Male,Student in College,Other/not working,5,5,0.5,3,3,-0.5,0.0,0.0,0.5,0.0,-0.5,0.9990990990990991,1.0,Work/study from home,Yes
+19-25,Male,Working Professional,Engineering,9,11,1.5,4,5,0.0,-0.5,-0.5,0.5,0.0,0.0,0.9900900900900901,0.9900900900900901,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,5,4,0.5,2,3,-1.0,-0.5,-1.0,-1.0,-0.5,-1.0,0.08918918918918918,0.9,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,7,9,0.5,4,4,-0.5,0.0,-0.5,0.5,-1.0,-0.5,0.9,0.990990990990991,Complete Physical Attendance,Maybe
+19-25,Male,Student in College,Other/not working,5,4,0.5,4,4,-0.5,-0.5,0.0,0.5,0.0,0.0,0.9,0.9,Complete Physical Attendance,Maybe
+19-25,Male,Student in College,Other/not working,7,4,0.5,4,1,-0.5,-0.5,1.0,1.0,1.0,1.0,0.9990990990990991,0.9900900900900901,Complete Physical Attendance,Maybe
+19-25,Female,Student in College,Other/not working,9,4,0.5,3,2,-0.5,-1.0,0.0,1.0,-0.5,0.5,0.9900900900900901,0.9900900900900901,Complete Physical Attendance,No
+19-25,Female,Working Professional,Engineering,9,12,0.5,2,3,0.0,-1.0,-1.0,-1.0,-1.0,-1.0,0.9,0.990990990990991,Work/study from home,Yes
+0-18,Male,Student in School,Other/not working,7,5,1.5,3,3,0.5,-1.0,0.5,-0.5,0.5,0.0,1.0,1.0,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,5,7,1.5,2,2,-1.0,-0.5,-1.0,-0.5,-0.5,-1.0,0.9,0.9,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,7,7,2.5,4,3,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.9900900900900901,Work/study from home,Yes
+19-25,Male,Student in College,Other/not working,7,9,0.5,4,3,0.0,-1.0,0.5,1.0,-1.0,0.0,0.9,1.0,Complete Physical Attendance,No
+19-25,Prefer not to say,Retired/Senior Citizen,Other/not working,4,9,2.5,3,3,0.5,-1.0,0.0,0.0,-1.0,0.0,0.9,0.08918918918918918,Complete Physical Attendance,Maybe
+0-18,Male,Student in College,Other/not working,7,4,1.5,3,5,-1.0,-1.0,1.0,0.0,-0.5,1.0,0.08918918918918918,1.0,Complete Physical Attendance,No
+26-32,Female,Working Professional,Teaching,9,7,0.5,1,1,1.0,1.0,1.0,1.0,1.0,1.0,0.9900900900900901,0.9,Work/study from home,Yes
+19-25,Male,Student in College,Other/not working,4,7,0.5,5,1,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,0.08918918918918918,0.0,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,7,4,0.5,5,5,-1.0,-1.0,-1.0,0.0,-1.0,-1.0,0.008108108108108109,1.0,Complete Physical Attendance,No
+19-25,Female,Student in College,Other/not working,7,9,0.5,4,4,0.5,-0.5,-0.5,0.0,-0.5,0.0,0.08918918918918918,0.009009009009009009,Work/study from home,Yes
+33-40,Male,Working Professional,Management,9,4,0.5,2,3,-0.5,-0.5,-1.0,-0.5,0.5,-0.5,0.08918918918918918,0.08918918918918918,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,7,7,0.5,2,2,0.0,-1.0,0.5,1.0,-0.5,0.0,0.9900900900900901,0.990990990990991,Work/study from home,Yes
+0-18,Female,Student in School,Other/not working,7,4,2.5,3,4,-0.5,-1.0,0.5,0.0,0.5,0.0,0.9,0.9009009009009009,Complete Physical Attendance,Yes
+19-25,Female,Student in College,Other/not working,7,11,1.5,3,4,-0.5,-1.0,-1.0,-1.0,-1.0,-1.0,0.9009009009009009,0.9990990990990991,Complete Physical Attendance,No
+19-25,Female,Student in College,Other/not working,7,7,2.5,4,2,0.0,-1.0,0.5,0.5,0.0,0.5,0.9,0.990990990990991,Complete Physical Attendance,No
+19-25,Female,Student in College,Other/not working,7,7,0.5,5,5,-1.0,0.0,-1.0,-1.0,-0.5,-1.0,0.0,0.008108108108108109,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,5,7,0.5,3,4,0.0,-1.0,1.0,1.0,-0.5,0.0,0.08918918918918918,1.0,Complete Physical Attendance,Maybe
+0-18,Male,Student in School,Other/not working,7,5,0.5,4,2,-0.5,-1.0,0.5,0.5,-0.5,0.0,0.008108108108108109,0.9,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,12,0.5,5,2,-1.0,-1.0,-0.5,1.0,-0.5,0.0,0.9990990990990991,0.9900900900900901,Complete Physical Attendance,Maybe
+19-25,Female,Student in College,Other/not working,5,5,2.5,2,2,0.5,0.5,-0.5,0.5,-1.0,0.0,0.9900900900900901,0.990990990990991,Complete Physical Attendance,Yes
+19-25,Female,Student in College,Other/not working,9,11,0.5,3,3,0.0,0.0,0.0,0.0,0.5,0.0,0.9990990990990991,1.0,Complete Physical Attendance,No
+19-25,Female,Student in College,Other/not working,5,12,0.5,2,3,0.0,-1.0,-0.5,0.0,-1.0,0.0,0.9900900900900901,0.990990990990991,Complete Physical Attendance,Maybe
+19-25,Female,Student in College,Other/not working,5,5,0.5,3,3,0.0,0.5,0.0,0.5,-0.5,0.0,0.08918918918918918,1.0,Complete Physical Attendance,Maybe
+19-25,Male,Working Professional,Engineering,9,7,0.5,3,3,0.5,-1.0,0.0,0.5,0.5,1.0,0.9009009009009009,0.990990990990991,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,7,11,0.5,3,3,-0.5,-1.0,-1.0,-1.0,-1.0,-0.5,0.9,1.0,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,5,5,1.5,3,3,-0.5,0.0,0.5,0.5,0.0,0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,12,0.5,5,5,0.0,-0.5,0.5,1.0,-1.0,0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,11,0.5,4,3,0.0,0.0,0.0,0.0,0.0,0.0,0.08918918918918918,1.0,Complete Physical Attendance,Maybe
+19-25,Male,Student in College,Other/not working,9,7,2.5,2,1,0.5,0.5,-0.5,0.5,0.5,1.0,0.9,0.990990990990991,Work/study from home,Yes
+0-18,Female,Student in College,Other/not working,9,7,1.5,4,4,-1.0,-1.0,0.5,0.5,0.5,0.5,0.008108108108108109,0.9,Complete Physical Attendance,Yes
+0-18,Male,Student in College,Other/not working,5,7,0.5,4,5,0.0,0.0,-0.5,0.5,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,Yes
+19-25,Female,Student in College,Other/not working,7,12,0.5,5,3,0.0,-1.0,-1.0,-1.0,-1.0,-1.0,0.9,1.0,Complete Physical Attendance,Yes
+19-25,Female,Student in College,Other/not working,5,5,0.5,4,3,0.0,-0.5,0.5,0.5,-1.0,-0.5,0.9900900900900901,0.0990990990990991,Complete Physical Attendance,Maybe
+0-18,Male,Student in College,Other/not working,9,7,0.5,3,2,-0.5,0.5,1.0,1.0,-0.5,0.0,0.009009009009009009,0.9900900900900901,Complete Physical Attendance,Maybe
+0-18,Male,Student in College,Other/not working,5,4,0.5,5,5,-1.0,0.0,0.0,1.0,1.0,1.0,0.08918918918918918,0.0,Complete Physical Attendance,No
+0-18,Male,Student in College,Other/not working,7,7,0.5,5,2,-1.0,-1.0,0.5,1.0,-1.0,0.5,0.9,1.0,Complete Physical Attendance,Maybe
+19-25,Male,Student in College,Other/not working,7,11,0.5,2,4,0.0,-0.5,-1.0,-0.5,-1.0,-0.5,0.909009009009009,0.9900900900900901,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,5,5,1.5,2,3,-0.5,-1.0,-1.0,-1.0,-1.0,-0.5,0.909009009009009,0.9990990990990991,Complete Physical Attendance,Maybe
+19-25,Female,Student in College,Other/not working,5,5,0.5,1,1,1.0,1.0,0.5,0.5,1.0,0.5,0.9990990990990991,0.0,Work/study from home,Yes
+0-18,Female,Student in College,Other/not working,4,9,0.5,1,2,-1.0,-1.0,1.0,-0.5,0.5,0.5,0.09009009009009009,0.9900900900900901,Work/study from home,Yes
+0-18,Male,Student in College,Other/not working,5,5,1.5,4,4,-0.5,-0.5,0.0,0.5,-0.5,0.0,0.9,0.9099099099099099,Complete Physical Attendance,Maybe
+19-25,Male,Student in College,Other/not working,5,5,0.5,3,3,0.0,0.5,0.5,1.0,0.5,0.5,0.9990990990990991,1.0,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,7,7,0.5,4,3,-1.0,-1.0,-0.5,0.0,0.0,-1.0,0.9,0.9900900900900901,Complete Physical Attendance,Maybe
+19-25,Female,Student in College,Other/not working,5,7,1.5,3,2,0.5,-0.5,-0.5,0.0,0.0,0.0,0.9,0.9900900900900901,Complete Physical Attendance,Maybe
+0-18,Male,Student in College,Other/not working,7,7,0.5,3,2,-0.5,0.0,-0.5,1.0,0.0,0.0,0.9990990990990991,0.9,Work/study from home,Yes
+19-25,Female,Student in College,Other/not working,5,5,0.5,3,4,-0.5,-1.0,0.0,-0.5,-1.0,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+33-40,Female,Homemaker,Other/not working,4,4,1.5,4,2,-0.5,-0.5,0.5,0.5,-0.5,-0.5,0.9,0.9900900900900901,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,7,1.5,3,3,0.0,0.0,-0.5,1.0,-0.5,0.0,1.0,0.9990990990990991,Complete Physical Attendance,No
+0-18,Female,Student in School,Other/not working,5,5,0.5,3,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9099099099099099,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,9,5,0.5,4,3,0.0,-0.5,0.0,-1.0,-0.5,0.0,0.909009009009009,1.0,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,11,5,0.5,1,1,-0.5,-1.0,1.0,0.5,1.0,1.0,0.9900900900900901,0.0,Work/study from home,Yes
+0-18,Male,Student in College,Other/not working,9,5,0.5,4,4,-0.5,0.5,0.5,0.5,-0.5,0.0,0.9990990990990991,0.9099099099099099,Complete Physical Attendance,Yes
+0-18,Male,Student in College,Other/not working,7,5,0.5,4,5,-1.0,-1.0,0.5,1.0,-0.5,0.5,0.9,1.0,Complete Physical Attendance,Maybe
+0-18,Male,Student in College,Other/not working,7,9,0.5,5,2,-1.0,0.0,-1.0,1.0,-1.0,-0.5,0.008108108108108109,1.0,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,5,5,0.5,2,2,0.0,-0.5,0.5,0.5,-1.0,0.0,0.08918918918918918,1.0,Work/study from home,Maybe
+19-25,Male,Student in College,Other/not working,7,5,0.5,2,1,0.0,-1.0,0.5,0.5,-0.5,0.0,0.9990990990990991,0.0,Complete Physical Attendance,Maybe
+19-25,Male,Student in College,Other/not working,9,7,3.0,3,3,0.5,-1.0,0.5,0.0,-0.5,-0.5,0.9009009009009009,0.0,Work/study from home,Yes
+19-25,Male,Student in College,Other/not working,5,7,0.5,1,2,0.5,0.5,0.0,0.5,0.0,0.5,0.9,0.9900900900900901,Work/study from home,Yes
+19-25,Female,Student in College,Other/not working,7,7,0.5,4,4,0.0,0.0,0.5,1.0,1.0,0.0,0.9,0.9,Complete Physical Attendance,Maybe
+19-25,Male,Student in College,Other/not working,7,11,0.5,5,2,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,0.08918918918918918,1.0,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,5,7,0.5,4,2,0.0,0.0,0.5,0.0,-0.5,-0.5,0.9,1.0,Complete Physical Attendance,Maybe
+0-18,Male,Student in College,Other/not working,5,5,0.5,5,5,-1.0,-1.0,-1.0,0.5,-0.5,-0.5,0.08918918918918918,0.0,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,11,7,2.5,1,1,0.5,1.0,0.5,1.0,1.0,1.0,0.9990990990990991,0.9900900900900901,Work/study from home,Yes
+19-25,Female,Student in College,Other/not working,7,4,0.5,4,5,-0.5,-1.0,0.0,0.0,-1.0,-0.5,0.008108108108108109,0.990990990990991,Complete Physical Attendance,Maybe
+19-25,Female,Student in College,Other/not working,7,9,0.5,3,2,-0.5,-0.5,0.5,0.5,0.0,0.5,0.08918918918918918,1.0,Complete Physical Attendance,Maybe
+0-18,Prefer not to say,Student in School,Other/not working,9,11,1.5,2,4,0.0,-1.0,1.0,0.5,-1.0,-1.0,0.9009009009009009,1.0,Work/study from home,Yes
+19-25,Male,Student in College,Other/not working,11,5,0.5,2,4,-1.0,0.5,1.0,1.0,0.5,1.0,0.9900900900900901,0.9,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,5,4,0.5,1,3,0.0,0.0,1.0,1.0,0.5,1.0,0.9990990990990991,0.9,Work/study from home,Yes
+19-25,Male,Student in College,Other/not working,7,9,0.5,4,3,-1.0,-1.0,-0.5,0.0,-1.0,-0.5,1.0,0.990990990990991,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,9,0.5,3,1,0.0,-0.5,1.0,0.5,0.0,0.0,0.9900900900900901,0.9009009009009009,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,7,7,0.5,3,4,-0.5,0.5,1.0,1.0,0.5,0.5,0.08918918918918918,1.0,Complete Physical Attendance,Maybe
+0-18,Male,Student in College,Other/not working,12,12,0.5,5,5,-1.0,0.0,0.0,0.0,0.0,0.0,0.9,0.008108108108108109,Complete Physical Attendance,No
+0-18,Female,Student in College,Other/not working,11,7,2.5,4,5,-0.5,0.0,-0.5,1.0,0.0,1.0,0.09009009009009009,0.909009009009009,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,7,2.5,3,3,0.0,0.0,0.0,0.0,0.0,0.0,0.9,1.0,Complete Physical Attendance,Maybe
+19-25,Male,Student in College,Other/not working,5,5,0.5,4,2,-0.5,-0.5,0.0,0.0,-0.5,-0.5,0.008108108108108109,1.0,Complete Physical Attendance,No
+19-25,Female,Student in College,Other/not working,5,4,0.5,1,3,0.0,0.0,0.5,0.0,-0.5,-0.5,0.008108108108108109,0.990990990990991,Complete Physical Attendance,Maybe
+19-25,Female,Student in College,Other/not working,5,12,0.5,5,3,-0.5,-1.0,-1.0,-1.0,-1.0,-1.0,0.008108108108108109,0.9900900900900901,Complete Physical Attendance,No
+0-18,Male,Student in College,Other/not working,5,7,0.5,3,4,-0.5,-0.5,0.0,0.0,-1.0,-0.5,0.08918918918918918,0.9,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,5,7,0.5,4,3,0.0,0.5,0.5,0.5,-0.5,0.0,0.9990990990990991,1.0,Complete Physical Attendance,Maybe
+19-25,Female,Student in College,Other/not working,5,7,0.5,4,4,-0.5,-1.0,-0.5,0.0,-0.5,-0.5,0.09009009009009009,0.09009009009009009,Complete Physical Attendance,No
+19-25,Female,Student in College,Other/not working,5,7,0.5,4,4,0.5,-1.0,0.5,1.0,0.0,-0.5,0.9,1.0,Complete Physical Attendance,Yes
+19-25,Female,Student in College,Other/not working,7,12,3.0,3,3,-0.5,-0.5,-0.5,0.5,-0.5,-0.5,1.0,1.0,Complete Physical Attendance,Maybe
+19-25,Male,Student in College,Other/not working,5,9,0.5,5,3,0.0,0.5,-0.5,0.5,-0.5,-0.5,0.008108108108108109,0.9,Work/study from home,Maybe
+0-18,Male,Student in College,Other/not working,7,9,1.5,4,3,0.0,0.0,0.5,0.5,0.0,0.0,0.9900900900900901,1.0,Complete Physical Attendance,Maybe
+19-25,Male,Student in College,Other/not working,7,11,2.5,2,1,0.5,-1.0,-1.0,0.5,0.5,0.5,0.9990990990990991,0.990990990990991,Work/study from home,Yes
+19-25,Female,Student in College,Other/not working,9,11,1.5,3,3,0.5,-1.0,-0.5,0.0,-1.0,0.0,0.9900900900900901,0.990990990990991,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,7,7,0.5,3,4,0.5,0.0,1.0,1.0,0.5,0.0,0.909009009009009,1.0,Complete Physical Attendance,Yes
+0-18,Female,Student in College,Other/not working,5,4,0.5,3,3,0.0,-0.5,0.5,1.0,0.0,0.5,0.9,0.990990990990991,Complete Physical Attendance,Maybe
+0-18,Female,Student in College,Other/not working,5,4,0.5,3,3,0.0,-0.5,0.5,1.0,0.0,0.5,0.9,0.990990990990991,Complete Physical Attendance,Maybe
+19-25,Male,Student in College,Other/not working,9,12,0.5,3,3,0.0,-0.5,-0.5,0.0,-0.5,-0.5,0.9,0.9900900900900901,Complete Physical Attendance,Maybe
+19-25,Male,Student in College,Other/not working,7,4,0.5,2,2,0.5,-0.5,0.5,1.0,0.0,0.5,0.9900900900900901,0.9,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,7,5,0.5,4,4,0.0,-0.5,0.0,0.0,-0.5,0.0,0.9,0.990990990990991,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,5,7,0.5,4,3,-1.0,-0.5,0.0,-0.5,0.0,-1.0,0.9099099099099099,0.009009009009009009,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,7,4,1.5,3,3,-0.5,-0.5,0.5,0.0,0.5,1.0,0.909009009009009,1.0,Complete Physical Attendance,Maybe
+19-25,Male,Student in College,Other/not working,5,4,0.5,2,5,-1.0,-1.0,1.0,0.5,1.0,1.0,1.0,0.9,Complete Physical Attendance,Maybe
+19-25,Male,Student in College,Other/not working,7,9,0.5,4,4,0.0,0.0,0.0,0.0,0.0,0.0,0.9,0.9,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,7,7,1.5,3,3,0.0,0.5,-0.5,1.0,-0.5,0.0,0.0990990990990991,1.0,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,5,7,0.5,5,2,1.0,1.0,1.0,1.0,0.0,1.0,0.990990990990991,0.990990990990991,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,12,12,0.5,1,3,-1.0,-1.0,0.0,0.0,0.0,0.0,0.9990990990990991,1.0,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,7,7,0.5,3,3,-1.0,-1.0,-1.0,-1.0,-0.5,0.0,0.9,0.008108108108108109,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,5,1.5,1,2,1.0,1.0,1.0,1.0,1.0,1.0,0.9990990990990991,0.0,Work/study from home,Yes
+19-25,Male,Working Professional,APSPDCL ,5,5,1.5,2,2,0.5,0.5,0.5,0.5,0.5,0.5,0.9990990990990991,0.990990990990991,Complete Physical Attendance,Maybe
+19-25,Male,Student in College,Other/not working,5,9,1.5,4,2,0.0,-1.0,-1.0,0.5,-0.5,-0.5,0.9900900900900901,1.0,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,5,1.5,3,3,0.0,-1.0,0.0,1.0,0.5,1.0,0.9,0.9900900900900901,Complete Physical Attendance,Maybe
+19-25,Male,Student in College,Other/not working,7,7,1.5,3,3,0.5,0.0,0.0,1.0,0.5,0.5,0.9990990990990991,0.990990990990991,Work/study from home,Maybe
+19-25,Female,Currently Out of Work,Other/not working,7,4,0.5,2,4,-0.5,-0.5,-0.5,0.5,0.0,0.0,0.08918918918918918,1.0,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,7,11,1.5,1,2,1.0,0.5,1.0,1.0,0.5,1.0,0.9900900900900901,0.008108108108108109,Work/study from home,Yes
+19-25,Male,Student in College,Other/not working,9,4,1.5,1,5,-1.0,-0.5,-1.0,-1.0,-1.0,-1.0,0.9990990990990991,0.009009009009009009,Work/study from home,No
+19-25,Male,Entrepreneur,Other/not working,5,4,1.5,2,1,-0.5,-0.5,0.0,0.5,-1.0,-0.5,0.9,0.9,Complete Physical Attendance,Maybe
+19-25,Male,Student in College,Other/not working,7,4,0.5,4,3,-0.5,-1.0,0.0,-1.0,0.5,-0.5,0.909009009009009,1.0,Complete Physical Attendance,Yes
+19-25,Male,Working Professional,Architecture,11,7,1.5,4,5,0.0,0.0,0.0,-1.0,-1.0,0.0,0.09009009009009009,0.990990990990991,Complete Physical Attendance,No
+19-25,Female,Student in College,Other/not working,7,5,2.5,1,5,-1.0,-0.5,0.5,0.5,-0.5,0.0,0.08918918918918918,1.0,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,4,1.5,2,1,0.0,1.0,1.0,0.5,0.5,0.0,0.990990990990991,0.909009009009009,Work/study from home,Maybe
+0-18,Male,Student in College,Other/not working,5,4,0.5,1,3,-0.5,-0.5,-0.5,0.5,0.5,0.5,0.9900900900900901,0.9009009009009009,Complete Physical Attendance,Maybe
+19-25,Female,Student in College,Other/not working,9,5,1.5,3,5,-0.5,-0.5,0.5,0.5,0.0,0.5,0.008108108108108109,1.0,Complete Physical Attendance,Maybe
+19-25,Male,Student in College,Other/not working,5,7,0.5,2,3,0.0,-1.0,0.0,1.0,0.0,0.0,0.08918918918918918,0.990990990990991,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,5,0.5,2,1,0.5,0.5,1.0,1.0,0.5,1.0,0.9,0.9,Work/study from home,Yes
+19-25,Male,Student in College,Other/not working,4,9,0.5,1,3,0.5,0.5,0.5,0.5,0.5,0.5,0.9,0.08918918918918918,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,7,9,0.5,4,5,-1.0,0.0,-1.0,-0.5,-0.5,-0.5,0.909009009009009,1.0,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,11,3.0,2,2,0.0,-0.5,-1.0,-1.0,-0.5,-1.0,0.9,0.9009009009009009,Work/study from home,Yes
+19-25,Male,Student in College,Other/not working,7,4,0.5,3,4,0.0,0.0,0.0,1.0,0.5,0.5,0.9900900900900901,0.009009009009009009,Complete Physical Attendance,Maybe
+19-25,Male,Student in College,Other/not working,7,9,0.5,3,3,0.0,0.5,-0.5,0.5,0.5,0.5,0.9,0.9990990990990991,Complete Physical Attendance,Maybe
+19-25,Male,Student in College,Other/not working,9,5,3.0,3,3,-0.5,0.0,0.5,0.5,0.5,0.0,1.0,0.990990990990991,Complete Physical Attendance,Maybe
+19-25,Female,Working Professional,Architect,7,4,0.5,1,1,0.0,-1.0,1.0,1.0,0.5,0.5,1.0,0.0990990990990991,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,7,4,1.5,1,1,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.08918918918918918,Work/study from home,Yes
+19-25,Female,Student in College,Other/not working,7,5,0.5,3,4,0.0,0.0,0.5,0.5,0.5,0.5,0.0981981981981982,0.9009009009009009,Work/study from home,Yes
+19-25,Male,Working Professional,Engineering,7,9,0.5,2,4,0.0,0.5,-0.5,0.0,-0.5,0.0,0.909009009009009,0.9099099099099099,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,9,4,0.5,3,3,0.5,-0.5,0.5,0.5,0.5,0.0,0.0990990990990991,0.9900900900900901,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,7,7,1.5,3,4,-0.5,0.5,1.0,1.0,-0.5,-0.5,0.909009009009009,0.9990990990990991,Complete Physical Attendance,Yes
+0-18,Female,Student in School,Other/not working,5,4,0.5,4,4,-1.0,-0.5,0.0,0.0,-1.0,0.5,0.9,0.990990990990991,Complete Physical Attendance,Maybe
+19-25,Female,Currently Out of Work,Other/not working,7,4,0.5,2,3,0.0,-1.0,0.5,1.0,0.0,0.0,1.0,0.9,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,9,9,0.5,4,3,-0.5,-0.5,-1.0,-0.5,0.0,-1.0,0.08918918918918918,0.08918918918918918,Complete Physical Attendance,No
+19-25,Male,Entrepreneur,Other/not working,4,4,0.5,2,1,1.0,0.5,0.5,0.0,0.5,0.0,0.990990990990991,0.9900900900900901,Work/study from home,Maybe
+19-25,Male,Student in College,Other/not working,9,4,0.5,3,2,-0.5,-0.5,0.5,0.5,0.0,0.5,1.0,1.0,Complete Physical Attendance,Maybe
+19-25,Male,Student in College,Other/not working,7,4,0.5,2,2,0.0,0.0,0.5,0.5,0.5,0.5,0.9900900900900901,1.0,Complete Physical Attendance,Maybe
+19-25,Male,Currently Out of Work,Other/not working,9,4,1.5,5,3,-0.5,-0.5,0.5,0.5,0.0,0.5,0.9,0.0,Complete Physical Attendance,Yes
+19-25,Female,Student in College,Other/not working,5,4,0.5,3,1,0.0,1.0,0.5,0.5,0.0,0.5,0.9900900900900901,0.9,Complete Physical Attendance,Maybe
+19-25,Female,Student in College,Other/not working,7,7,0.5,3,2,0.5,0.5,0.5,0.5,0.5,0.5,0.9990990990990991,1.0,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,5,5,0.5,3,3,0.0,0.0,0.0,0.0,0.0,0.0,0.08918918918918918,0.0,Complete Physical Attendance,Maybe
+60+,Prefer not to say,Homemaker,Other/not working,12,12,3.0,1,2,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,1.0,1.0,Complete Physical Attendance,Maybe
+19-25,Male,Student in College,Other/not working,5,4,0.5,2,3,0.0,-0.5,0.0,0.0,0.0,0.0,0.909009009009009,0.9990990990990991,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,7,4,0.5,3,4,-0.5,-1.0,0.5,0.5,-0.5,0.5,0.9990990990990991,1.0,Complete Physical Attendance,No
+40-50,Female,Homemaker,Other/not working,7,9,0.5,3,3,0.0,-0.5,0.5,1.0,0.5,-0.5,0.9900900900900901,0.09009009009009009,Complete Physical Attendance,Yes
+40-50,Male,Working Professional,Engineering,9,11,2.5,3,3,-0.5,-0.5,1.0,0.5,-1.0,0.5,0.9900900900900901,0.9009009009009009,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,5,7,0.5,1,3,0.5,-0.5,0.5,0.5,0.5,0.5,0.9900900900900901,0.0981981981981982,Work/study from home,Yes
+19-25,Male,Student in College,Other/not working,5,5,2.5,2,2,0.5,-0.5,1.0,0.5,0.5,0.5,0.9900900900900901,0.009009009009009009,Work/study from home,Yes
+19-25,Male,Entrepreneur,Other/not working,7,5,0.5,3,3,-0.5,-1.0,0.5,0.0,-0.5,0.0,0.9900900900900901,0.0990990990990991,Complete Physical Attendance,Maybe
+0-18,Male,Student in School,Other/not working,7,5,0.5,3,3,0.5,0.0,1.0,1.0,0.5,0.5,0.9,0.9,Work/study from home,Yes
+19-25,Female,Student in College,Other/not working,7,4,1.5,2,4,-0.5,0.5,0.0,1.0,-1.0,0.0,0.08918918918918918,0.008108108108108109,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,9,4,2.5,5,3,-1.0,-1.0,-1.0,0.5,0.0,-1.0,0.0,0.9,Complete Physical Attendance,Maybe
+0-18,Male,Student in School,Other/not working,7,5,0.5,2,1,0.0,0.5,0.5,1.0,0.5,0.5,0.9,0.0990990990990991,Complete Physical Attendance,Yes
+0-18,Male,Student in College,Other/not working,7,5,0.5,2,3,0.0,0.0,0.0,0.0,0.0,0.0,0.008108108108108109,0.9,Complete Physical Attendance,Maybe
+0-18,Prefer not to say,Student in School,Other/not working,7,4,0.5,1,1,-0.5,-1.0,-0.5,0.0,0.0,0.5,0.0,0.008108108108108109,Work/study from home,Yes
+40-50,Male,Working Professional,Engineering,9,12,1.5,3,3,0.0,0.5,-1.0,-1.0,-1.0,-1.0,0.9,0.9,Work/study from home,Yes
+19-25,Male,Student in College,Other/not working,7,4,0.5,4,2,-1.0,-0.5,-1.0,0.0,0.0,-0.5,0.9990990990990991,0.0981981981981982,Work/study from home,Yes
+19-25,Male,Working Professional,Architect,7,7,1.5,4,2,-0.5,0.0,-0.5,0.0,-0.5,-0.5,0.9,0.9,Work/study from home,Maybe
+0-18,Male,Student in School,Other/not working,11,7,0.5,1,3,0.0,0.0,0.0,0.0,0.0,0.0,0.909009009009009,1.0,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,5,4,0.5,2,3,0.0,0.5,0.5,0.5,0.0,0.5,0.9900900900900901,0.9990990990990991,Complete Physical Attendance,No
+0-18,Female,Student in College,Other/not working,4,4,1.5,1,3,0.0,-0.5,1.0,0.5,0.0,0.0,1.0,1.0,Complete Physical Attendance,Yes
+0-18,Male,Student in School,Other/not working,7,7,0.5,1,3,0.0,-0.5,0.5,0.0,0.5,-0.5,0.909009009009009,0.9990990990990991,Complete Physical Attendance,No
+0-18,Male,Student in School,Other/not working,5,5,0.5,2,3,0.0,0.0,0.5,1.0,0.5,0.5,0.008108108108108109,0.009009009009009009,Work/study from home,Maybe
+0-18,Male,Student in School,Other/not working,7,7,0.5,3,3,0.0,0.0,0.0,0.0,0.5,0.5,0.008108108108108109,0.0,Complete Physical Attendance,Maybe
+0-18,Female,Student in College,Other/not working,7,5,0.5,3,4,0.0,0.5,0.5,0.5,-0.5,0.5,0.0,0.008108108108108109,Complete Physical Attendance,No
+0-18,Male,Student in College,Other/not working,4,5,1.5,2,5,-1.0,-0.5,1.0,0.0,-1.0,0.5,0.9,0.9,Complete Physical Attendance,Maybe
+0-18,Male,Student in College,Other/not working,4,7,0.5,4,4,0.0,-1.0,0.5,0.5,0.0,0.5,0.9900900900900901,0.9009009009009009,Complete Physical Attendance,Maybe
+0-18,Female,Student in College,Other/not working,9,12,0.5,3,2,0.0,0.5,0.0,0.5,0.0,-0.5,0.9900900900900901,0.9009009009009009,Complete Physical Attendance,No
+26-32,Female,Working Professional,Engineering,7,9,1.5,2,2,0.5,-0.5,1.0,0.0,-0.5,0.0,0.008108108108108109,0.9099099099099099,Work/study from home,Maybe
+19-25,Male,Student in College,Other/not working,7,7,0.5,1,1,-0.5,0.0,1.0,1.0,0.0,0.0,0.08918918918918918,0.9,Work/study from home,Yes
+33-40,Female,Working Professional,Teaching,7,9,1.5,4,4,-0.5,-0.5,-1.0,0.0,-0.5,-0.5,0.0,0.0,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,4,4,0.5,1,5,-1.0,-1.0,-0.5,1.0,-1.0,-1.0,0.9,1.0,Complete Physical Attendance,Yes
+19-25,Female,Working Professional,Teaching,7,9,1.5,5,5,-1.0,-1.0,0.5,0.5,-1.0,-1.0,0.9,0.9009009009009009,Complete Physical Attendance,No
+19-25,Prefer not to say,Student in College,Other/not working,7,7,0.5,1,3,1.0,0.5,1.0,1.0,1.0,1.0,0.08918918918918918,0.008108108108108109,Work/study from home,Yes
+0-18,Male,Student in College,Other/not working,9,5,0.5,2,2,-0.5,0.0,0.5,0.5,0.5,0.0,0.9900900900900901,1.0,Complete Physical Attendance,Yes
+50-60,Male,Retired/Senior Citizen,Other/not working,12,12,0.5,1,1,0.0,0.0,0.0,0.0,0.0,0.0,0.9,0.0,Complete Physical Attendance,No
+19-25,Female,Working Professional,Management,9,9,1.5,2,2,0.5,-0.5,0.5,0.5,0.5,0.5,0.909009009009009,0.0990990990990991,Work/study from home,Yes
+19-25,Female,Student in College,Other/not working,4,7,2.5,2,5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.08918918918918918,Work/study from home,Maybe
+19-25,Male,Student in College,Other/not working,9,4,1.5,3,2,0.0,0.5,0.5,0.5,0.0,0.5,0.909009009009009,0.9009009009009009,Complete Physical Attendance,Yes
+0-18,Male,Student in College,Other/not working,9,7,1.5,4,3,-1.0,-1.0,0.0,1.0,-1.0,0.0,0.0,1.0,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,5,4,0.5,5,3,0.0,0.0,0.0,0.0,0.0,0.0,0.9,0.9,Complete Physical Attendance,Maybe
+19-25,Male,Student in College,Other/not working,9,5,2.5,2,4,0.0,-0.5,1.0,1.0,0.5,1.0,0.9900900900900901,1.0,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,9,4,2.5,1,1,0.0,-0.5,0.5,0.0,0.0,0.0,0.909009009009009,0.9099099099099099,Complete Physical Attendance,Maybe
+50-60,Male,Working Professional,Engineering,9,11,2.5,4,3,-0.5,-0.5,0.5,0.5,0.0,0.5,0.9900900900900901,0.990990990990991,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,5,7,1.5,4,4,-0.5,0.0,-0.5,0.0,-0.5,0.0,0.08918918918918918,0.08918918918918918,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,5,1.5,1,1,0.5,0.5,0.5,0.5,0.5,0.5,0.008108108108108109,0.990990990990991,Complete Physical Attendance,Yes
+19-25,Female,Student in College,Other/not working,7,11,0.5,4,2,0.0,-0.5,0.0,0.0,-1.0,0.0,0.9,0.9,Complete Physical Attendance,Maybe
+19-25,Male,Student in College,Other/not working,7,7,2.5,3,3,0.0,-0.5,0.5,0.5,0.0,0.0,0.9,0.0,Complete Physical Attendance,Maybe
+40-50,Male,Working Professional,Engineering,9,9,1.5,1,4,0.0,0.5,0.0,0.5,0.5,1.0,0.9,0.9,Work/study from home,Yes
+19-25,Male,Student in College,Other/not working,9,7,0.5,5,5,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,0.9,1.0,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,9,5,3.0,1,3,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,4,7,0.5,4,3,0.5,-0.5,0.0,0.0,-0.5,0.5,0.9,0.990990990990991,Complete Physical Attendance,Yes
+19-25,Female,Student in College,Other/not working,5,5,0.5,4,4,-0.5,-1.0,-1.0,-0.5,-1.0,-1.0,0.9009009009009009,1.0,Complete Physical Attendance,Maybe
+0-18,Female,Student in College,Other/not working,9,7,0.5,3,4,0.0,0.5,0.5,1.0,0.0,0.0,0.9990990990990991,1.0,Complete Physical Attendance,Yes
+19-25,Male,Working Professional,Engineering,7,7,0.5,2,2,1.0,-1.0,-1.0,-1.0,1.0,-1.0,0.9,0.9009009009009009,Complete Physical Attendance,Maybe
+19-25,Male,Student in College,Other/not working,7,5,1.5,3,2,0.0,-0.5,0.0,-0.5,-0.5,0.0,0.0981981981981982,0.08918918918918918,Complete Physical Attendance,No
+40-50,Female,Homemaker,Other/not working,5,9,0.5,1,2,0.5,0.0,0.5,0.5,0.0,0.0,0.08918918918918918,0.008108108108108109,Work/study from home,Maybe
+19-25,Male,Student in College,Other/not working,7,7,0.5,5,4,-1.0,-0.5,-1.0,-1.0,-0.5,-1.0,0.9990990990990991,0.9,Complete Physical Attendance,Maybe
+19-25,Male,Working Professional,Engineering,7,4,0.5,3,3,-0.5,0.5,0.5,0.5,0.5,0.5,0.0,0.0,Complete Physical Attendance,Maybe
+0-18,Male,Student in College,Other/not working,7,9,0.5,4,3,-0.5,-1.0,0.5,0.5,-0.5,0.0,0.08918918918918918,0.9990990990990991,Complete Physical Attendance,No
+19-25,Female,Working Professional,Other,9,9,0.5,3,2,0.5,1.0,0.5,1.0,1.0,1.0,0.9099099099099099,1.0,Complete Physical Attendance,Yes
+40-50,Male,Working Professional,Engineering,9,12,1.5,3,3,0.0,0.5,-1.0,-1.0,-1.0,-1.0,0.9,0.9,Work/study from home,Yes
+26-32,Male,Student in College,Other/not working,12,12,0.5,2,1,0.5,0.5,0.5,0.5,0.5,0.5,0.9900900900900901,0.0,Work/study from home,Yes
+33-40,Male,Currently Out of Work,Other/not working,5,7,2.5,4,4,-0.5,0.5,0.5,0.5,1.0,0.5,0.09009009009009009,0.9900900900900901,Work/study from home,Yes
+60+,Female,Homemaker,Other/not working,4,4,0.5,4,4,0.0,0.5,0.5,0.5,0.5,0.5,0.909009009009009,0.9009009009009009,Work/study from home,Yes
+19-25,Male,Working Professional,Architect,7,7,1.5,4,2,-0.5,0.0,-0.5,0.0,-0.5,-0.5,0.9,0.9,Work/study from home,Maybe
+19-25,Male,Student in College,Other/not working,7,5,1.5,3,3,0.0,0.0,0.0,0.0,0.0,0.0,0.9,0.08918918918918918,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,9,4,0.5,3,3,0.5,-0.5,0.5,0.5,0.5,0.0,0.0990990990990991,0.9900900900900901,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,7,11,0.5,3,3,1.0,-1.0,1.0,-1.0,-1.0,1.0,0.008108108108108109,1.0,Complete Physical Attendance,Maybe
+0-18,Male,Student in College,Other/not working,7,5,1.5,5,5,0.0,0.5,-0.5,0.0,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,Maybe
+19-25,Male,Student in College,Other/not working,9,4,1.5,3,1,-0.5,-1.0,0.0,0.0,-0.5,-0.5,0.9,0.9990990990990991,Complete Physical Attendance,Maybe
+19-25,Male,Student in College,Other/not working,5,7,0.5,1,1,1.0,0.5,1.0,1.0,1.0,1.0,0.9990990990990991,0.0,Work/study from home,Yes
+60+,Male,Currently Out of Work,Other/not working,4,4,0.5,5,2,-1.0,1.0,1.0,1.0,1.0,1.0,0.9990990990990991,0.08918918918918918,Work/study from home,Maybe
+50-60,Female,Homemaker,Other/not working,7,9,0.5,1,1,0.0,0.0,0.0,0.0,0.0,0.0,0.08918918918918918,0.08918918918918918,Work/study from home,Maybe
+0-18,Female,Student in School,Other/not working,7,7,0.5,1,4,-0.5,-0.5,1.0,1.0,1.0,1.0,0.0,0.0,Work/study from home,Yes
+33-40,Male,Working Professional,Teaching,11,11,1.5,4,3,0.5,-0.5,0.5,0.5,0.5,0.5,0.9900900900900901,0.09009009009009009,Complete Physical Attendance,No
+60+,Male,Currently Out of Work,Other/not working,4,4,1.5,5,5,-0.5,1.0,1.0,1.0,1.0,1.0,0.9990990990990991,0.0,Work/study from home,Yes
+60+,Male,Working Professional,Other,9,7,1.5,5,2,-0.5,1.0,1.0,1.0,1.0,1.0,0.9990990990990991,0.0,Work/study from home,Yes
+33-40,Prefer not to say,Entrepreneur,Other/not working,9,9,0.5,2,1,1.0,-0.5,1.0,1.0,1.0,1.0,0.9990990990990991,0.9009009009009009,Complete Physical Attendance,Maybe
+40-50,Male,Medical Professional,Other/not working,7,12,1.5,5,5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,0.0981981981981982,0.0,Work/study from home,Maybe
+40-50,Male,Working Professional,Government Employee,7,12,2.5,4,3,-0.5,-1.0,-0.5,-1.0,-1.0,-0.5,0.0981981981981982,0.0,Work/study from home,No
+60+,Male,Currently Out of Work,Other/not working,9,5,1.5,4,3,-1.0,1.0,1.0,1.0,1.0,1.0,0.9990990990990991,0.0,Complete Physical Attendance,No
+50-60,Female,Homemaker,Other/not working,5,12,0.5,1,2,1.0,-0.5,-0.5,-0.5,-0.5,-0.5,0.0981981981981982,0.0,Work/study from home,Maybe
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,2,2,0.5,0.5,1.0,1.0,1.0,0.0,0.9990990990990991,0.09009009009009009,Work/study from home,Yes
+26-32,Male,Working Professional,Management,7,9,1.5,1,1,0.5,0.5,1.0,1.0,0.0,0.5,0.08918918918918918,0.09009009009009009,Complete Physical Attendance,Maybe
+40-50,Female,Working Professional,Teaching,9,9,2.5,2,2,0.0,0.0,0.5,0.5,0.5,0.5,0.9990990990990991,0.0990990990990991,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,7,5,1.5,1,4,-0.5,-0.5,0.0,0.0,0.0,0.0,0.909009009009009,0.9900900900900901,Work/study from home,Maybe
+40-50,Female,Working Professional,Teaching,9,9,2.5,2,2,0.0,0.0,0.5,0.5,0.5,0.5,0.9990990990990991,0.0990990990990991,Complete Physical Attendance,Yes
+26-32,Female,Entrepreneur,Other/not working,11,12,3.0,2,3,1.0,0.0,0.5,0.5,0.5,-0.5,0.08918918918918918,0.9099099099099099,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,7,4,0.5,2,3,0.0,0.0,-1.0,1.0,0.0,-1.0,0.08918918918918918,0.09009009009009009,Work/study from home,Yes
+19-25,Female,Student in College,Other/not working,7,5,1.5,3,2,1.0,1.0,1.0,1.0,1.0,1.0,0.9,0.9,Complete Physical Attendance,Yes
+50-60,Female,Working Professional,Engineering,12,12,1.5,1,1,1.0,1.0,-0.5,0.5,0.5,0.0,0.990990990990991,0.9900900900900901,Work/study from home,Yes
+26-32,Female,Entrepreneur,Other/not working,11,12,3.0,2,3,1.0,0.0,0.5,0.5,0.5,-0.5,0.08918918918918918,0.9099099099099099,Complete Physical Attendance,Yes
+33-40,Female,Working Professional,Teaching,9,9,1.5,2,2,0.5,0.5,0.5,1.0,0.5,0.5,0.9900900900900901,0.9009009009009009,Work/study from home,Yes
+0-18,Male,Student in School,Other/not working,7,5,0.5,4,2,-0.5,0.0,0.5,1.0,0.0,0.0,0.08918918918918918,0.9,Complete Physical Attendance,No
+19-25,Male,Working Professional,Engineering,7,4,0.5,3,3,-0.5,0.5,0.5,0.5,0.5,0.5,0.0,0.0,Complete Physical Attendance,Maybe
+19-25,Male,Student in College,Other/not working,9,5,1.5,2,4,-0.5,-0.5,1.0,1.0,0.5,0.5,0.08918918918918918,1.0,Complete Physical Attendance,Maybe
+19-25,Male,Student in College,Other/not working,7,4,0.5,2,2,-0.5,0.0,-0.5,-1.0,0.0,-1.0,0.9,0.990990990990991,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,7,7,0.5,5,4,-1.0,0.0,-0.5,0.0,-1.0,-1.0,0.9900900900900901,0.990990990990991,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,4,0.5,1,1,0.0,0.0,1.0,0.0,-1.0,1.0,0.008108108108108109,1.0,Complete Physical Attendance,Yes
+0-18,Female,Student in College,Other/not working,7,12,1.5,1,3,1.0,-1.0,0.0,-1.0,1.0,-0.5,1.0,0.9900900900900901,Work/study from home,Yes
+40-50,Female,Entrepreneur,Other/not working,9,12,1.5,4,4,-0.5,-1.0,0.0,-1.0,0.0,0.0,0.08918918918918918,0.9099099099099099,Complete Physical Attendance,Maybe
+19-25,Male,Working Professional,Engineering,9,9,0.5,4,2,-0.5,-0.5,1.0,0.0,-0.5,0.5,0.9,0.9990990990990991,Complete Physical Attendance,Maybe
+19-25,Female,Student in College,Other/not working,9,5,0.5,5,4,-1.0,-1.0,0.0,-1.0,-1.0,-1.0,0.008108108108108109,0.990990990990991,Complete Physical Attendance,Maybe
+26-32,Male,Working Professional,Other,7,5,0.5,3,5,-0.5,-0.5,-0.5,0.5,0.0,-0.5,0.909009009009009,0.990990990990991,Complete Physical Attendance,Yes
+33-40,Male,Working Professional,Engineering,9,9,0.5,2,2,0.5,0.5,0.5,1.0,0.0,0.5,0.9900900900900901,0.0,Work/study from home,Yes
+40-50,Female,Medical Professional,Other/not working,9,4,2.5,3,5,-0.5,0.0,0.0,0.5,0.0,0.0,0.008108108108108109,0.9,Complete Physical Attendance,No
+26-32,Male,Student in College,Other/not working,9,12,0.5,4,4,-0.5,-1.0,-1.0,-0.5,-1.0,-0.5,0.9990990990990991,1.0,Complete Physical Attendance,Maybe
+40-50,Male,Working Professional,Management,9,9,1.5,1,1,1.0,0.5,1.0,1.0,0.5,0.5,0.9900900900900901,0.990990990990991,Work/study from home,Yes
+40-50,Male,Working Professional,Management,9,9,0.5,3,3,0.5,0.0,0.5,0.5,0.5,0.5,0.9,0.08918918918918918,Work/study from home,Yes
+50-60,Male,Working Professional,Management,11,11,1.5,3,3,-0.5,0.0,0.5,0.5,0.5,0.5,0.08918918918918918,0.9,Work/study from home,Yes
+26-32,Female,Homemaker,Other/not working,5,12,0.5,3,5,-0.5,-1.0,-0.5,0.0,-0.5,-0.5,0.08918918918918918,0.0990990990990991,Complete Physical Attendance,Maybe
+26-32,Male,Working Professional,Engineering,9,11,0.5,3,2,0.5,0.5,0.5,0.5,0.0,0.0,1.0,0.0981981981981982,Complete Physical Attendance,Maybe
+26-32,Male,Working Professional,Engineering,11,12,1.5,2,2,0.0,0.0,0.0,-1.0,0.0,-0.5,1.0,0.9900900900900901,Complete Physical Attendance,Yes
+40-50,Male,Working Professional,Engineering,5,5,0.5,2,2,0.5,-0.5,0.5,0.5,0.5,0.5,0.9900900900900901,0.09009009009009009,Work/study from home,Yes
+26-32,Male,Working Professional,Engineering,9,9,1.5,3,5,0.0,0.0,0.0,0.0,0.0,0.0,0.9,1.0,Complete Physical Attendance,No
+26-32,Male,Working Professional,Engineering,9,5,1.5,2,3,0.5,0.5,0.5,0.5,0.5,0.5,0.9009009009009009,0.08918918918918918,Work/study from home,Yes
+26-32,Male,Working Professional,Engineering,11,12,0.5,3,3,0.0,0.0,-1.0,-1.0,0.0,0.0,0.009009009009009009,0.909009009009009,Complete Physical Attendance,Maybe
+26-32,Male,Entrepreneur,Other/not working,5,5,0.5,3,4,-0.5,-1.0,0.5,0.0,0.0,0.0,1.0,0.990990990990991,Complete Physical Attendance,Yes
+26-32,Male,Working Professional,Other,7,5,1.5,3,3,-0.5,0.0,0.5,0.5,0.5,0.5,0.08918918918918918,0.9,Work/study from home,No
+33-40,Male,Working Professional,Other,7,7,3.0,2,5,-0.5,0.5,-0.5,0.5,0.5,0.5,0.9,0.08918918918918918,Complete Physical Attendance,Yes
+50-60,Male,Working Professional,Management,9,9,0.5,2,4,-1.0,0.0,0.5,0.5,-0.5,0.0,0.9900900900900901,0.0,Complete Physical Attendance,Yes
+33-40,Male,Working Professional,Other,11,11,2.5,4,4,0.0,0.0,0.0,-1.0,0.0,-1.0,0.0990990990990991,1.0,Complete Physical Attendance,Yes
+26-32,Male,Working Professional,Engineering,7,9,2.5,3,3,0.5,0.5,0.5,1.0,0.0,0.5,0.9900900900900901,0.9990990990990991,Complete Physical Attendance,Maybe
+26-32,Female,Working Professional,Management,9,12,0.5,2,5,-1.0,-1.0,-1.0,0.5,-1.0,-1.0,0.9,1.0,Complete Physical Attendance,Yes
+40-50,Male,Working Professional,Management,9,11,0.5,2,2,0.5,0.0,0.0,1.0,0.0,0.0,0.9900900900900901,1.0,Complete Physical Attendance,No
+26-32,Prefer not to say,Working Professional,Management,11,11,2.5,2,2,0.0,0.0,0.0,0.0,0.0,0.0,0.9,0.9009009009009009,Complete Physical Attendance,Maybe
+26-32,Male,Working Professional,Management,9,11,1.5,3,2,0.5,1.0,0.0,1.0,0.5,0.5,0.909009009009009,0.990990990990991,Complete Physical Attendance,Yes
+40-50,Male,Working Professional,Management,7,9,0.5,2,2,-0.5,0.0,0.5,0.5,0.0,0.5,0.9900900900900901,0.909009009009009,Complete Physical Attendance,Yes
+40-50,Male,Working Professional,Management,9,11,0.5,2,1,1.0,0.5,0.5,1.0,1.0,1.0,0.9900900900900901,0.909009009009009,Complete Physical Attendance,Yes
+26-32,Male,Working Professional,Management,7,9,0.5,2,1,0.5,0.0,0.5,0.5,0.5,0.5,0.9900900900900901,0.9,Work/study from home,Yes
+40-50,Male,Working Professional,Engineering,9,11,0.5,3,2,0.0,-0.5,0.0,-0.5,-0.5,-0.5,0.9,0.990990990990991,Work/study from home,Yes
+26-32,Male,Working Professional,Other,9,7,1.5,1,3,1.0,1.0,1.0,1.0,1.0,1.0,0.990990990990991,0.9900900900900901,Work/study from home,Yes
+40-50,Male,Working Professional,Engineering,9,12,1.5,2,1,1.0,0.0,-0.5,-0.5,0.5,0.0,0.9,0.0,Work/study from home,Yes
+26-32,Male,Working Professional,Other,9,7,1.5,1,1,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,0.9990990990990991,0.008108108108108109,Work/study from home,Yes
+26-32,Male,Working Professional,Engineering,9,12,0.5,3,3,0.0,-1.0,0.0,0.0,0.0,0.0,0.9900900900900901,1.0,Complete Physical Attendance,Yes
+26-32,Male,Working Professional,Engineering,9,11,0.5,3,2,0.0,0.0,-0.5,1.0,0.5,0.0,1.0,0.909009009009009,Complete Physical Attendance,Yes
+19-25,Male,Working Professional,Other,9,4,0.5,2,2,0.5,-0.5,0.0,1.0,-1.0,-0.5,0.08918918918918918,0.990990990990991,Complete Physical Attendance,Yes
+50-60,Female,Working Professional,Teaching,9,11,1.5,3,2,0.0,-0.5,0.5,0.0,0.0,0.0,0.9,0.009009009009009009,Complete Physical Attendance,No
+26-32,Male,Working Professional,Engineering,9,12,0.5,4,5,0.0,-0.5,-0.5,0.0,-0.5,-0.5,0.08918918918918918,0.9900900900900901,Complete Physical Attendance,No
+40-50,Male,Working Professional,Management,9,9,2.5,2,4,-0.5,0.0,-1.0,-0.5,0.0,0.0,0.9,0.9900900900900901,Complete Physical Attendance,Maybe
+50-60,Male,Working Professional,Management,9,5,1.5,2,1,-0.5,-0.5,-0.5,0.5,0.0,0.5,0.9,0.009009009009009009,Complete Physical Attendance,Yes
+26-32,Male,Working Professional,Other,9,11,0.5,1,5,1.0,-1.0,0.5,0.5,0.0,0.0,1.0,1.0,Complete Physical Attendance,Yes
+50-60,Female,Working Professional,Teaching,7,9,0.5,4,4,-0.5,-0.5,-0.5,-1.0,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+40-50,Female,Working Professional,Teaching,7,7,0.5,1,3,0.5,0.5,0.5,0.5,0.5,0.5,0.9,0.9,Work/study from home,Yes
+40-50,Female,Working Professional,Teaching,9,12,0.5,2,3,0.0,-0.5,0.0,-0.5,-0.5,-0.5,0.08918918918918918,0.0,Complete Physical Attendance,Maybe
+40-50,Female,Working Professional,Teaching,9,11,0.5,3,3,0.0,-1.0,-1.0,-1.0,-1.0,-1.0,0.0,0.9,Complete Physical Attendance,Yes
+40-50,Female,Working Professional,Teaching,7,9,0.5,3,3,0.0,-1.0,-0.5,0.0,-0.5,-0.5,0.9,0.9990990990990991,Complete Physical Attendance,Maybe
+33-40,Male,Working Professional,Engineering,9,11,0.5,1,2,0.0,-1.0,0.0,0.0,0.0,-0.5,1.0,0.990990990990991,Work/study from home,Yes
+26-32,Female,Working Professional,Teaching,7,7,1.5,3,3,0.0,0.0,0.0,0.5,0.0,0.0,0.9,0.9,Work/study from home,Yes
+40-50,Female,Entrepreneur,Other/not working,9,9,0.5,1,1,0.0,0.0,-0.5,1.0,1.0,0.0,0.9009009009009009,0.008108108108108109,Work/study from home,Yes
+26-32,Male,Working Professional,Engineering,9,12,2.5,3,3,-0.5,0.0,-1.0,0.0,0.0,-0.5,0.990990990990991,0.909009009009009,Complete Physical Attendance,Maybe
+50-60,Female,Entrepreneur,Other/not working,5,5,0.5,3,1,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,0.9,1.0,Work/study from home,Maybe
+40-50,Male,Working Professional,Engineering,9,9,0.5,3,4,0.0,0.0,0.5,0.5,0.0,0.5,0.9,0.0,Complete Physical Attendance,Yes
+26-32,Male,Working Professional,Teaching,7,9,0.5,3,4,0.5,-0.5,-0.5,-1.0,-0.5,-0.5,0.9099099099099099,0.9900900900900901,Complete Physical Attendance,Yes
+50-60,Female,Working Professional,Teaching,5,11,0.5,1,1,0.5,0.5,1.0,1.0,1.0,0.0,0.08918918918918918,0.08918918918918918,Work/study from home,Maybe
+26-32,Male,Working Professional,Engineering,7,9,2.5,3,3,0.5,0.5,0.5,1.0,0.0,0.5,0.9900900900900901,0.9990990990990991,Complete Physical Attendance,Maybe
+40-50,Male,Working Professional,Engineering,9,11,1.5,1,1,-1.0,0.0,-1.0,-1.0,-1.0,-1.0,0.9,0.0,Work/study from home,Yes
+33-40,Female,Working Professional,Teaching,9,11,0.5,3,4,-0.5,-0.5,-0.5,0.5,-0.5,0.0,0.9,0.990990990990991,Complete Physical Attendance,No
+33-40,Male,Working Professional,Engineering,11,12,1.5,3,1,0.0,-1.0,-1.0,-1.0,-1.0,-1.0,0.9,0.9,Complete Physical Attendance,Maybe
+33-40,Male,Entrepreneur,Other/not working,5,4,0.5,1,2,0.0,-1.0,0.5,0.5,0.5,-0.5,0.9,0.08918918918918918,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,9,0.5,5,4,0.0,-0.5,0.0,0.0,-0.5,0.0,0.9,0.9990990990990991,Complete Physical Attendance,Yes
+50-60,Male,Working Professional,Government Employee,7,7,1.5,3,4,0.5,0.0,0.5,1.0,0.5,0.5,0.9,0.9900900900900901,Complete Physical Attendance,No
+26-32,Male,Working Professional,Engineering,9,12,0.5,5,1,0.5,-1.0,-1.0,0.5,-0.5,-0.5,0.0981981981981982,1.0,Complete Physical Attendance,Yes
+33-40,Male,Working Professional,Government Employee,5,4,0.5,3,2,-0.5,0.5,0.5,1.0,0.5,0.0,0.08918918918918918,0.990990990990991,Complete Physical Attendance,Maybe
+40-50,Female,Entrepreneur,Other/not working,9,9,0.5,2,1,0.5,-0.5,-0.5,0.5,0.0,0.0,0.008108108108108109,0.0,Complete Physical Attendance,Yes
+33-40,Male,Working Professional,Government Employee,7,5,1.5,4,3,-1.0,0.5,0.0,1.0,0.5,0.0,0.08918918918918918,0.0,Complete Physical Attendance,No
+33-40,Female,Homemaker,Other/not working,5,9,0.5,5,3,0.5,-0.5,0.0,1.0,-0.5,-0.5,0.08918918918918918,0.08918918918918918,Work/study from home,Yes
+26-32,Male,Currently Out of Work,Other/not working,5,4,2.5,4,4,-1.0,0.5,0.0,0.5,-0.5,-0.5,0.08918918918918918,0.990990990990991,Complete Physical Attendance,No
+26-32,Female,Working Professional,Teaching,7,9,1.5,2,3,0.5,-1.0,0.0,0.0,-0.5,-0.5,0.08918918918918918,0.990990990990991,Complete Physical Attendance,Maybe
+26-32,Female,Working Professional,Teaching,7,9,0.5,4,3,0.0,0.0,-0.5,0.0,-0.5,-1.0,0.08918918918918918,0.990990990990991,Complete Physical Attendance,No
+40-50,Male,Working Professional,Management,11,9,1.5,2,1,0.0,-0.5,0.5,0.5,0.5,0.5,0.9900900900900901,0.9900900900900901,Work/study from home,Yes
+50-60,Female,Working Professional,Government Employee,7,5,2.5,1,3,0.0,0.0,0.0,0.0,0.5,0.5,0.9900900900900901,0.08918918918918918,Work/study from home,Yes
+40-50,Male,Working Professional,Engineering,9,9,1.5,3,4,0.0,-0.5,0.0,-0.5,0.0,-0.5,0.9,0.9,Work/study from home,Yes
+50-60,Male,Working Professional,Engineering,7,7,1.5,5,5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Work/study from home,Maybe
+40-50,Male,Working Professional,Engineering,7,7,0.5,2,3,1.0,0.0,0.0,0.5,0.5,0.0,1.0,0.9099099099099099,Work/study from home,Yes
+50-60,Female,Medical Professional,Other/not working,7,5,0.5,3,2,-0.5,-0.5,0.5,-0.5,-0.5,0.5,0.9900900900900901,0.0,Complete Physical Attendance,No
+40-50,Female,Homemaker,Other/not working,7,9,0.5,1,3,-0.5,-0.5,-1.0,-1.0,-1.0,-1.0,0.9900900900900901,0.0981981981981982,Complete Physical Attendance,Yes
+33-40,Male,Working Professional,Management,9,9,2.5,3,1,0.0,0.0,0.0,0.5,0.0,0.0,0.990990990990991,0.9009009009009009,Work/study from home,Maybe
+50-60,Male,Working Professional,Government Employee,9,9,1.5,2,5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,0.0,0.9,Complete Physical Attendance,Maybe
+26-32,Male,Working Professional,Engineering,7,12,0.5,3,5,0.0,-1.0,-1.0,-1.0,-1.0,-1.0,0.9,0.9900900900900901,Complete Physical Attendance,No
+50-60,Male,Working Professional,Engineering,7,9,0.5,4,4,0.0,0.0,0.5,0.5,0.0,0.5,0.9,0.009009009009009009,Work/study from home,Yes
+40-50,Male,Working Professional,Engineering,5,5,0.5,2,2,0.5,-0.5,0.5,0.5,0.5,0.5,0.9900900900900901,0.09009009009009009,Work/study from home,Yes
+33-40,Male,Working Professional,Other,9,9,0.5,2,3,0.5,-0.5,0.0,1.0,0.5,0.0,0.9990990990990991,0.0981981981981982,Complete Physical Attendance,Yes
+50-60,Female,Homemaker,Other/not working,4,4,0.5,1,1,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,0.9,0.0,Complete Physical Attendance,No
+50-60,Male,Entrepreneur,Other/not working,9,12,0.5,1,2,0.0,-0.5,0.5,0.5,0.0,-0.5,0.9,0.9,Work/study from home,Yes
+50-60,Male,Working Professional,Government Employee,9,9,0.5,3,2,0.0,0.0,-0.5,-0.5,-0.5,-0.5,0.0,1.0,Complete Physical Attendance,Maybe
+50-60,Male,Working Professional,Engineering,9,9,1.5,2,2,0.0,0.0,0.0,0.0,0.0,0.0,0.9,0.009009009009009009,Work/study from home,Yes
+50-60,Male,Currently Out of Work,Other/not working,11,4,1.5,2,4,0.0,-0.5,-1.0,0.0,-0.5,0.0,0.09009009009009009,0.9009009009009009,Work/study from home,Yes
+50-60,Male,Working Professional,Government Employee,7,5,1.5,4,4,-0.5,0.0,0.0,-0.5,-0.5,0.0,0.008108108108108109,0.08918918918918918,Complete Physical Attendance,Maybe
+33-40,Male,Working Professional,Other,9,9,0.5,2,3,0.5,-0.5,0.0,1.0,0.5,0.0,0.9990990990990991,0.0981981981981982,Complete Physical Attendance,Yes
+33-40,Female,Medical Professional,Other/not working,5,7,1.5,4,4,-0.5,0.0,-0.5,0.5,-0.5,0.0,0.08918918918918918,0.9099099099099099,Complete Physical Attendance,Maybe
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,1,2,0.5,0.0,0.5,0.5,-0.5,-0.5,0.08918918918918918,0.009009009009009009,Complete Physical Attendance,Maybe
+26-32,Male,Entrepreneur,Other/not working,7,9,1.5,1,2,1.0,-0.5,0.5,-0.5,-0.5,0.0,0.08918918918918918,0.9009009009009009,Complete Physical Attendance,Yes
+40-50,Male,Working Professional,Management,9,11,1.5,4,2,-0.5,-0.5,0.5,1.0,0.5,0.5,0.9900900900900901,1.0,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,12,11,1.5,2,3,0.0,-0.5,0.0,0.0,-0.5,0.5,0.9,1.0,Work/study from home,Yes
+50-60,Female,Working Professional,Teaching,7,7,2.5,5,4,-0.5,0.5,0.5,1.0,0.5,0.5,0.9009009009009009,0.909009009009009,Complete Physical Attendance,No
+40-50,Female,Medical Professional,Other/not working,12,12,1.5,3,2,-0.5,-0.5,-1.0,-1.0,-1.0,-0.5,0.9900900900900901,1.0,Complete Physical Attendance,No
+50-60,Male,Medical Professional,Other/not working,12,12,2.5,3,3,-0.5,-1.0,-1.0,-1.0,-1.0,-0.5,0.9900900900900901,0.9900900900900901,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,4,0.5,1,1,0.0,0.0,0.5,0.5,0.5,0.0,0.9900900900900901,1.0,Complete Physical Attendance,Maybe
+0-18,Male,Student in College,Other/not working,5,4,0.5,3,2,0.0,-0.5,0.0,0.5,-0.5,0.0,0.9009009009009009,1.0,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,5,5,0.5,1,3,0.0,0.0,0.5,0.5,-0.5,0.5,0.9099099099099099,0.9,Complete Physical Attendance,Yes
+0-18,Male,Student in College,Other/not working,7,4,0.5,4,5,-0.5,0.0,0.0,0.5,0.0,0.5,0.08918918918918918,0.0,Complete Physical Attendance,Yes
+33-40,Male,Working Professional,Engineering,9,9,0.5,5,5,-1.0,0.0,0.5,0.5,-0.5,0.0,0.9990990990990991,0.9099099099099099,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,11,12,3.0,3,4,0.5,-1.0,0.0,-0.5,-1.0,-0.5,0.909009009009009,1.0,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,7,0.5,1,3,0.5,-0.5,-0.5,0.0,0.0,0.5,0.909009009009009,1.0,Complete Physical Attendance,Yes
+19-25,Male,Working Professional,Teaching,9,9,0.5,1,3,-0.5,-0.5,0.5,1.0,1.0,1.0,0.9900900900900901,0.9900900900900901,Work/study from home,Yes
+19-25,Female,Entrepreneur,Other/not working,5,11,0.5,1,1,1.0,-1.0,1.0,1.0,1.0,1.0,1.0,0.008108108108108109,Work/study from home,Yes
+26-32,Female,Working Professional,Management,9,11,0.5,4,5,0.0,0.0,0.0,0.0,0.0,0.0,0.9,1.0,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,4,0.5,2,3,0.0,-1.0,0.0,0.0,0.0,0.0,0.9990990990990991,0.0990990990990991,Work/study from home,Yes
+19-25,Male,Working Professional,Engineering,9,11,0.5,4,5,0.0,-0.5,0.5,0.5,0.0,0.5,0.0981981981981982,0.990990990990991,Complete Physical Attendance,Yes
+19-25,Male,Working Professional,Management,7,9,0.5,3,2,1.0,-1.0,-0.5,-1.0,-0.5,0.0,0.9,0.9900900900900901,Complete Physical Attendance,Yes
+19-25,Male,Working Professional,Engineering,4,4,0.5,1,1,1.0,1.0,1.0,1.0,1.0,1.0,0.9900900900900901,0.09009009009009009,Complete Physical Attendance,Yes
+0-18,Male,Student in School,Other/not working,11,7,0.5,2,3,0.5,1.0,-0.5,0.5,0.5,0.5,0.0,0.08918918918918918,Work/study from home,Yes
+19-25,Male,Student in College,Other/not working,7,5,1.5,3,4,0.0,-1.0,-0.5,-0.5,-1.0,0.0,0.9099099099099099,0.9900900900900901,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,7,11,0.5,5,4,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,0.08918918918918918,1.0,Complete Physical Attendance,Maybe
+19-25,Male,Student in College,Other/not working,5,7,1.5,1,5,0.5,-0.5,1.0,0.5,0.5,1.0,0.909009009009009,0.9990990990990991,Work/study from home,Yes
+0-18,Male,Student in School,Other/not working,7,11,0.5,4,2,0.5,1.0,0.5,1.0,0.0,0.5,0.9,0.9,Complete Physical Attendance,No
+50-60,Male,Working Professional,Engineering,9,9,1.5,1,3,0.0,0.0,0.5,0.0,-0.5,-0.5,1.0,0.9990990990990991,Work/study from home,Yes
+19-25,Male,Student in College,Other/not working,9,7,0.5,3,3,-1.0,-0.5,-1.0,-1.0,-1.0,-1.0,0.909009009009009,0.0,Work/study from home,Yes
+26-32,Female,Working Professional,Teaching,9,7,0.5,1,1,1.0,1.0,1.0,1.0,1.0,1.0,0.9900900900900901,0.9,Work/study from home,Yes
+26-32,Female,Working Professional,Teaching,9,7,0.5,1,1,1.0,1.0,1.0,1.0,1.0,1.0,0.9900900900900901,0.9,Work/study from home,Yes
+33-40,Female,Medical Professional,Other/not working,5,7,1.5,4,4,-0.5,0.0,-0.5,0.5,-0.5,0.0,0.08918918918918918,0.9099099099099099,Complete Physical Attendance,Maybe
+40-50,Female,Entrepreneur,Other/not working,9,9,0.5,2,1,0.5,-0.5,-0.5,0.5,0.0,0.0,0.008108108108108109,0.0,Complete Physical Attendance,Yes
+33-40,Male,Working Professional,Government Employee,7,5,1.5,4,3,-1.0,0.5,0.0,1.0,0.5,0.0,0.08918918918918918,0.0,Complete Physical Attendance,No
+26-32,Male,Working Professional,Other,9,11,0.5,1,5,1.0,-1.0,0.5,0.5,0.0,0.0,1.0,1.0,Complete Physical Attendance,Yes
+50-60,Female,Working Professional,Teaching,7,9,0.5,4,4,-0.5,-0.5,-0.5,-1.0,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+40-50,Female,Working Professional,Teaching,7,7,0.5,1,3,0.5,0.5,0.5,0.5,0.5,0.5,0.9,0.9,Work/study from home,Yes
+26-32,Female,Working Professional,Teaching,9,7,0.5,1,1,1.0,1.0,1.0,1.0,1.0,1.0,0.9900900900900901,0.9,Work/study from home,Yes
+26-32,Female,Working Professional,Teaching,9,7,0.5,1,1,1.0,1.0,1.0,1.0,1.0,1.0,0.9900900900900901,0.9,Work/study from home,Yes
+33-40,Female,Medical Professional,Other/not working,5,7,1.5,4,4,-0.5,0.0,-0.5,0.5,-0.5,0.0,0.08918918918918918,0.9099099099099099,Complete Physical Attendance,Maybe
+40-50,Female,Entrepreneur,Other/not working,9,9,0.5,2,1,0.5,-0.5,-0.5,0.5,0.0,0.0,0.008108108108108109,0.0,Complete Physical Attendance,Yes
+33-40,Male,Working Professional,Government Employee,7,5,1.5,4,3,-1.0,0.5,0.0,1.0,0.5,0.0,0.08918918918918918,0.0,Complete Physical Attendance,No
+26-32,Male,Working Professional,Other,9,11,0.5,1,5,1.0,-1.0,0.5,0.5,0.0,0.0,1.0,1.0,Complete Physical Attendance,Yes
+50-60,Female,Working Professional,Teaching,7,9,0.5,4,4,-0.5,-0.5,-0.5,-1.0,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+40-50,Female,Working Professional,Teaching,7,7,0.5,1,3,0.5,0.5,0.5,0.5,0.5,0.5,0.9,0.9,Work/study from home,Yes
+26-32,Female,Working Professional,Teaching,9,7,0.5,1,1,1.0,1.0,1.0,1.0,1.0,1.0,0.9900900900900901,0.9,Work/study from home,Yes
+26-32,Female,Working Professional,Teaching,9,7,0.5,1,1,1.0,1.0,1.0,1.0,1.0,1.0,0.9900900900900901,0.9,Work/study from home,Yes
+33-40,Female,Medical Professional,Other/not working,5,7,1.5,4,4,-0.5,0.0,-0.5,0.5,-0.5,0.0,0.08918918918918918,0.9099099099099099,Complete Physical Attendance,Maybe
+40-50,Female,Entrepreneur,Other/not working,9,9,0.5,2,1,0.5,-0.5,-0.5,0.5,0.0,0.0,0.008108108108108109,0.0,Complete Physical Attendance,Yes
+33-40,Male,Working Professional,Government Employee,7,5,1.5,4,3,-1.0,0.5,0.0,1.0,0.5,0.0,0.08918918918918918,0.0,Complete Physical Attendance,No
+26-32,Male,Working Professional,Other,9,11,0.5,1,5,1.0,-1.0,0.5,0.5,0.0,0.0,1.0,1.0,Complete Physical Attendance,Yes
+50-60,Female,Working Professional,Teaching,7,9,0.5,4,4,-0.5,-0.5,-0.5,-1.0,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+40-50,Female,Working Professional,Teaching,7,7,0.5,1,3,0.5,0.5,0.5,0.5,0.5,0.5,0.9,0.9,Work/study from home,Yes
+26-32,Female,Working Professional,Teaching,9,7,0.5,1,1,1.0,1.0,1.0,1.0,1.0,1.0,0.9900900900900901,0.9,Work/study from home,Yes
+26-32,Female,Working Professional,Teaching,9,7,0.5,1,1,1.0,1.0,1.0,1.0,1.0,1.0,0.9900900900900901,0.9,Work/study from home,Yes
+33-40,Female,Medical Professional,Other/not working,5,7,1.5,4,4,-0.5,0.0,-0.5,0.5,-0.5,0.0,0.08918918918918918,0.9099099099099099,Complete Physical Attendance,Maybe
+40-50,Female,Entrepreneur,Other/not working,9,9,0.5,2,1,0.5,-0.5,-0.5,0.5,0.0,0.0,0.008108108108108109,0.0,Complete Physical Attendance,Yes
+33-40,Male,Working Professional,Government Employee,7,5,1.5,4,3,-1.0,0.5,0.0,1.0,0.5,0.0,0.08918918918918918,0.0,Complete Physical Attendance,No
+26-32,Male,Working Professional,Other,9,11,0.5,1,5,1.0,-1.0,0.5,0.5,0.0,0.0,1.0,1.0,Complete Physical Attendance,Yes
+50-60,Female,Working Professional,Teaching,7,9,0.5,4,4,-0.5,-0.5,-0.5,-1.0,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+40-50,Female,Working Professional,Teaching,7,7,0.5,1,3,0.5,0.5,0.5,0.5,0.5,0.5,0.9,0.9,Work/study from home,Yes
+26-32,Female,Working Professional,Teaching,9,7,0.5,1,1,1.0,1.0,1.0,1.0,1.0,1.0,0.9900900900900901,0.9,Work/study from home,Yes
+26-32,Female,Working Professional,Teaching,9,7,0.5,1,1,1.0,1.0,1.0,1.0,1.0,1.0,0.9900900900900901,0.9,Work/study from home,Yes
+33-40,Female,Medical Professional,Other/not working,5,7,1.5,4,4,-0.5,0.0,-0.5,0.5,-0.5,0.0,0.08918918918918918,0.9099099099099099,Complete Physical Attendance,Maybe
+40-50,Female,Entrepreneur,Other/not working,9,9,0.5,2,1,0.5,-0.5,-0.5,0.5,0.0,0.0,0.008108108108108109,0.0,Complete Physical Attendance,Yes
+33-40,Male,Working Professional,Government Employee,7,5,1.5,4,3,-1.0,0.5,0.0,1.0,0.5,0.0,0.08918918918918918,0.0,Complete Physical Attendance,No
+26-32,Male,Working Professional,Other,9,11,0.5,1,5,1.0,-1.0,0.5,0.5,0.0,0.0,1.0,1.0,Complete Physical Attendance,Yes
+50-60,Female,Working Professional,Teaching,7,9,0.5,4,4,-0.5,-0.5,-0.5,-1.0,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+40-50,Female,Working Professional,Teaching,7,7,0.5,1,3,0.5,0.5,0.5,0.5,0.5,0.5,0.9,0.9,Work/study from home,Yes
+26-32,Female,Working Professional,Teaching,9,7,0.5,1,1,1.0,1.0,1.0,1.0,1.0,1.0,0.9900900900900901,0.9,Work/study from home,Yes
+26-32,Female,Working Professional,Teaching,9,7,0.5,1,1,1.0,1.0,1.0,1.0,1.0,1.0,0.9900900900900901,0.9,Work/study from home,Yes
+33-40,Female,Medical Professional,Other/not working,5,7,1.5,4,4,-0.5,0.0,-0.5,0.5,-0.5,0.0,0.08918918918918918,0.9099099099099099,Complete Physical Attendance,Maybe
+40-50,Female,Entrepreneur,Other/not working,9,9,0.5,2,1,0.5,-0.5,-0.5,0.5,0.0,0.0,0.008108108108108109,0.0,Complete Physical Attendance,Yes
+33-40,Male,Working Professional,Government Employee,7,5,1.5,4,3,-1.0,0.5,0.0,1.0,0.5,0.0,0.08918918918918918,0.0,Complete Physical Attendance,No
+26-32,Male,Working Professional,Other,9,11,0.5,1,5,1.0,-1.0,0.5,0.5,0.0,0.0,1.0,1.0,Complete Physical Attendance,Yes
+50-60,Female,Working Professional,Teaching,7,9,0.5,4,4,-0.5,-0.5,-0.5,-1.0,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+40-50,Female,Working Professional,Teaching,7,7,0.5,1,3,0.5,0.5,0.5,0.5,0.5,0.5,0.9,0.9,Work/study from home,Yes
+26-32,Female,Working Professional,Teaching,9,7,0.5,1,1,1.0,1.0,1.0,1.0,1.0,1.0,0.9900900900900901,0.9,Work/study from home,Yes
+26-32,Female,Working Professional,Teaching,9,7,0.5,1,1,1.0,1.0,1.0,1.0,1.0,1.0,0.9900900900900901,0.9,Work/study from home,Yes
+33-40,Female,Medical Professional,Other/not working,5,7,1.5,4,4,-0.5,0.0,-0.5,0.5,-0.5,0.0,0.08918918918918918,0.9099099099099099,Complete Physical Attendance,Maybe
+40-50,Female,Entrepreneur,Other/not working,9,9,0.5,2,1,0.5,-0.5,-0.5,0.5,0.0,0.0,0.008108108108108109,0.0,Complete Physical Attendance,Yes
+33-40,Male,Working Professional,Government Employee,7,5,1.5,4,3,-1.0,0.5,0.0,1.0,0.5,0.0,0.08918918918918918,0.0,Complete Physical Attendance,No
+26-32,Male,Working Professional,Other,9,11,0.5,1,5,1.0,-1.0,0.5,0.5,0.0,0.0,1.0,1.0,Complete Physical Attendance,Yes
+50-60,Female,Working Professional,Teaching,7,9,0.5,4,4,-0.5,-0.5,-0.5,-1.0,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+40-50,Female,Working Professional,Teaching,7,7,0.5,1,3,0.5,0.5,0.5,0.5,0.5,0.5,0.9,0.9,Work/study from home,Yes
+60+,Male,Currently Out of Work,Other/not working,9,5,1.5,4,3,-1.0,1.0,1.0,1.0,1.0,1.0,0.9990990990990991,0.0,Complete Physical Attendance,No
+50-60,Female,Homemaker,Other/not working,5,12,0.5,1,2,1.0,-0.5,-0.5,-0.5,-0.5,-0.5,0.0981981981981982,0.0,Work/study from home,Maybe
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,2,2,0.5,0.5,1.0,1.0,1.0,0.0,0.9990990990990991,0.09009009009009009,Work/study from home,Yes
+26-32,Male,Working Professional,Management,7,9,1.5,1,1,0.5,0.5,1.0,1.0,0.0,0.5,0.08918918918918918,0.09009009009009009,Complete Physical Attendance,Maybe
+40-50,Female,Working Professional,Teaching,9,9,2.5,2,2,0.0,0.0,0.5,0.5,0.5,0.5,0.9990990990990991,0.0990990990990991,Complete Physical Attendance,Yes
+26-32,Female,Working Professional,Teaching,9,7,0.5,1,1,1.0,1.0,1.0,1.0,1.0,1.0,0.9900900900900901,0.9,Work/study from home,Yes
+33-40,Female,Medical Professional,Other/not working,5,7,1.5,4,4,-0.5,0.0,-0.5,0.5,-0.5,0.0,0.08918918918918918,0.9099099099099099,Complete Physical Attendance,Maybe
+40-50,Female,Entrepreneur,Other/not working,9,9,0.5,2,1,0.5,-0.5,-0.5,0.5,0.0,0.0,0.008108108108108109,0.0,Complete Physical Attendance,Yes
+33-40,Male,Working Professional,Government Employee,7,5,1.5,4,3,-1.0,0.5,0.0,1.0,0.5,0.0,0.08918918918918918,0.0,Complete Physical Attendance,No
+26-32,Male,Working Professional,Other,9,11,0.5,1,5,1.0,-1.0,0.5,0.5,0.0,0.0,1.0,1.0,Complete Physical Attendance,Yes
+50-60,Female,Working Professional,Teaching,7,9,0.5,4,4,-0.5,-0.5,-0.5,-1.0,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+40-50,Female,Working Professional,Teaching,7,7,0.5,1,3,0.5,0.5,0.5,0.5,0.5,0.5,0.9,0.9,Work/study from home,Yes
+60+,Male,Currently Out of Work,Other/not working,9,5,1.5,4,3,-1.0,1.0,1.0,1.0,1.0,1.0,0.9990990990990991,0.0,Complete Physical Attendance,No
+50-60,Female,Homemaker,Other/not working,5,12,0.5,1,2,1.0,-0.5,-0.5,-0.5,-0.5,-0.5,0.0981981981981982,0.0,Work/study from home,Maybe
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,2,2,0.5,0.5,1.0,1.0,1.0,0.0,0.9990990990990991,0.09009009009009009,Work/study from home,Yes
+26-32,Male,Working Professional,Management,7,9,1.5,1,1,0.5,0.5,1.0,1.0,0.0,0.5,0.08918918918918918,0.09009009009009009,Complete Physical Attendance,Maybe
+40-50,Female,Working Professional,Teaching,9,9,2.5,2,2,0.0,0.0,0.5,0.5,0.5,0.5,0.9990990990990991,0.0990990990990991,Complete Physical Attendance,Yes
+26-32,Female,Working Professional,Teaching,9,7,0.5,1,1,1.0,1.0,1.0,1.0,1.0,1.0,0.9900900900900901,0.9,Work/study from home,Yes
+33-40,Female,Medical Professional,Other/not working,5,7,1.5,4,4,-0.5,0.0,-0.5,0.5,-0.5,0.0,0.08918918918918918,0.9099099099099099,Complete Physical Attendance,Maybe
+40-50,Female,Entrepreneur,Other/not working,9,9,0.5,2,1,0.5,-0.5,-0.5,0.5,0.0,0.0,0.008108108108108109,0.0,Complete Physical Attendance,Yes
+33-40,Male,Working Professional,Government Employee,7,5,1.5,4,3,-1.0,0.5,0.0,1.0,0.5,0.0,0.08918918918918918,0.0,Complete Physical Attendance,No
+26-32,Male,Working Professional,Other,9,11,0.5,1,5,1.0,-1.0,0.5,0.5,0.0,0.0,1.0,1.0,Complete Physical Attendance,Yes
+50-60,Female,Working Professional,Teaching,7,9,0.5,4,4,-0.5,-0.5,-0.5,-1.0,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+40-50,Female,Working Professional,Teaching,7,7,0.5,1,3,0.5,0.5,0.5,0.5,0.5,0.5,0.9,0.9,Work/study from home,Yes
+60+,Male,Currently Out of Work,Other/not working,9,5,1.5,4,3,-1.0,1.0,1.0,1.0,1.0,1.0,0.9990990990990991,0.0,Complete Physical Attendance,No
+50-60,Female,Homemaker,Other/not working,5,12,0.5,1,2,1.0,-0.5,-0.5,-0.5,-0.5,-0.5,0.0981981981981982,0.0,Work/study from home,Maybe
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,2,2,0.5,0.5,1.0,1.0,1.0,0.0,0.9990990990990991,0.09009009009009009,Work/study from home,Yes
+26-32,Male,Working Professional,Management,7,9,1.5,1,1,0.5,0.5,1.0,1.0,0.0,0.5,0.08918918918918918,0.09009009009009009,Complete Physical Attendance,Maybe
+40-50,Female,Working Professional,Teaching,9,9,2.5,2,2,0.0,0.0,0.5,0.5,0.5,0.5,0.9990990990990991,0.0990990990990991,Complete Physical Attendance,Yes
+26-32,Female,Working Professional,Teaching,9,7,0.5,1,1,1.0,1.0,1.0,1.0,1.0,1.0,0.9900900900900901,0.9,Work/study from home,Yes
+33-40,Female,Medical Professional,Other/not working,5,7,1.5,4,4,-0.5,0.0,-0.5,0.5,-0.5,0.0,0.08918918918918918,0.9099099099099099,Complete Physical Attendance,Maybe
+40-50,Female,Entrepreneur,Other/not working,9,9,0.5,2,1,0.5,-0.5,-0.5,0.5,0.0,0.0,0.008108108108108109,0.0,Complete Physical Attendance,Yes
+33-40,Male,Working Professional,Government Employee,7,5,1.5,4,3,-1.0,0.5,0.0,1.0,0.5,0.0,0.08918918918918918,0.0,Complete Physical Attendance,No
+26-32,Male,Working Professional,Other,9,11,0.5,1,5,1.0,-1.0,0.5,0.5,0.0,0.0,1.0,1.0,Complete Physical Attendance,Yes
+50-60,Female,Working Professional,Teaching,7,9,0.5,4,4,-0.5,-0.5,-0.5,-1.0,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+40-50,Female,Working Professional,Teaching,7,7,0.5,1,3,0.5,0.5,0.5,0.5,0.5,0.5,0.9,0.9,Work/study from home,Yes
+60+,Male,Currently Out of Work,Other/not working,9,5,1.5,4,3,-1.0,1.0,1.0,1.0,1.0,1.0,0.9990990990990991,0.0,Complete Physical Attendance,No
+50-60,Female,Homemaker,Other/not working,5,12,0.5,1,2,1.0,-0.5,-0.5,-0.5,-0.5,-0.5,0.0981981981981982,0.0,Work/study from home,Maybe
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,2,2,0.5,0.5,1.0,1.0,1.0,0.0,0.9990990990990991,0.09009009009009009,Work/study from home,Yes
+26-32,Male,Working Professional,Management,7,9,1.5,1,1,0.5,0.5,1.0,1.0,0.0,0.5,0.08918918918918918,0.09009009009009009,Complete Physical Attendance,Maybe
+40-50,Female,Working Professional,Teaching,9,9,2.5,2,2,0.0,0.0,0.5,0.5,0.5,0.5,0.9990990990990991,0.0990990990990991,Complete Physical Attendance,Yes
+26-32,Female,Working Professional,Teaching,9,7,0.5,1,1,1.0,1.0,1.0,1.0,1.0,1.0,0.9900900900900901,0.9,Work/study from home,Yes
+33-40,Female,Medical Professional,Other/not working,5,7,1.5,4,4,-0.5,0.0,-0.5,0.5,-0.5,0.0,0.08918918918918918,0.9099099099099099,Complete Physical Attendance,Maybe
+40-50,Female,Entrepreneur,Other/not working,9,9,0.5,2,1,0.5,-0.5,-0.5,0.5,0.0,0.0,0.008108108108108109,0.0,Complete Physical Attendance,Yes
+33-40,Male,Working Professional,Government Employee,7,5,1.5,4,3,-1.0,0.5,0.0,1.0,0.5,0.0,0.08918918918918918,0.0,Complete Physical Attendance,No
+26-32,Male,Working Professional,Other,9,11,0.5,1,5,1.0,-1.0,0.5,0.5,0.0,0.0,1.0,1.0,Complete Physical Attendance,Yes
+50-60,Female,Working Professional,Teaching,7,9,0.5,4,4,-0.5,-0.5,-0.5,-1.0,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+40-50,Female,Working Professional,Teaching,7,7,0.5,1,3,0.5,0.5,0.5,0.5,0.5,0.5,0.9,0.9,Work/study from home,Yes
+60+,Male,Currently Out of Work,Other/not working,9,5,1.5,4,3,-1.0,1.0,1.0,1.0,1.0,1.0,0.9990990990990991,0.0,Complete Physical Attendance,No
+50-60,Female,Homemaker,Other/not working,5,12,0.5,1,2,1.0,-0.5,-0.5,-0.5,-0.5,-0.5,0.0981981981981982,0.0,Work/study from home,Maybe
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,2,2,0.5,0.5,1.0,1.0,1.0,0.0,0.9990990990990991,0.09009009009009009,Work/study from home,Yes
+26-32,Male,Working Professional,Management,7,9,1.5,1,1,0.5,0.5,1.0,1.0,0.0,0.5,0.08918918918918918,0.09009009009009009,Complete Physical Attendance,Maybe
+40-50,Female,Working Professional,Teaching,9,9,2.5,2,2,0.0,0.0,0.5,0.5,0.5,0.5,0.9990990990990991,0.0990990990990991,Complete Physical Attendance,Yes
+26-32,Female,Working Professional,Teaching,9,7,0.5,1,1,1.0,1.0,1.0,1.0,1.0,1.0,0.9900900900900901,0.9,Work/study from home,Yes
+33-40,Female,Medical Professional,Other/not working,5,7,1.5,4,4,-0.5,0.0,-0.5,0.5,-0.5,0.0,0.08918918918918918,0.9099099099099099,Complete Physical Attendance,Maybe
+40-50,Female,Entrepreneur,Other/not working,9,9,0.5,2,1,0.5,-0.5,-0.5,0.5,0.0,0.0,0.008108108108108109,0.0,Complete Physical Attendance,Yes
+33-40,Male,Working Professional,Government Employee,7,5,1.5,4,3,-1.0,0.5,0.0,1.0,0.5,0.0,0.08918918918918918,0.0,Complete Physical Attendance,No
+26-32,Male,Working Professional,Other,9,11,0.5,1,5,1.0,-1.0,0.5,0.5,0.0,0.0,1.0,1.0,Complete Physical Attendance,Yes
+50-60,Female,Working Professional,Teaching,7,9,0.5,4,4,-0.5,-0.5,-0.5,-1.0,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+40-50,Female,Working Professional,Teaching,7,7,0.5,1,3,0.5,0.5,0.5,0.5,0.5,0.5,0.9,0.9,Work/study from home,Yes
+60+,Male,Currently Out of Work,Other/not working,9,5,1.5,4,3,-1.0,1.0,1.0,1.0,1.0,1.0,0.9990990990990991,0.0,Complete Physical Attendance,No
+50-60,Female,Homemaker,Other/not working,5,12,0.5,1,2,1.0,-0.5,-0.5,-0.5,-0.5,-0.5,0.0981981981981982,0.0,Work/study from home,Maybe
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,2,2,0.5,0.5,1.0,1.0,1.0,0.0,0.9990990990990991,0.09009009009009009,Work/study from home,Yes
+26-32,Male,Working Professional,Management,7,9,1.5,1,1,0.5,0.5,1.0,1.0,0.0,0.5,0.08918918918918918,0.09009009009009009,Complete Physical Attendance,Maybe
+40-50,Female,Working Professional,Teaching,9,9,2.5,2,2,0.0,0.0,0.5,0.5,0.5,0.5,0.9990990990990991,0.0990990990990991,Complete Physical Attendance,Yes
+26-32,Female,Working Professional,Teaching,9,7,0.5,1,1,1.0,1.0,1.0,1.0,1.0,1.0,0.9900900900900901,0.9,Work/study from home,Yes
+33-40,Female,Medical Professional,Other/not working,5,7,1.5,4,4,-0.5,0.0,-0.5,0.5,-0.5,0.0,0.08918918918918918,0.9099099099099099,Complete Physical Attendance,Maybe
+40-50,Female,Entrepreneur,Other/not working,9,9,0.5,2,1,0.5,-0.5,-0.5,0.5,0.0,0.0,0.008108108108108109,0.0,Complete Physical Attendance,Yes
+33-40,Male,Working Professional,Government Employee,7,5,1.5,4,3,-1.0,0.5,0.0,1.0,0.5,0.0,0.08918918918918918,0.0,Complete Physical Attendance,No
+26-32,Male,Working Professional,Other,9,11,0.5,1,5,1.0,-1.0,0.5,0.5,0.0,0.0,1.0,1.0,Complete Physical Attendance,Yes
+50-60,Female,Working Professional,Teaching,7,9,0.5,4,4,-0.5,-0.5,-0.5,-1.0,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+40-50,Female,Working Professional,Teaching,7,7,0.5,1,3,0.5,0.5,0.5,0.5,0.5,0.5,0.9,0.9,Work/study from home,Yes
+60+,Male,Currently Out of Work,Other/not working,9,5,1.5,4,3,-1.0,1.0,1.0,1.0,1.0,1.0,0.9990990990990991,0.0,Complete Physical Attendance,No
+50-60,Female,Homemaker,Other/not working,5,12,0.5,1,2,1.0,-0.5,-0.5,-0.5,-0.5,-0.5,0.0981981981981982,0.0,Work/study from home,Maybe
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,2,2,0.5,0.5,1.0,1.0,1.0,0.0,0.9990990990990991,0.09009009009009009,Work/study from home,Yes
+26-32,Male,Working Professional,Management,7,9,1.5,1,1,0.5,0.5,1.0,1.0,0.0,0.5,0.08918918918918918,0.09009009009009009,Complete Physical Attendance,Maybe
+40-50,Female,Working Professional,Teaching,9,9,2.5,2,2,0.0,0.0,0.5,0.5,0.5,0.5,0.9990990990990991,0.0990990990990991,Complete Physical Attendance,Yes
+50-60,Female,Homemaker,Other/not working,4,4,0.5,1,1,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,0.9,0.0,Complete Physical Attendance,No
+33-40,Male,Working Professional,Government Employee,7,5,1.5,4,3,-1.0,0.5,0.0,1.0,0.5,0.0,0.08918918918918918,0.0,Complete Physical Attendance,No
+26-32,Male,Working Professional,Other,9,11,0.5,1,5,1.0,-1.0,0.5,0.5,0.0,0.0,1.0,1.0,Complete Physical Attendance,Yes
+50-60,Female,Working Professional,Teaching,7,9,0.5,4,4,-0.5,-0.5,-0.5,-1.0,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+40-50,Female,Working Professional,Teaching,7,7,0.5,1,3,0.5,0.5,0.5,0.5,0.5,0.5,0.9,0.9,Work/study from home,Yes
+60+,Male,Currently Out of Work,Other/not working,9,5,1.5,4,3,-1.0,1.0,1.0,1.0,1.0,1.0,0.9990990990990991,0.0,Complete Physical Attendance,No
+50-60,Female,Homemaker,Other/not working,5,12,0.5,1,2,1.0,-0.5,-0.5,-0.5,-0.5,-0.5,0.0981981981981982,0.0,Work/study from home,Maybe
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,2,2,0.5,0.5,1.0,1.0,1.0,0.0,0.9990990990990991,0.09009009009009009,Work/study from home,Yes
+26-32,Male,Working Professional,Management,7,9,1.5,1,1,0.5,0.5,1.0,1.0,0.0,0.5,0.08918918918918918,0.09009009009009009,Complete Physical Attendance,Maybe
+40-50,Female,Working Professional,Teaching,9,9,2.5,2,2,0.0,0.0,0.5,0.5,0.5,0.5,0.9990990990990991,0.0990990990990991,Complete Physical Attendance,Yes
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,2,2,0.5,0.5,1.0,1.0,1.0,0.0,0.9990990990990991,0.09009009009009009,Work/study from home,Yes
+26-32,Male,Working Professional,Management,7,9,1.5,1,1,0.5,0.5,1.0,1.0,0.0,0.5,0.08918918918918918,0.09009009009009009,Complete Physical Attendance,Maybe
+40-50,Female,Working Professional,Teaching,9,9,2.5,2,2,0.0,0.0,0.5,0.5,0.5,0.5,0.9990990990990991,0.0990990990990991,Complete Physical Attendance,Yes
+50-60,Female,Homemaker,Other/not working,4,4,0.5,1,1,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,0.9,0.0,Complete Physical Attendance,No
+33-40,Male,Working Professional,Government Employee,7,5,1.5,4,3,-1.0,0.5,0.0,1.0,0.5,0.0,0.08918918918918918,0.0,Complete Physical Attendance,No
+26-32,Male,Working Professional,Other,9,11,0.5,1,5,1.0,-1.0,0.5,0.5,0.0,0.0,1.0,1.0,Complete Physical Attendance,Yes
+50-60,Female,Working Professional,Teaching,7,9,0.5,4,4,-0.5,-0.5,-0.5,-1.0,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+40-50,Female,Working Professional,Teaching,7,7,0.5,1,3,0.5,0.5,0.5,0.5,0.5,0.5,0.9,0.9,Work/study from home,Yes
+60+,Male,Currently Out of Work,Other/not working,9,5,1.5,4,3,-1.0,1.0,1.0,1.0,1.0,1.0,0.9990990990990991,0.0,Complete Physical Attendance,No
+50-60,Female,Homemaker,Other/not working,5,12,0.5,1,2,1.0,-0.5,-0.5,-0.5,-0.5,-0.5,0.0981981981981982,0.0,Work/study from home,Maybe
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,2,2,0.5,0.5,1.0,1.0,1.0,0.0,0.9990990990990991,0.09009009009009009,Work/study from home,Yes
+26-32,Male,Working Professional,Management,7,9,1.5,1,1,0.5,0.5,1.0,1.0,0.0,0.5,0.08918918918918918,0.09009009009009009,Complete Physical Attendance,Maybe
+40-50,Female,Working Professional,Teaching,9,9,2.5,2,2,0.0,0.0,0.5,0.5,0.5,0.5,0.9990990990990991,0.0990990990990991,Complete Physical Attendance,Yes
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,2,2,0.5,0.5,1.0,1.0,1.0,0.0,0.9990990990990991,0.09009009009009009,Work/study from home,Yes
+26-32,Male,Working Professional,Management,7,9,1.5,1,1,0.5,0.5,1.0,1.0,0.0,0.5,0.08918918918918918,0.09009009009009009,Complete Physical Attendance,Maybe
+40-50,Female,Working Professional,Teaching,9,9,2.5,2,2,0.0,0.0,0.5,0.5,0.5,0.5,0.9990990990990991,0.0990990990990991,Complete Physical Attendance,Yes
+50-60,Female,Homemaker,Other/not working,4,4,0.5,1,1,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,0.9,0.0,Complete Physical Attendance,No
+33-40,Male,Working Professional,Government Employee,7,5,1.5,4,3,-1.0,0.5,0.0,1.0,0.5,0.0,0.08918918918918918,0.0,Complete Physical Attendance,No
+26-32,Male,Working Professional,Other,9,11,0.5,1,5,1.0,-1.0,0.5,0.5,0.0,0.0,1.0,1.0,Complete Physical Attendance,Yes
+50-60,Female,Working Professional,Teaching,7,9,0.5,4,4,-0.5,-0.5,-0.5,-1.0,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+40-50,Female,Working Professional,Teaching,7,7,0.5,1,3,0.5,0.5,0.5,0.5,0.5,0.5,0.9,0.9,Work/study from home,Yes
+60+,Male,Currently Out of Work,Other/not working,9,5,1.5,4,3,-1.0,1.0,1.0,1.0,1.0,1.0,0.9990990990990991,0.0,Complete Physical Attendance,No
+50-60,Female,Homemaker,Other/not working,5,12,0.5,1,2,1.0,-0.5,-0.5,-0.5,-0.5,-0.5,0.0981981981981982,0.0,Work/study from home,Maybe
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,2,2,0.5,0.5,1.0,1.0,1.0,0.0,0.9990990990990991,0.09009009009009009,Work/study from home,Yes
+26-32,Male,Working Professional,Management,7,9,1.5,1,1,0.5,0.5,1.0,1.0,0.0,0.5,0.08918918918918918,0.09009009009009009,Complete Physical Attendance,Maybe
+40-50,Female,Working Professional,Teaching,9,9,2.5,2,2,0.0,0.0,0.5,0.5,0.5,0.5,0.9990990990990991,0.0990990990990991,Complete Physical Attendance,Yes
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,2,2,0.5,0.5,1.0,1.0,1.0,0.0,0.9990990990990991,0.09009009009009009,Work/study from home,Yes
+26-32,Male,Working Professional,Management,7,9,1.5,1,1,0.5,0.5,1.0,1.0,0.0,0.5,0.08918918918918918,0.09009009009009009,Complete Physical Attendance,Maybe
+40-50,Female,Working Professional,Teaching,9,9,2.5,2,2,0.0,0.0,0.5,0.5,0.5,0.5,0.9990990990990991,0.0990990990990991,Complete Physical Attendance,Yes
+50-60,Female,Homemaker,Other/not working,4,4,0.5,1,1,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,0.9,0.0,Complete Physical Attendance,No
+33-40,Male,Working Professional,Government Employee,7,5,1.5,4,3,-1.0,0.5,0.0,1.0,0.5,0.0,0.08918918918918918,0.0,Complete Physical Attendance,No
+26-32,Male,Working Professional,Other,9,11,0.5,1,5,1.0,-1.0,0.5,0.5,0.0,0.0,1.0,1.0,Complete Physical Attendance,Yes
+50-60,Female,Working Professional,Teaching,7,9,0.5,4,4,-0.5,-0.5,-0.5,-1.0,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+40-50,Female,Working Professional,Teaching,7,7,0.5,1,3,0.5,0.5,0.5,0.5,0.5,0.5,0.9,0.9,Work/study from home,Yes
+60+,Male,Currently Out of Work,Other/not working,9,5,1.5,4,3,-1.0,1.0,1.0,1.0,1.0,1.0,0.9990990990990991,0.0,Complete Physical Attendance,No
+50-60,Female,Homemaker,Other/not working,5,12,0.5,1,2,1.0,-0.5,-0.5,-0.5,-0.5,-0.5,0.0981981981981982,0.0,Work/study from home,Maybe
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,2,2,0.5,0.5,1.0,1.0,1.0,0.0,0.9990990990990991,0.09009009009009009,Work/study from home,Yes
+26-32,Male,Working Professional,Management,7,9,1.5,1,1,0.5,0.5,1.0,1.0,0.0,0.5,0.08918918918918918,0.09009009009009009,Complete Physical Attendance,Maybe
+40-50,Female,Working Professional,Teaching,9,9,2.5,2,2,0.0,0.0,0.5,0.5,0.5,0.5,0.9990990990990991,0.0990990990990991,Complete Physical Attendance,Yes
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,2,2,0.5,0.5,1.0,1.0,1.0,0.0,0.9990990990990991,0.09009009009009009,Work/study from home,Yes
+26-32,Male,Working Professional,Management,7,9,1.5,1,1,0.5,0.5,1.0,1.0,0.0,0.5,0.08918918918918918,0.09009009009009009,Complete Physical Attendance,Maybe
+40-50,Female,Working Professional,Teaching,9,9,2.5,2,2,0.0,0.0,0.5,0.5,0.5,0.5,0.9990990990990991,0.0990990990990991,Complete Physical Attendance,Yes
+50-60,Female,Homemaker,Other/not working,4,4,0.5,1,1,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,0.9,0.0,Complete Physical Attendance,No
+33-40,Male,Working Professional,Government Employee,7,5,1.5,4,3,-1.0,0.5,0.0,1.0,0.5,0.0,0.08918918918918918,0.0,Complete Physical Attendance,No
+26-32,Male,Working Professional,Other,9,11,0.5,1,5,1.0,-1.0,0.5,0.5,0.0,0.0,1.0,1.0,Complete Physical Attendance,Yes
+50-60,Female,Working Professional,Teaching,7,9,0.5,4,4,-0.5,-0.5,-0.5,-1.0,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+40-50,Female,Working Professional,Teaching,7,7,0.5,1,3,0.5,0.5,0.5,0.5,0.5,0.5,0.9,0.9,Work/study from home,Yes
+60+,Male,Currently Out of Work,Other/not working,9,5,1.5,4,3,-1.0,1.0,1.0,1.0,1.0,1.0,0.9990990990990991,0.0,Complete Physical Attendance,No
+50-60,Female,Homemaker,Other/not working,5,12,0.5,1,2,1.0,-0.5,-0.5,-0.5,-0.5,-0.5,0.0981981981981982,0.0,Work/study from home,Maybe
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,2,2,0.5,0.5,1.0,1.0,1.0,0.0,0.9990990990990991,0.09009009009009009,Work/study from home,Yes
+26-32,Male,Working Professional,Management,7,9,1.5,1,1,0.5,0.5,1.0,1.0,0.0,0.5,0.08918918918918918,0.09009009009009009,Complete Physical Attendance,Maybe
+40-50,Female,Working Professional,Teaching,9,9,2.5,2,2,0.0,0.0,0.5,0.5,0.5,0.5,0.9990990990990991,0.0990990990990991,Complete Physical Attendance,Yes
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,2,2,0.5,0.5,1.0,1.0,1.0,0.0,0.9990990990990991,0.09009009009009009,Work/study from home,Yes
+26-32,Male,Working Professional,Management,7,9,1.5,1,1,0.5,0.5,1.0,1.0,0.0,0.5,0.08918918918918918,0.09009009009009009,Complete Physical Attendance,Maybe
+40-50,Female,Working Professional,Teaching,9,9,2.5,2,2,0.0,0.0,0.5,0.5,0.5,0.5,0.9990990990990991,0.0990990990990991,Complete Physical Attendance,Yes
+50-60,Female,Homemaker,Other/not working,4,4,0.5,1,1,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,0.9,0.0,Complete Physical Attendance,No
+33-40,Male,Working Professional,Government Employee,7,5,1.5,4,3,-1.0,0.5,0.0,1.0,0.5,0.0,0.08918918918918918,0.0,Complete Physical Attendance,No
+26-32,Male,Working Professional,Other,9,11,0.5,1,5,1.0,-1.0,0.5,0.5,0.0,0.0,1.0,1.0,Complete Physical Attendance,Yes
+50-60,Female,Working Professional,Teaching,7,9,0.5,4,4,-0.5,-0.5,-0.5,-1.0,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+40-50,Female,Working Professional,Teaching,7,7,0.5,1,3,0.5,0.5,0.5,0.5,0.5,0.5,0.9,0.9,Work/study from home,Yes
+60+,Male,Currently Out of Work,Other/not working,9,5,1.5,4,3,-1.0,1.0,1.0,1.0,1.0,1.0,0.9990990990990991,0.0,Complete Physical Attendance,No
+50-60,Female,Homemaker,Other/not working,5,12,0.5,1,2,1.0,-0.5,-0.5,-0.5,-0.5,-0.5,0.0981981981981982,0.0,Work/study from home,Maybe
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,2,2,0.5,0.5,1.0,1.0,1.0,0.0,0.9990990990990991,0.09009009009009009,Work/study from home,Yes
+26-32,Male,Working Professional,Management,7,9,1.5,1,1,0.5,0.5,1.0,1.0,0.0,0.5,0.08918918918918918,0.09009009009009009,Complete Physical Attendance,Maybe
+40-50,Female,Working Professional,Teaching,9,9,2.5,2,2,0.0,0.0,0.5,0.5,0.5,0.5,0.9990990990990991,0.0990990990990991,Complete Physical Attendance,Yes
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,2,2,0.5,0.5,1.0,1.0,1.0,0.0,0.9990990990990991,0.09009009009009009,Work/study from home,Yes
+26-32,Male,Working Professional,Management,7,9,1.5,1,1,0.5,0.5,1.0,1.0,0.0,0.5,0.08918918918918918,0.09009009009009009,Complete Physical Attendance,Maybe
+40-50,Female,Working Professional,Teaching,9,9,2.5,2,2,0.0,0.0,0.5,0.5,0.5,0.5,0.9990990990990991,0.0990990990990991,Complete Physical Attendance,Yes
+50-60,Female,Homemaker,Other/not working,4,4,0.5,1,1,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,0.9,0.0,Complete Physical Attendance,No
+33-40,Male,Working Professional,Government Employee,7,5,1.5,4,3,-1.0,0.5,0.0,1.0,0.5,0.0,0.08918918918918918,0.0,Complete Physical Attendance,No
+26-32,Male,Working Professional,Other,9,11,0.5,1,5,1.0,-1.0,0.5,0.5,0.0,0.0,1.0,1.0,Complete Physical Attendance,Yes
+50-60,Female,Working Professional,Teaching,7,9,0.5,4,4,-0.5,-0.5,-0.5,-1.0,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+40-50,Female,Working Professional,Teaching,7,7,0.5,1,3,0.5,0.5,0.5,0.5,0.5,0.5,0.9,0.9,Work/study from home,Yes
+60+,Male,Currently Out of Work,Other/not working,9,5,1.5,4,3,-1.0,1.0,1.0,1.0,1.0,1.0,0.9990990990990991,0.0,Complete Physical Attendance,No
+50-60,Female,Homemaker,Other/not working,5,12,0.5,1,2,1.0,-0.5,-0.5,-0.5,-0.5,-0.5,0.0981981981981982,0.0,Work/study from home,Maybe
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,2,2,0.5,0.5,1.0,1.0,1.0,0.0,0.9990990990990991,0.09009009009009009,Work/study from home,Yes
+26-32,Male,Working Professional,Management,7,9,1.5,1,1,0.5,0.5,1.0,1.0,0.0,0.5,0.08918918918918918,0.09009009009009009,Complete Physical Attendance,Maybe
+40-50,Female,Working Professional,Teaching,9,9,2.5,2,2,0.0,0.0,0.5,0.5,0.5,0.5,0.9990990990990991,0.0990990990990991,Complete Physical Attendance,Yes
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,2,2,0.5,0.5,1.0,1.0,1.0,0.0,0.9990990990990991,0.09009009009009009,Work/study from home,Yes
+26-32,Male,Working Professional,Management,7,9,1.5,1,1,0.5,0.5,1.0,1.0,0.0,0.5,0.08918918918918918,0.09009009009009009,Complete Physical Attendance,Maybe
+40-50,Female,Working Professional,Teaching,9,9,2.5,2,2,0.0,0.0,0.5,0.5,0.5,0.5,0.9990990990990991,0.0990990990990991,Complete Physical Attendance,Yes
+50-60,Female,Homemaker,Other/not working,4,4,0.5,1,1,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,0.9,0.0,Complete Physical Attendance,No
+33-40,Male,Working Professional,Government Employee,7,5,1.5,4,3,-1.0,0.5,0.0,1.0,0.5,0.0,0.08918918918918918,0.0,Complete Physical Attendance,No
+26-32,Male,Working Professional,Other,9,11,0.5,1,5,1.0,-1.0,0.5,0.5,0.0,0.0,1.0,1.0,Complete Physical Attendance,Yes
+50-60,Female,Working Professional,Teaching,7,9,0.5,4,4,-0.5,-0.5,-0.5,-1.0,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+40-50,Female,Working Professional,Teaching,7,7,0.5,1,3,0.5,0.5,0.5,0.5,0.5,0.5,0.9,0.9,Work/study from home,Yes
+60+,Male,Currently Out of Work,Other/not working,9,5,1.5,4,3,-1.0,1.0,1.0,1.0,1.0,1.0,0.9990990990990991,0.0,Complete Physical Attendance,No
+50-60,Female,Homemaker,Other/not working,5,12,0.5,1,2,1.0,-0.5,-0.5,-0.5,-0.5,-0.5,0.0981981981981982,0.0,Work/study from home,Maybe
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,2,2,0.5,0.5,1.0,1.0,1.0,0.0,0.9990990990990991,0.09009009009009009,Work/study from home,Yes
+26-32,Male,Working Professional,Management,7,9,1.5,1,1,0.5,0.5,1.0,1.0,0.0,0.5,0.08918918918918918,0.09009009009009009,Complete Physical Attendance,Maybe
+40-50,Female,Working Professional,Teaching,9,9,2.5,2,2,0.0,0.0,0.5,0.5,0.5,0.5,0.9990990990990991,0.0990990990990991,Complete Physical Attendance,Yes
+50-60,Female,Working Professional,Teaching,7,7,2.5,5,4,-0.5,0.5,0.5,1.0,0.5,0.5,0.9009009009009009,0.909009009009009,Complete Physical Attendance,No
+40-50,Female,Medical Professional,Other/not working,12,12,1.5,3,2,-0.5,-0.5,-1.0,-1.0,-1.0,-0.5,0.9900900900900901,1.0,Complete Physical Attendance,No
+50-60,Male,Medical Professional,Other/not working,12,12,2.5,3,3,-0.5,-1.0,-1.0,-1.0,-1.0,-0.5,0.9900900900900901,0.9900900900900901,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,4,0.5,1,1,0.0,0.0,0.5,0.5,0.5,0.0,0.9900900900900901,1.0,Complete Physical Attendance,Maybe
+0-18,Male,Student in College,Other/not working,5,4,0.5,3,2,0.0,-0.5,0.0,0.5,-0.5,0.0,0.9009009009009009,1.0,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,5,5,0.5,1,3,0.0,0.0,0.5,0.5,-0.5,0.5,0.9099099099099099,0.9,Complete Physical Attendance,Yes
+0-18,Male,Student in College,Other/not working,7,4,0.5,4,5,-0.5,0.0,0.0,0.5,0.0,0.5,0.08918918918918918,0.0,Complete Physical Attendance,Yes
+33-40,Male,Working Professional,Engineering,9,9,0.5,5,5,-1.0,0.0,0.5,0.5,-0.5,0.0,0.9990990990990991,0.9099099099099099,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,11,12,3.0,3,4,0.5,-1.0,0.0,-0.5,-1.0,-0.5,0.909009009009009,1.0,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,7,0.5,1,3,0.5,-0.5,-0.5,0.0,0.0,0.5,0.909009009009009,1.0,Complete Physical Attendance,Yes
+19-25,Male,Working Professional,Teaching,9,9,0.5,1,3,-0.5,-0.5,0.5,1.0,1.0,1.0,0.9900900900900901,0.9900900900900901,Work/study from home,Yes
+19-25,Female,Entrepreneur,Other/not working,5,11,0.5,1,1,1.0,-1.0,1.0,1.0,1.0,1.0,1.0,0.008108108108108109,Work/study from home,Yes
+26-32,Female,Working Professional,Management,9,11,0.5,4,5,0.0,0.0,0.0,0.0,0.0,0.0,0.9,1.0,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,4,0.5,2,3,0.0,-1.0,0.0,0.0,0.0,0.0,0.9990990990990991,0.0990990990990991,Work/study from home,Yes
+50-60,Female,Homemaker,Other/not working,4,4,0.5,1,1,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,0.9,0.0,Complete Physical Attendance,No
+33-40,Male,Working Professional,Government Employee,7,5,1.5,4,3,-1.0,0.5,0.0,1.0,0.5,0.0,0.08918918918918918,0.0,Complete Physical Attendance,No
+26-32,Male,Working Professional,Other,9,11,0.5,1,5,1.0,-1.0,0.5,0.5,0.0,0.0,1.0,1.0,Complete Physical Attendance,Yes
+50-60,Female,Working Professional,Teaching,7,9,0.5,4,4,-0.5,-0.5,-0.5,-1.0,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+40-50,Female,Working Professional,Teaching,7,7,0.5,1,3,0.5,0.5,0.5,0.5,0.5,0.5,0.9,0.9,Work/study from home,Yes
+60+,Male,Currently Out of Work,Other/not working,9,5,1.5,4,3,-1.0,1.0,1.0,1.0,1.0,1.0,0.9990990990990991,0.0,Complete Physical Attendance,No
+50-60,Female,Homemaker,Other/not working,5,12,0.5,1,2,1.0,-0.5,-0.5,-0.5,-0.5,-0.5,0.0981981981981982,0.0,Work/study from home,Maybe
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,2,2,0.5,0.5,1.0,1.0,1.0,0.0,0.9990990990990991,0.09009009009009009,Work/study from home,Yes
+26-32,Male,Working Professional,Management,7,9,1.5,1,1,0.5,0.5,1.0,1.0,0.0,0.5,0.08918918918918918,0.09009009009009009,Complete Physical Attendance,Maybe
+40-50,Female,Working Professional,Teaching,9,9,2.5,2,2,0.0,0.0,0.5,0.5,0.5,0.5,0.9990990990990991,0.0990990990990991,Complete Physical Attendance,Yes
+50-60,Female,Working Professional,Teaching,7,7,2.5,5,4,-0.5,0.5,0.5,1.0,0.5,0.5,0.9009009009009009,0.909009009009009,Complete Physical Attendance,No
+40-50,Female,Medical Professional,Other/not working,12,12,1.5,3,2,-0.5,-0.5,-1.0,-1.0,-1.0,-0.5,0.9900900900900901,1.0,Complete Physical Attendance,No
+50-60,Male,Medical Professional,Other/not working,12,12,2.5,3,3,-0.5,-1.0,-1.0,-1.0,-1.0,-0.5,0.9900900900900901,0.9900900900900901,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,4,0.5,1,1,0.0,0.0,0.5,0.5,0.5,0.0,0.9900900900900901,1.0,Complete Physical Attendance,Maybe
+0-18,Male,Student in College,Other/not working,5,4,0.5,3,2,0.0,-0.5,0.0,0.5,-0.5,0.0,0.9009009009009009,1.0,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,5,5,0.5,1,3,0.0,0.0,0.5,0.5,-0.5,0.5,0.9099099099099099,0.9,Complete Physical Attendance,Yes
+0-18,Male,Student in College,Other/not working,7,4,0.5,4,5,-0.5,0.0,0.0,0.5,0.0,0.5,0.08918918918918918,0.0,Complete Physical Attendance,Yes
+33-40,Male,Working Professional,Engineering,9,9,0.5,5,5,-1.0,0.0,0.5,0.5,-0.5,0.0,0.9990990990990991,0.9099099099099099,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,11,12,3.0,3,4,0.5,-1.0,0.0,-0.5,-1.0,-0.5,0.909009009009009,1.0,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,7,0.5,1,3,0.5,-0.5,-0.5,0.0,0.0,0.5,0.909009009009009,1.0,Complete Physical Attendance,Yes
+19-25,Male,Working Professional,Teaching,9,9,0.5,1,3,-0.5,-0.5,0.5,1.0,1.0,1.0,0.9900900900900901,0.9900900900900901,Work/study from home,Yes
+19-25,Female,Entrepreneur,Other/not working,5,11,0.5,1,1,1.0,-1.0,1.0,1.0,1.0,1.0,1.0,0.008108108108108109,Work/study from home,Yes
+26-32,Female,Working Professional,Management,9,11,0.5,4,5,0.0,0.0,0.0,0.0,0.0,0.0,0.9,1.0,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,4,0.5,2,3,0.0,-1.0,0.0,0.0,0.0,0.0,0.9990990990990991,0.0990990990990991,Work/study from home,Yes
+50-60,Female,Homemaker,Other/not working,4,4,0.5,1,1,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,0.9,0.0,Complete Physical Attendance,No
+33-40,Male,Working Professional,Government Employee,7,5,1.5,4,3,-1.0,0.5,0.0,1.0,0.5,0.0,0.08918918918918918,0.0,Complete Physical Attendance,No
+26-32,Male,Working Professional,Other,9,11,0.5,1,5,1.0,-1.0,0.5,0.5,0.0,0.0,1.0,1.0,Complete Physical Attendance,Yes
+50-60,Female,Working Professional,Teaching,7,9,0.5,4,4,-0.5,-0.5,-0.5,-1.0,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+40-50,Female,Working Professional,Teaching,7,7,0.5,1,3,0.5,0.5,0.5,0.5,0.5,0.5,0.9,0.9,Work/study from home,Yes
+60+,Male,Currently Out of Work,Other/not working,9,5,1.5,4,3,-1.0,1.0,1.0,1.0,1.0,1.0,0.9990990990990991,0.0,Complete Physical Attendance,No
+50-60,Female,Homemaker,Other/not working,5,12,0.5,1,2,1.0,-0.5,-0.5,-0.5,-0.5,-0.5,0.0981981981981982,0.0,Work/study from home,Maybe
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,2,2,0.5,0.5,1.0,1.0,1.0,0.0,0.9990990990990991,0.09009009009009009,Work/study from home,Yes
+26-32,Male,Working Professional,Management,7,9,1.5,1,1,0.5,0.5,1.0,1.0,0.0,0.5,0.08918918918918918,0.09009009009009009,Complete Physical Attendance,Maybe
+40-50,Female,Working Professional,Teaching,9,9,2.5,2,2,0.0,0.0,0.5,0.5,0.5,0.5,0.9990990990990991,0.0990990990990991,Complete Physical Attendance,Yes
+50-60,Female,Working Professional,Teaching,7,7,2.5,5,4,-0.5,0.5,0.5,1.0,0.5,0.5,0.9009009009009009,0.909009009009009,Complete Physical Attendance,No
+40-50,Female,Medical Professional,Other/not working,12,12,1.5,3,2,-0.5,-0.5,-1.0,-1.0,-1.0,-0.5,0.9900900900900901,1.0,Complete Physical Attendance,No
+50-60,Male,Medical Professional,Other/not working,12,12,2.5,3,3,-0.5,-1.0,-1.0,-1.0,-1.0,-0.5,0.9900900900900901,0.9900900900900901,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,4,0.5,1,1,0.0,0.0,0.5,0.5,0.5,0.0,0.9900900900900901,1.0,Complete Physical Attendance,Maybe
+0-18,Male,Student in College,Other/not working,5,4,0.5,3,2,0.0,-0.5,0.0,0.5,-0.5,0.0,0.9009009009009009,1.0,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,5,5,0.5,1,3,0.0,0.0,0.5,0.5,-0.5,0.5,0.9099099099099099,0.9,Complete Physical Attendance,Yes
+0-18,Male,Student in College,Other/not working,7,4,0.5,4,5,-0.5,0.0,0.0,0.5,0.0,0.5,0.08918918918918918,0.0,Complete Physical Attendance,Yes
+33-40,Male,Working Professional,Engineering,9,9,0.5,5,5,-1.0,0.0,0.5,0.5,-0.5,0.0,0.9990990990990991,0.9099099099099099,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,11,12,3.0,3,4,0.5,-1.0,0.0,-0.5,-1.0,-0.5,0.909009009009009,1.0,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,7,0.5,1,3,0.5,-0.5,-0.5,0.0,0.0,0.5,0.909009009009009,1.0,Complete Physical Attendance,Yes
+19-25,Male,Working Professional,Teaching,9,9,0.5,1,3,-0.5,-0.5,0.5,1.0,1.0,1.0,0.9900900900900901,0.9900900900900901,Work/study from home,Yes
+19-25,Female,Entrepreneur,Other/not working,5,11,0.5,1,1,1.0,-1.0,1.0,1.0,1.0,1.0,1.0,0.008108108108108109,Work/study from home,Yes
+26-32,Female,Working Professional,Management,9,11,0.5,4,5,0.0,0.0,0.0,0.0,0.0,0.0,0.9,1.0,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,4,0.5,2,3,0.0,-1.0,0.0,0.0,0.0,0.0,0.9990990990990991,0.0990990990990991,Work/study from home,Yes
+50-60,Female,Homemaker,Other/not working,4,4,0.5,1,1,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,0.9,0.0,Complete Physical Attendance,No
+33-40,Male,Working Professional,Government Employee,7,5,1.5,4,3,-1.0,0.5,0.0,1.0,0.5,0.0,0.08918918918918918,0.0,Complete Physical Attendance,No
+26-32,Male,Working Professional,Other,9,11,0.5,1,5,1.0,-1.0,0.5,0.5,0.0,0.0,1.0,1.0,Complete Physical Attendance,Yes
+50-60,Female,Working Professional,Teaching,7,9,0.5,4,4,-0.5,-0.5,-0.5,-1.0,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+40-50,Female,Working Professional,Teaching,7,7,0.5,1,3,0.5,0.5,0.5,0.5,0.5,0.5,0.9,0.9,Work/study from home,Yes
+60+,Male,Currently Out of Work,Other/not working,9,5,1.5,4,3,-1.0,1.0,1.0,1.0,1.0,1.0,0.9990990990990991,0.0,Complete Physical Attendance,No
+50-60,Female,Homemaker,Other/not working,5,12,0.5,1,2,1.0,-0.5,-0.5,-0.5,-0.5,-0.5,0.0981981981981982,0.0,Work/study from home,Maybe
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,2,2,0.5,0.5,1.0,1.0,1.0,0.0,0.9990990990990991,0.09009009009009009,Work/study from home,Yes
+26-32,Male,Working Professional,Management,7,9,1.5,1,1,0.5,0.5,1.0,1.0,0.0,0.5,0.08918918918918918,0.09009009009009009,Complete Physical Attendance,Maybe
+40-50,Female,Working Professional,Teaching,9,9,2.5,2,2,0.0,0.0,0.5,0.5,0.5,0.5,0.9990990990990991,0.0990990990990991,Complete Physical Attendance,Yes
+50-60,Female,Working Professional,Teaching,7,7,2.5,5,4,-0.5,0.5,0.5,1.0,0.5,0.5,0.9009009009009009,0.909009009009009,Complete Physical Attendance,No
+40-50,Female,Medical Professional,Other/not working,12,12,1.5,3,2,-0.5,-0.5,-1.0,-1.0,-1.0,-0.5,0.9900900900900901,1.0,Complete Physical Attendance,No
+50-60,Male,Medical Professional,Other/not working,12,12,2.5,3,3,-0.5,-1.0,-1.0,-1.0,-1.0,-0.5,0.9900900900900901,0.9900900900900901,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,4,0.5,1,1,0.0,0.0,0.5,0.5,0.5,0.0,0.9900900900900901,1.0,Complete Physical Attendance,Maybe
+0-18,Male,Student in College,Other/not working,5,4,0.5,3,2,0.0,-0.5,0.0,0.5,-0.5,0.0,0.9009009009009009,1.0,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,5,5,0.5,1,3,0.0,0.0,0.5,0.5,-0.5,0.5,0.9099099099099099,0.9,Complete Physical Attendance,Yes
+0-18,Male,Student in College,Other/not working,7,4,0.5,4,5,-0.5,0.0,0.0,0.5,0.0,0.5,0.08918918918918918,0.0,Complete Physical Attendance,Yes
+33-40,Male,Working Professional,Engineering,9,9,0.5,5,5,-1.0,0.0,0.5,0.5,-0.5,0.0,0.9990990990990991,0.9099099099099099,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,11,12,3.0,3,4,0.5,-1.0,0.0,-0.5,-1.0,-0.5,0.909009009009009,1.0,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,7,0.5,1,3,0.5,-0.5,-0.5,0.0,0.0,0.5,0.909009009009009,1.0,Complete Physical Attendance,Yes
+19-25,Male,Working Professional,Teaching,9,9,0.5,1,3,-0.5,-0.5,0.5,1.0,1.0,1.0,0.9900900900900901,0.9900900900900901,Work/study from home,Yes
+19-25,Female,Entrepreneur,Other/not working,5,11,0.5,1,1,1.0,-1.0,1.0,1.0,1.0,1.0,1.0,0.008108108108108109,Work/study from home,Yes
+26-32,Female,Working Professional,Management,9,11,0.5,4,5,0.0,0.0,0.0,0.0,0.0,0.0,0.9,1.0,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,4,0.5,2,3,0.0,-1.0,0.0,0.0,0.0,0.0,0.9990990990990991,0.0990990990990991,Work/study from home,Yes
+50-60,Female,Homemaker,Other/not working,4,4,0.5,1,1,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,0.9,0.0,Complete Physical Attendance,No
+33-40,Male,Working Professional,Government Employee,7,5,1.5,4,3,-1.0,0.5,0.0,1.0,0.5,0.0,0.08918918918918918,0.0,Complete Physical Attendance,No
+26-32,Male,Working Professional,Other,9,11,0.5,1,5,1.0,-1.0,0.5,0.5,0.0,0.0,1.0,1.0,Complete Physical Attendance,Yes
+50-60,Female,Working Professional,Teaching,7,9,0.5,4,4,-0.5,-0.5,-0.5,-1.0,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+40-50,Female,Working Professional,Teaching,7,7,0.5,1,3,0.5,0.5,0.5,0.5,0.5,0.5,0.9,0.9,Work/study from home,Yes
+60+,Male,Currently Out of Work,Other/not working,9,5,1.5,4,3,-1.0,1.0,1.0,1.0,1.0,1.0,0.9990990990990991,0.0,Complete Physical Attendance,No
+50-60,Female,Homemaker,Other/not working,5,12,0.5,1,2,1.0,-0.5,-0.5,-0.5,-0.5,-0.5,0.0981981981981982,0.0,Work/study from home,Maybe
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,2,2,0.5,0.5,1.0,1.0,1.0,0.0,0.9990990990990991,0.09009009009009009,Work/study from home,Yes
+26-32,Male,Working Professional,Management,7,9,1.5,1,1,0.5,0.5,1.0,1.0,0.0,0.5,0.08918918918918918,0.09009009009009009,Complete Physical Attendance,Maybe
+40-50,Female,Working Professional,Teaching,9,9,2.5,2,2,0.0,0.0,0.5,0.5,0.5,0.5,0.9990990990990991,0.0990990990990991,Complete Physical Attendance,Yes
+50-60,Female,Working Professional,Teaching,7,7,2.5,5,4,-0.5,0.5,0.5,1.0,0.5,0.5,0.9009009009009009,0.909009009009009,Complete Physical Attendance,No
+40-50,Female,Medical Professional,Other/not working,12,12,1.5,3,2,-0.5,-0.5,-1.0,-1.0,-1.0,-0.5,0.9900900900900901,1.0,Complete Physical Attendance,No
+50-60,Male,Medical Professional,Other/not working,12,12,2.5,3,3,-0.5,-1.0,-1.0,-1.0,-1.0,-0.5,0.9900900900900901,0.9900900900900901,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,4,0.5,1,1,0.0,0.0,0.5,0.5,0.5,0.0,0.9900900900900901,1.0,Complete Physical Attendance,Maybe
+0-18,Male,Student in College,Other/not working,5,4,0.5,3,2,0.0,-0.5,0.0,0.5,-0.5,0.0,0.9009009009009009,1.0,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,5,5,0.5,1,3,0.0,0.0,0.5,0.5,-0.5,0.5,0.9099099099099099,0.9,Complete Physical Attendance,Yes
+0-18,Male,Student in College,Other/not working,7,4,0.5,4,5,-0.5,0.0,0.0,0.5,0.0,0.5,0.08918918918918918,0.0,Complete Physical Attendance,Yes
+33-40,Male,Working Professional,Engineering,9,9,0.5,5,5,-1.0,0.0,0.5,0.5,-0.5,0.0,0.9990990990990991,0.9099099099099099,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,11,12,3.0,3,4,0.5,-1.0,0.0,-0.5,-1.0,-0.5,0.909009009009009,1.0,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,7,0.5,1,3,0.5,-0.5,-0.5,0.0,0.0,0.5,0.909009009009009,1.0,Complete Physical Attendance,Yes
+19-25,Male,Working Professional,Teaching,9,9,0.5,1,3,-0.5,-0.5,0.5,1.0,1.0,1.0,0.9900900900900901,0.9900900900900901,Work/study from home,Yes
+19-25,Female,Entrepreneur,Other/not working,5,11,0.5,1,1,1.0,-1.0,1.0,1.0,1.0,1.0,1.0,0.008108108108108109,Work/study from home,Yes
+26-32,Female,Working Professional,Management,9,11,0.5,4,5,0.0,0.0,0.0,0.0,0.0,0.0,0.9,1.0,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,4,0.5,2,3,0.0,-1.0,0.0,0.0,0.0,0.0,0.9990990990990991,0.0990990990990991,Work/study from home,Yes
+50-60,Female,Homemaker,Other/not working,4,4,0.5,1,1,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,0.9,0.0,Complete Physical Attendance,No
+33-40,Male,Working Professional,Government Employee,7,5,1.5,4,3,-1.0,0.5,0.0,1.0,0.5,0.0,0.08918918918918918,0.0,Complete Physical Attendance,No
+26-32,Male,Working Professional,Other,9,11,0.5,1,5,1.0,-1.0,0.5,0.5,0.0,0.0,1.0,1.0,Complete Physical Attendance,Yes
+50-60,Female,Working Professional,Teaching,7,9,0.5,4,4,-0.5,-0.5,-0.5,-1.0,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+40-50,Female,Working Professional,Teaching,7,7,0.5,1,3,0.5,0.5,0.5,0.5,0.5,0.5,0.9,0.9,Work/study from home,Yes
+60+,Male,Currently Out of Work,Other/not working,9,5,1.5,4,3,-1.0,1.0,1.0,1.0,1.0,1.0,0.9990990990990991,0.0,Complete Physical Attendance,No
+50-60,Female,Homemaker,Other/not working,5,12,0.5,1,2,1.0,-0.5,-0.5,-0.5,-0.5,-0.5,0.0981981981981982,0.0,Work/study from home,Maybe
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,2,2,0.5,0.5,1.0,1.0,1.0,0.0,0.9990990990990991,0.09009009009009009,Work/study from home,Yes
+26-32,Male,Working Professional,Management,7,9,1.5,1,1,0.5,0.5,1.0,1.0,0.0,0.5,0.08918918918918918,0.09009009009009009,Complete Physical Attendance,Maybe
+40-50,Female,Working Professional,Teaching,9,9,2.5,2,2,0.0,0.0,0.5,0.5,0.5,0.5,0.9990990990990991,0.0990990990990991,Complete Physical Attendance,Yes
+50-60,Female,Working Professional,Teaching,7,7,2.5,5,4,-0.5,0.5,0.5,1.0,0.5,0.5,0.9009009009009009,0.909009009009009,Complete Physical Attendance,No
+40-50,Female,Medical Professional,Other/not working,12,12,1.5,3,2,-0.5,-0.5,-1.0,-1.0,-1.0,-0.5,0.9900900900900901,1.0,Complete Physical Attendance,No
+50-60,Male,Medical Professional,Other/not working,12,12,2.5,3,3,-0.5,-1.0,-1.0,-1.0,-1.0,-0.5,0.9900900900900901,0.9900900900900901,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,4,0.5,1,1,0.0,0.0,0.5,0.5,0.5,0.0,0.9900900900900901,1.0,Complete Physical Attendance,Maybe
+0-18,Male,Student in College,Other/not working,5,4,0.5,3,2,0.0,-0.5,0.0,0.5,-0.5,0.0,0.9009009009009009,1.0,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,5,5,0.5,1,3,0.0,0.0,0.5,0.5,-0.5,0.5,0.9099099099099099,0.9,Complete Physical Attendance,Yes
+0-18,Male,Student in College,Other/not working,7,4,0.5,4,5,-0.5,0.0,0.0,0.5,0.0,0.5,0.08918918918918918,0.0,Complete Physical Attendance,Yes
+33-40,Male,Working Professional,Engineering,9,9,0.5,5,5,-1.0,0.0,0.5,0.5,-0.5,0.0,0.9990990990990991,0.9099099099099099,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,11,12,3.0,3,4,0.5,-1.0,0.0,-0.5,-1.0,-0.5,0.909009009009009,1.0,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,7,0.5,1,3,0.5,-0.5,-0.5,0.0,0.0,0.5,0.909009009009009,1.0,Complete Physical Attendance,Yes
+19-25,Male,Working Professional,Teaching,9,9,0.5,1,3,-0.5,-0.5,0.5,1.0,1.0,1.0,0.9900900900900901,0.9900900900900901,Work/study from home,Yes
+19-25,Female,Entrepreneur,Other/not working,5,11,0.5,1,1,1.0,-1.0,1.0,1.0,1.0,1.0,1.0,0.008108108108108109,Work/study from home,Yes
+26-32,Female,Working Professional,Management,9,11,0.5,4,5,0.0,0.0,0.0,0.0,0.0,0.0,0.9,1.0,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,4,0.5,2,3,0.0,-1.0,0.0,0.0,0.0,0.0,0.9990990990990991,0.0990990990990991,Work/study from home,Yes
+50-60,Female,Homemaker,Other/not working,4,4,0.5,1,1,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,0.9,0.0,Complete Physical Attendance,No
+33-40,Male,Working Professional,Government Employee,7,5,1.5,4,3,-1.0,0.5,0.0,1.0,0.5,0.0,0.08918918918918918,0.0,Complete Physical Attendance,No
+26-32,Male,Working Professional,Other,9,11,0.5,1,5,1.0,-1.0,0.5,0.5,0.0,0.0,1.0,1.0,Complete Physical Attendance,Yes
+50-60,Female,Working Professional,Teaching,7,9,0.5,4,4,-0.5,-0.5,-0.5,-1.0,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+40-50,Female,Working Professional,Teaching,7,7,0.5,1,3,0.5,0.5,0.5,0.5,0.5,0.5,0.9,0.9,Work/study from home,Yes
+60+,Male,Currently Out of Work,Other/not working,9,5,1.5,4,3,-1.0,1.0,1.0,1.0,1.0,1.0,0.9990990990990991,0.0,Complete Physical Attendance,No
+50-60,Female,Homemaker,Other/not working,5,12,0.5,1,2,1.0,-0.5,-0.5,-0.5,-0.5,-0.5,0.0981981981981982,0.0,Work/study from home,Maybe
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,2,2,0.5,0.5,1.0,1.0,1.0,0.0,0.9990990990990991,0.09009009009009009,Work/study from home,Yes
+26-32,Male,Working Professional,Management,7,9,1.5,1,1,0.5,0.5,1.0,1.0,0.0,0.5,0.08918918918918918,0.09009009009009009,Complete Physical Attendance,Maybe
+40-50,Female,Working Professional,Teaching,9,9,2.5,2,2,0.0,0.0,0.5,0.5,0.5,0.5,0.9990990990990991,0.0990990990990991,Complete Physical Attendance,Yes
+50-60,Female,Working Professional,Teaching,7,7,2.5,5,4,-0.5,0.5,0.5,1.0,0.5,0.5,0.9009009009009009,0.909009009009009,Complete Physical Attendance,No
+40-50,Female,Medical Professional,Other/not working,12,12,1.5,3,2,-0.5,-0.5,-1.0,-1.0,-1.0,-0.5,0.9900900900900901,1.0,Complete Physical Attendance,No
+50-60,Male,Medical Professional,Other/not working,12,12,2.5,3,3,-0.5,-1.0,-1.0,-1.0,-1.0,-0.5,0.9900900900900901,0.9900900900900901,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,4,0.5,1,1,0.0,0.0,0.5,0.5,0.5,0.0,0.9900900900900901,1.0,Complete Physical Attendance,Maybe
+0-18,Male,Student in College,Other/not working,5,4,0.5,3,2,0.0,-0.5,0.0,0.5,-0.5,0.0,0.9009009009009009,1.0,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,5,5,0.5,1,3,0.0,0.0,0.5,0.5,-0.5,0.5,0.9099099099099099,0.9,Complete Physical Attendance,Yes
+0-18,Male,Student in College,Other/not working,7,4,0.5,4,5,-0.5,0.0,0.0,0.5,0.0,0.5,0.08918918918918918,0.0,Complete Physical Attendance,Yes
+33-40,Male,Working Professional,Engineering,9,9,0.5,5,5,-1.0,0.0,0.5,0.5,-0.5,0.0,0.9990990990990991,0.9099099099099099,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,11,12,3.0,3,4,0.5,-1.0,0.0,-0.5,-1.0,-0.5,0.909009009009009,1.0,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,7,0.5,1,3,0.5,-0.5,-0.5,0.0,0.0,0.5,0.909009009009009,1.0,Complete Physical Attendance,Yes
+19-25,Male,Working Professional,Teaching,9,9,0.5,1,3,-0.5,-0.5,0.5,1.0,1.0,1.0,0.9900900900900901,0.9900900900900901,Work/study from home,Yes
+19-25,Female,Entrepreneur,Other/not working,5,11,0.5,1,1,1.0,-1.0,1.0,1.0,1.0,1.0,1.0,0.008108108108108109,Work/study from home,Yes
+26-32,Female,Working Professional,Management,9,11,0.5,4,5,0.0,0.0,0.0,0.0,0.0,0.0,0.9,1.0,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,4,0.5,2,3,0.0,-1.0,0.0,0.0,0.0,0.0,0.9990990990990991,0.0990990990990991,Work/study from home,Yes
+50-60,Male,Working Professional,Management,9,9,0.5,2,4,-1.0,0.0,0.5,0.5,-0.5,0.0,0.9900900900900901,0.0,Complete Physical Attendance,Yes
+33-40,Male,Working Professional,Other,11,11,2.5,4,4,0.0,0.0,0.0,-1.0,0.0,-1.0,0.0990990990990991,1.0,Complete Physical Attendance,Yes
+26-32,Male,Working Professional,Engineering,7,9,2.5,3,3,0.5,0.5,0.5,1.0,0.0,0.5,0.9900900900900901,0.9990990990990991,Complete Physical Attendance,Maybe
+26-32,Female,Working Professional,Management,9,12,0.5,2,5,-1.0,-1.0,-1.0,0.5,-1.0,-1.0,0.9,1.0,Complete Physical Attendance,Yes
+26-32,Male,Working Professional,Management,7,9,1.5,1,1,0.5,0.5,1.0,1.0,0.0,0.5,0.08918918918918918,0.09009009009009009,Complete Physical Attendance,Maybe
+40-50,Female,Working Professional,Teaching,9,9,2.5,2,2,0.0,0.0,0.5,0.5,0.5,0.5,0.9990990990990991,0.0990990990990991,Complete Physical Attendance,Yes
+50-60,Female,Working Professional,Teaching,7,7,2.5,5,4,-0.5,0.5,0.5,1.0,0.5,0.5,0.9009009009009009,0.909009009009009,Complete Physical Attendance,No
+40-50,Female,Medical Professional,Other/not working,12,12,1.5,3,2,-0.5,-0.5,-1.0,-1.0,-1.0,-0.5,0.9900900900900901,1.0,Complete Physical Attendance,No
+50-60,Male,Medical Professional,Other/not working,12,12,2.5,3,3,-0.5,-1.0,-1.0,-1.0,-1.0,-0.5,0.9900900900900901,0.9900900900900901,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,4,0.5,1,1,0.0,0.0,0.5,0.5,0.5,0.0,0.9900900900900901,1.0,Complete Physical Attendance,Maybe
+26-32,Male,Working Professional,Management,7,9,1.5,1,1,0.5,0.5,1.0,1.0,0.0,0.5,0.08918918918918918,0.09009009009009009,Complete Physical Attendance,Maybe
+40-50,Female,Working Professional,Teaching,9,9,2.5,2,2,0.0,0.0,0.5,0.5,0.5,0.5,0.9990990990990991,0.0990990990990991,Complete Physical Attendance,Yes
+50-60,Female,Working Professional,Teaching,7,7,2.5,5,4,-0.5,0.5,0.5,1.0,0.5,0.5,0.9009009009009009,0.909009009009009,Complete Physical Attendance,No
+40-50,Female,Medical Professional,Other/not working,12,12,1.5,3,2,-0.5,-0.5,-1.0,-1.0,-1.0,-0.5,0.9900900900900901,1.0,Complete Physical Attendance,No
+50-60,Male,Medical Professional,Other/not working,12,12,2.5,3,3,-0.5,-1.0,-1.0,-1.0,-1.0,-0.5,0.9900900900900901,0.9900900900900901,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,4,0.5,1,1,0.0,0.0,0.5,0.5,0.5,0.0,0.9900900900900901,1.0,Complete Physical Attendance,Maybe
+26-32,Male,Working Professional,Management,7,9,1.5,1,1,0.5,0.5,1.0,1.0,0.0,0.5,0.08918918918918918,0.09009009009009009,Complete Physical Attendance,Maybe
+40-50,Female,Working Professional,Teaching,9,9,2.5,2,2,0.0,0.0,0.5,0.5,0.5,0.5,0.9990990990990991,0.0990990990990991,Complete Physical Attendance,Yes
+50-60,Female,Working Professional,Teaching,7,7,2.5,5,4,-0.5,0.5,0.5,1.0,0.5,0.5,0.9009009009009009,0.909009009009009,Complete Physical Attendance,No
+40-50,Female,Medical Professional,Other/not working,12,12,1.5,3,2,-0.5,-0.5,-1.0,-1.0,-1.0,-0.5,0.9900900900900901,1.0,Complete Physical Attendance,No
+50-60,Male,Medical Professional,Other/not working,12,12,2.5,3,3,-0.5,-1.0,-1.0,-1.0,-1.0,-0.5,0.9900900900900901,0.9900900900900901,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,4,0.5,1,1,0.0,0.0,0.5,0.5,0.5,0.0,0.9900900900900901,1.0,Complete Physical Attendance,Maybe
+26-32,Male,Working Professional,Management,7,9,1.5,1,1,0.5,0.5,1.0,1.0,0.0,0.5,0.08918918918918918,0.09009009009009009,Complete Physical Attendance,Maybe
+40-50,Female,Working Professional,Teaching,9,9,2.5,2,2,0.0,0.0,0.5,0.5,0.5,0.5,0.9990990990990991,0.0990990990990991,Complete Physical Attendance,Yes
+50-60,Female,Working Professional,Teaching,7,7,2.5,5,4,-0.5,0.5,0.5,1.0,0.5,0.5,0.9009009009009009,0.909009009009009,Complete Physical Attendance,No
+40-50,Female,Medical Professional,Other/not working,12,12,1.5,3,2,-0.5,-0.5,-1.0,-1.0,-1.0,-0.5,0.9900900900900901,1.0,Complete Physical Attendance,No
+50-60,Male,Medical Professional,Other/not working,12,12,2.5,3,3,-0.5,-1.0,-1.0,-1.0,-1.0,-0.5,0.9900900900900901,0.9900900900900901,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,4,0.5,1,1,0.0,0.0,0.5,0.5,0.5,0.0,0.9900900900900901,1.0,Complete Physical Attendance,Maybe
+26-32,Male,Working Professional,Management,7,9,1.5,1,1,0.5,0.5,1.0,1.0,0.0,0.5,0.08918918918918918,0.09009009009009009,Complete Physical Attendance,Maybe
+40-50,Female,Working Professional,Teaching,9,9,2.5,2,2,0.0,0.0,0.5,0.5,0.5,0.5,0.9990990990990991,0.0990990990990991,Complete Physical Attendance,Yes
+50-60,Female,Working Professional,Teaching,7,7,2.5,5,4,-0.5,0.5,0.5,1.0,0.5,0.5,0.9009009009009009,0.909009009009009,Complete Physical Attendance,No
+40-50,Female,Medical Professional,Other/not working,12,12,1.5,3,2,-0.5,-0.5,-1.0,-1.0,-1.0,-0.5,0.9900900900900901,1.0,Complete Physical Attendance,No
+50-60,Male,Medical Professional,Other/not working,12,12,2.5,3,3,-0.5,-1.0,-1.0,-1.0,-1.0,-0.5,0.9900900900900901,0.9900900900900901,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,4,0.5,1,1,0.0,0.0,0.5,0.5,0.5,0.0,0.9900900900900901,1.0,Complete Physical Attendance,Maybe
+26-32,Male,Working Professional,Management,7,9,1.5,1,1,0.5,0.5,1.0,1.0,0.0,0.5,0.08918918918918918,0.09009009009009009,Complete Physical Attendance,Maybe
+40-50,Female,Working Professional,Teaching,9,9,2.5,2,2,0.0,0.0,0.5,0.5,0.5,0.5,0.9990990990990991,0.0990990990990991,Complete Physical Attendance,Yes
+50-60,Female,Working Professional,Teaching,7,7,2.5,5,4,-0.5,0.5,0.5,1.0,0.5,0.5,0.9009009009009009,0.909009009009009,Complete Physical Attendance,No
+40-50,Female,Medical Professional,Other/not working,12,12,1.5,3,2,-0.5,-0.5,-1.0,-1.0,-1.0,-0.5,0.9900900900900901,1.0,Complete Physical Attendance,No
+50-60,Male,Medical Professional,Other/not working,12,12,2.5,3,3,-0.5,-1.0,-1.0,-1.0,-1.0,-0.5,0.9900900900900901,0.9900900900900901,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,4,0.5,1,1,0.0,0.0,0.5,0.5,0.5,0.0,0.9900900900900901,1.0,Complete Physical Attendance,Maybe
+26-32,Male,Working Professional,Management,7,9,1.5,1,1,0.5,0.5,1.0,1.0,0.0,0.5,0.08918918918918918,0.09009009009009009,Complete Physical Attendance,Maybe
+40-50,Female,Working Professional,Teaching,9,9,2.5,2,2,0.0,0.0,0.5,0.5,0.5,0.5,0.9990990990990991,0.0990990990990991,Complete Physical Attendance,Yes
+50-60,Female,Working Professional,Teaching,7,7,2.5,5,4,-0.5,0.5,0.5,1.0,0.5,0.5,0.9009009009009009,0.909009009009009,Complete Physical Attendance,No
+40-50,Female,Medical Professional,Other/not working,12,12,1.5,3,2,-0.5,-0.5,-1.0,-1.0,-1.0,-0.5,0.9900900900900901,1.0,Complete Physical Attendance,No
+50-60,Male,Medical Professional,Other/not working,12,12,2.5,3,3,-0.5,-1.0,-1.0,-1.0,-1.0,-0.5,0.9900900900900901,0.9900900900900901,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,4,0.5,1,1,0.0,0.0,0.5,0.5,0.5,0.0,0.9900900900900901,1.0,Complete Physical Attendance,Maybe
+26-32,Male,Working Professional,Management,7,9,1.5,1,1,0.5,0.5,1.0,1.0,0.0,0.5,0.08918918918918918,0.09009009009009009,Complete Physical Attendance,Maybe
+40-50,Female,Working Professional,Teaching,9,9,2.5,2,2,0.0,0.0,0.5,0.5,0.5,0.5,0.9990990990990991,0.0990990990990991,Complete Physical Attendance,Yes
+50-60,Female,Working Professional,Teaching,7,7,2.5,5,4,-0.5,0.5,0.5,1.0,0.5,0.5,0.9009009009009009,0.909009009009009,Complete Physical Attendance,No
+40-50,Female,Medical Professional,Other/not working,12,12,1.5,3,2,-0.5,-0.5,-1.0,-1.0,-1.0,-0.5,0.9900900900900901,1.0,Complete Physical Attendance,No
+50-60,Male,Medical Professional,Other/not working,12,12,2.5,3,3,-0.5,-1.0,-1.0,-1.0,-1.0,-0.5,0.9900900900900901,0.9900900900900901,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,4,0.5,1,1,0.0,0.0,0.5,0.5,0.5,0.0,0.9900900900900901,1.0,Complete Physical Attendance,Maybe
+40-50,Female,Medical Professional,Other/not working,12,12,1.5,3,2,-0.5,-0.5,-1.0,-1.0,-1.0,-0.5,0.9900900900900901,1.0,Complete Physical Attendance,No
+50-60,Male,Medical Professional,Other/not working,12,12,2.5,3,3,-0.5,-1.0,-1.0,-1.0,-1.0,-0.5,0.9900900900900901,0.9900900900900901,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,4,0.5,1,1,0.0,0.0,0.5,0.5,0.5,0.0,0.9900900900900901,1.0,Complete Physical Attendance,Maybe
+0-18,Male,Student in College,Other/not working,5,4,0.5,3,2,0.0,-0.5,0.0,0.5,-0.5,0.0,0.9009009009009009,1.0,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,5,5,0.5,1,3,0.0,0.0,0.5,0.5,-0.5,0.5,0.9099099099099099,0.9,Complete Physical Attendance,Yes
+0-18,Male,Student in College,Other/not working,7,4,0.5,4,5,-0.5,0.0,0.0,0.5,0.0,0.5,0.08918918918918918,0.0,Complete Physical Attendance,Yes
+33-40,Male,Working Professional,Engineering,9,9,0.5,5,5,-1.0,0.0,0.5,0.5,-0.5,0.0,0.9990990990990991,0.9099099099099099,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,11,12,3.0,3,4,0.5,-1.0,0.0,-0.5,-1.0,-0.5,0.909009009009009,1.0,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,7,0.5,1,3,0.5,-0.5,-0.5,0.0,0.0,0.5,0.909009009009009,1.0,Complete Physical Attendance,Yes
+40-50,Female,Medical Professional,Other/not working,12,12,1.5,3,2,-0.5,-0.5,-1.0,-1.0,-1.0,-0.5,0.9900900900900901,1.0,Complete Physical Attendance,No
+50-60,Male,Medical Professional,Other/not working,12,12,2.5,3,3,-0.5,-1.0,-1.0,-1.0,-1.0,-0.5,0.9900900900900901,0.9900900900900901,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,4,0.5,1,1,0.0,0.0,0.5,0.5,0.5,0.0,0.9900900900900901,1.0,Complete Physical Attendance,Maybe
+0-18,Male,Student in College,Other/not working,5,4,0.5,3,2,0.0,-0.5,0.0,0.5,-0.5,0.0,0.9009009009009009,1.0,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,5,5,0.5,1,3,0.0,0.0,0.5,0.5,-0.5,0.5,0.9099099099099099,0.9,Complete Physical Attendance,Yes
+0-18,Male,Student in College,Other/not working,7,4,0.5,4,5,-0.5,0.0,0.0,0.5,0.0,0.5,0.08918918918918918,0.0,Complete Physical Attendance,Yes
+33-40,Male,Working Professional,Engineering,9,9,0.5,5,5,-1.0,0.0,0.5,0.5,-0.5,0.0,0.9990990990990991,0.9099099099099099,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,11,12,3.0,3,4,0.5,-1.0,0.0,-0.5,-1.0,-0.5,0.909009009009009,1.0,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,7,0.5,1,3,0.5,-0.5,-0.5,0.0,0.0,0.5,0.909009009009009,1.0,Complete Physical Attendance,Yes
+40-50,Female,Medical Professional,Other/not working,12,12,1.5,3,2,-0.5,-0.5,-1.0,-1.0,-1.0,-0.5,0.9900900900900901,1.0,Complete Physical Attendance,No
+50-60,Male,Medical Professional,Other/not working,12,12,2.5,3,3,-0.5,-1.0,-1.0,-1.0,-1.0,-0.5,0.9900900900900901,0.9900900900900901,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,4,0.5,1,1,0.0,0.0,0.5,0.5,0.5,0.0,0.9900900900900901,1.0,Complete Physical Attendance,Maybe
+0-18,Male,Student in College,Other/not working,5,4,0.5,3,2,0.0,-0.5,0.0,0.5,-0.5,0.0,0.9009009009009009,1.0,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,5,5,0.5,1,3,0.0,0.0,0.5,0.5,-0.5,0.5,0.9099099099099099,0.9,Complete Physical Attendance,Yes
+0-18,Male,Student in College,Other/not working,7,4,0.5,4,5,-0.5,0.0,0.0,0.5,0.0,0.5,0.08918918918918918,0.0,Complete Physical Attendance,Yes
+33-40,Male,Working Professional,Engineering,9,9,0.5,5,5,-1.0,0.0,0.5,0.5,-0.5,0.0,0.9990990990990991,0.9099099099099099,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,11,12,3.0,3,4,0.5,-1.0,0.0,-0.5,-1.0,-0.5,0.909009009009009,1.0,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,7,0.5,1,3,0.5,-0.5,-0.5,0.0,0.0,0.5,0.909009009009009,1.0,Complete Physical Attendance,Yes
+40-50,Female,Medical Professional,Other/not working,12,12,1.5,3,2,-0.5,-0.5,-1.0,-1.0,-1.0,-0.5,0.9900900900900901,1.0,Complete Physical Attendance,No
+50-60,Male,Medical Professional,Other/not working,12,12,2.5,3,3,-0.5,-1.0,-1.0,-1.0,-1.0,-0.5,0.9900900900900901,0.9900900900900901,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,4,0.5,1,1,0.0,0.0,0.5,0.5,0.5,0.0,0.9900900900900901,1.0,Complete Physical Attendance,Maybe
+0-18,Male,Student in College,Other/not working,5,4,0.5,3,2,0.0,-0.5,0.0,0.5,-0.5,0.0,0.9009009009009009,1.0,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,5,5,0.5,1,3,0.0,0.0,0.5,0.5,-0.5,0.5,0.9099099099099099,0.9,Complete Physical Attendance,Yes
+0-18,Male,Student in College,Other/not working,7,4,0.5,4,5,-0.5,0.0,0.0,0.5,0.0,0.5,0.08918918918918918,0.0,Complete Physical Attendance,Yes
+33-40,Male,Working Professional,Engineering,9,9,0.5,5,5,-1.0,0.0,0.5,0.5,-0.5,0.0,0.9990990990990991,0.9099099099099099,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,11,12,3.0,3,4,0.5,-1.0,0.0,-0.5,-1.0,-0.5,0.909009009009009,1.0,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,7,0.5,1,3,0.5,-0.5,-0.5,0.0,0.0,0.5,0.909009009009009,1.0,Complete Physical Attendance,Yes
+50-60,Female,Working Professional,Teaching,7,9,0.5,4,4,-0.5,-0.5,-0.5,-1.0,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+40-50,Female,Working Professional,Teaching,7,7,0.5,1,3,0.5,0.5,0.5,0.5,0.5,0.5,0.9,0.9,Work/study from home,Yes
+60+,Male,Currently Out of Work,Other/not working,9,5,1.5,4,3,-1.0,1.0,1.0,1.0,1.0,1.0,0.9990990990990991,0.0,Complete Physical Attendance,No
+50-60,Female,Homemaker,Other/not working,5,12,0.5,1,2,1.0,-0.5,-0.5,-0.5,-0.5,-0.5,0.0981981981981982,0.0,Work/study from home,Maybe
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,2,2,0.5,0.5,1.0,1.0,1.0,0.0,0.9990990990990991,0.09009009009009009,Work/study from home,Yes
+50-60,Female,Working Professional,Teaching,7,9,0.5,4,4,-0.5,-0.5,-0.5,-1.0,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+40-50,Female,Working Professional,Teaching,7,7,0.5,1,3,0.5,0.5,0.5,0.5,0.5,0.5,0.9,0.9,Work/study from home,Yes
+60+,Male,Currently Out of Work,Other/not working,9,5,1.5,4,3,-1.0,1.0,1.0,1.0,1.0,1.0,0.9990990990990991,0.0,Complete Physical Attendance,No
+50-60,Female,Homemaker,Other/not working,5,12,0.5,1,2,1.0,-0.5,-0.5,-0.5,-0.5,-0.5,0.0981981981981982,0.0,Work/study from home,Maybe
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,2,2,0.5,0.5,1.0,1.0,1.0,0.0,0.9990990990990991,0.09009009009009009,Work/study from home,Yes
+50-60,Female,Working Professional,Teaching,7,9,0.5,4,4,-0.5,-0.5,-0.5,-1.0,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+40-50,Female,Working Professional,Teaching,7,7,0.5,1,3,0.5,0.5,0.5,0.5,0.5,0.5,0.9,0.9,Work/study from home,Yes
+60+,Male,Currently Out of Work,Other/not working,9,5,1.5,4,3,-1.0,1.0,1.0,1.0,1.0,1.0,0.9990990990990991,0.0,Complete Physical Attendance,No
+50-60,Female,Homemaker,Other/not working,5,12,0.5,1,2,1.0,-0.5,-0.5,-0.5,-0.5,-0.5,0.0981981981981982,0.0,Work/study from home,Maybe
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,2,2,0.5,0.5,1.0,1.0,1.0,0.0,0.9990990990990991,0.09009009009009009,Work/study from home,Yes
+50-60,Female,Working Professional,Teaching,7,9,0.5,4,4,-0.5,-0.5,-0.5,-1.0,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+40-50,Female,Working Professional,Teaching,7,7,0.5,1,3,0.5,0.5,0.5,0.5,0.5,0.5,0.9,0.9,Work/study from home,Yes
+60+,Male,Currently Out of Work,Other/not working,9,5,1.5,4,3,-1.0,1.0,1.0,1.0,1.0,1.0,0.9990990990990991,0.0,Complete Physical Attendance,No
+50-60,Female,Homemaker,Other/not working,5,12,0.5,1,2,1.0,-0.5,-0.5,-0.5,-0.5,-0.5,0.0981981981981982,0.0,Work/study from home,Maybe
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,2,2,0.5,0.5,1.0,1.0,1.0,0.0,0.9990990990990991,0.09009009009009009,Work/study from home,Yes
+19-25,Male,Student in College,Other/not working,7,7,1.5,3,1,0.0,1.0,0.5,0.0,-1.0,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,Yes
+19-25,Female,Student in College,Other/not working,7,7,1.5,2,2,0.0,0.0,0.0,0.0,0.5,0.0,0.909009009009009,0.9,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,5,7,0.5,4,4,-1.0,-1.0,0.0,-0.5,0.0,0.0,0.0981981981981982,0.9900900900900901,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,5,4,0.5,1,3,0.5,0.5,1.0,0.5,1.0,1.0,0.9900900900900901,0.990990990990991,Work/study from home,Yes
+19-25,Male,Student in College,Other/not working,7,9,0.5,3,2,0.0,-0.5,-0.5,-1.0,-0.5,0.0,0.9,0.9,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,5,9,0.5,1,2,1.0,1.0,1.0,1.0,1.0,1.0,0.909009009009009,0.08918918918918918,Work/study from home,Yes
+19-25,Male,Student in College,Other/not working,7,7,1.5,2,2,0.0,0.0,0.0,-1.0,0.0,0.0,0.9990990990990991,1.0,Work/study from home,Yes
+19-25,Male,Student in College,Other/not working,7,4,0.5,2,1,0.0,-0.5,0.5,0.5,0.0,0.5,0.9900900900900901,0.990990990990991,Complete Physical Attendance,Maybe
+19-25,Male,Student in College,Other/not working,5,9,0.5,3,3,0.0,0.0,0.0,0.0,0.0,0.0,0.9900900900900901,0.9099099099099099,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,11,0.5,5,4,0.0,-1.0,1.0,-0.5,-1.0,-1.0,0.0981981981981982,0.9900900900900901,Complete Physical Attendance,Yes
+19-25,Female,Student in College,Other/not working,7,7,0.5,2,1,-0.5,0.0,0.5,1.0,0.5,1.0,0.9990990990990991,0.9900900900900901,Complete Physical Attendance,Maybe
+33-40,Male,Working Professional,Teaching,9,11,0.5,2,3,0.0,0.5,0.5,0.0,0.5,0.0,0.9,0.08918918918918918,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,7,1.5,3,1,0.0,1.0,0.5,0.0,-1.0,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,Yes
+19-25,Female,Student in College,Other/not working,7,7,1.5,2,2,0.0,0.0,0.0,0.0,0.5,0.0,0.909009009009009,0.9,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,5,7,0.5,4,4,-1.0,-1.0,0.0,-0.5,0.0,0.0,0.0981981981981982,0.9900900900900901,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,5,4,0.5,1,3,0.5,0.5,1.0,0.5,1.0,1.0,0.9900900900900901,0.990990990990991,Work/study from home,Yes
+19-25,Male,Student in College,Other/not working,7,9,0.5,3,2,0.0,-0.5,-0.5,-1.0,-0.5,0.0,0.9,0.9,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,5,9,0.5,1,2,1.0,1.0,1.0,1.0,1.0,1.0,0.909009009009009,0.08918918918918918,Work/study from home,Yes
+19-25,Male,Student in College,Other/not working,7,7,1.5,2,2,0.0,0.0,0.0,-1.0,0.0,0.0,0.9990990990990991,1.0,Work/study from home,Yes
+19-25,Male,Student in College,Other/not working,7,4,0.5,2,1,0.0,-0.5,0.5,0.5,0.0,0.5,0.9900900900900901,0.990990990990991,Complete Physical Attendance,Maybe
+19-25,Male,Student in College,Other/not working,5,9,0.5,3,3,0.0,0.0,0.0,0.0,0.0,0.0,0.9900900900900901,0.9099099099099099,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,11,0.5,5,4,0.0,-1.0,1.0,-0.5,-1.0,-1.0,0.0981981981981982,0.9900900900900901,Complete Physical Attendance,Yes
+19-25,Female,Student in College,Other/not working,7,7,0.5,2,1,-0.5,0.0,0.5,1.0,0.5,1.0,0.9990990990990991,0.9900900900900901,Complete Physical Attendance,Maybe
+33-40,Male,Working Professional,Teaching,9,11,0.5,2,3,0.0,0.5,0.5,0.0,0.5,0.0,0.9,0.08918918918918918,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,7,1.5,3,1,0.0,1.0,0.5,0.0,-1.0,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,Yes
+19-25,Female,Student in College,Other/not working,7,7,1.5,2,2,0.0,0.0,0.0,0.0,0.5,0.0,0.909009009009009,0.9,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,5,7,0.5,4,4,-1.0,-1.0,0.0,-0.5,0.0,0.0,0.0981981981981982,0.9900900900900901,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,5,4,0.5,1,3,0.5,0.5,1.0,0.5,1.0,1.0,0.9900900900900901,0.990990990990991,Work/study from home,Yes
+19-25,Male,Student in College,Other/not working,7,9,0.5,3,2,0.0,-0.5,-0.5,-1.0,-0.5,0.0,0.9,0.9,Complete Physical Attendance,Yes
+19-25,Male,Student in College,Other/not working,5,9,0.5,1,2,1.0,1.0,1.0,1.0,1.0,1.0,0.909009009009009,0.08918918918918918,Work/study from home,Yes
+19-25,Male,Student in College,Other/not working,7,7,1.5,2,2,0.0,0.0,0.0,-1.0,0.0,0.0,0.9990990990990991,1.0,Work/study from home,Yes
+19-25,Male,Student in College,Other/not working,7,4,0.5,2,1,0.0,-0.5,0.5,0.5,0.0,0.5,0.9900900900900901,0.990990990990991,Complete Physical Attendance,Maybe
+19-25,Male,Student in College,Other/not working,5,9,0.5,3,3,0.0,0.0,0.0,0.0,0.0,0.0,0.9900900900900901,0.9099099099099099,Complete Physical Attendance,No
+19-25,Male,Student in College,Other/not working,7,11,0.5,5,4,0.0,-1.0,1.0,-0.5,-1.0,-1.0,0.0981981981981982,0.9900900900900901,Complete Physical Attendance,Yes
+19-25,Female,Student in College,Other/not working,7,7,0.5,2,1,-0.5,0.0,0.5,1.0,0.5,1.0,0.9990990990990991,0.9900900900900901,Complete Physical Attendance,Maybe
+33-40,Male,Working Professional,Teaching,9,11,0.5,2,3,0.0,0.5,0.5,0.0,0.5,0.0,0.9,0.08918918918918918,Complete Physical Attendance,No
+50-60,Female,Homemaker,Other/not working,5,12,0.5,1,2,1.0,-0.5,-0.5,-0.5,-0.5,-0.5,0.0981981981981982,0.0,Work/study from home,Maybe
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,2,2,0.5,0.5,1.0,1.0,1.0,0.0,0.9990990990990991,0.09009009009009009,Work/study from home,Yes
+50-60,Female,Working Professional,Teaching,7,9,0.5,4,4,-0.5,-0.5,-0.5,-1.0,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+40-50,Female,Working Professional,Teaching,7,7,0.5,1,3,0.5,0.5,0.5,0.5,0.5,0.5,0.9,0.9,Work/study from home,Yes
+60+,Male,Currently Out of Work,Other/not working,9,5,1.5,4,3,-1.0,1.0,1.0,1.0,1.0,1.0,0.9990990990990991,0.0,Complete Physical Attendance,No
+50-60,Female,Homemaker,Other/not working,5,12,0.5,1,2,1.0,-0.5,-0.5,-0.5,-0.5,-0.5,0.0981981981981982,0.0,Work/study from home,Maybe
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,2,2,0.5,0.5,1.0,1.0,1.0,0.0,0.9990990990990991,0.09009009009009009,Work/study from home,Yes
+50-60,Female,Working Professional,Teaching,7,9,0.5,4,4,-0.5,-0.5,-0.5,-1.0,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+50-60,Female,Homemaker,Other/not working,5,12,0.5,1,2,1.0,-0.5,-0.5,-0.5,-0.5,-0.5,0.0981981981981982,0.0,Work/study from home,Maybe
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,2,2,0.5,0.5,1.0,1.0,1.0,0.0,0.9990990990990991,0.09009009009009009,Work/study from home,Yes
+50-60,Female,Working Professional,Teaching,7,9,0.5,4,4,-0.5,-0.5,-0.5,-1.0,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+40-50,Female,Working Professional,Teaching,7,7,0.5,1,3,0.5,0.5,0.5,0.5,0.5,0.5,0.9,0.9,Work/study from home,Yes
+60+,Male,Currently Out of Work,Other/not working,9,5,1.5,4,3,-1.0,1.0,1.0,1.0,1.0,1.0,0.9990990990990991,0.0,Complete Physical Attendance,No
+50-60,Female,Homemaker,Other/not working,5,12,0.5,1,2,1.0,-0.5,-0.5,-0.5,-0.5,-0.5,0.0981981981981982,0.0,Work/study from home,Maybe
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,2,2,0.5,0.5,1.0,1.0,1.0,0.0,0.9990990990990991,0.09009009009009009,Work/study from home,Yes
+50-60,Female,Working Professional,Teaching,7,9,0.5,4,4,-0.5,-0.5,-0.5,-1.0,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+50-60,Female,Homemaker,Other/not working,5,12,0.5,1,2,1.0,-0.5,-0.5,-0.5,-0.5,-0.5,0.0981981981981982,0.0,Work/study from home,Maybe
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,2,2,0.5,0.5,1.0,1.0,1.0,0.0,0.9990990990990991,0.09009009009009009,Work/study from home,Yes
+50-60,Female,Working Professional,Teaching,7,9,0.5,4,4,-0.5,-0.5,-0.5,-1.0,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+40-50,Female,Working Professional,Teaching,7,7,0.5,1,3,0.5,0.5,0.5,0.5,0.5,0.5,0.9,0.9,Work/study from home,Yes
+60+,Male,Currently Out of Work,Other/not working,9,5,1.5,4,3,-1.0,1.0,1.0,1.0,1.0,1.0,0.9990990990990991,0.0,Complete Physical Attendance,No
+50-60,Female,Homemaker,Other/not working,5,12,0.5,1,2,1.0,-0.5,-0.5,-0.5,-0.5,-0.5,0.0981981981981982,0.0,Work/study from home,Maybe
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,2,2,0.5,0.5,1.0,1.0,1.0,0.0,0.9990990990990991,0.09009009009009009,Work/study from home,Yes
+50-60,Female,Working Professional,Teaching,7,9,0.5,4,4,-0.5,-0.5,-0.5,-1.0,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+50-60,Female,Homemaker,Other/not working,5,12,0.5,1,2,1.0,-0.5,-0.5,-0.5,-0.5,-0.5,0.0981981981981982,0.0,Work/study from home,Maybe
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,2,2,0.5,0.5,1.0,1.0,1.0,0.0,0.9990990990990991,0.09009009009009009,Work/study from home,Yes
+50-60,Female,Working Professional,Teaching,7,9,0.5,4,4,-0.5,-0.5,-0.5,-1.0,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+40-50,Female,Working Professional,Teaching,7,7,0.5,1,3,0.5,0.5,0.5,0.5,0.5,0.5,0.9,0.9,Work/study from home,Yes
+60+,Male,Currently Out of Work,Other/not working,9,5,1.5,4,3,-1.0,1.0,1.0,1.0,1.0,1.0,0.9990990990990991,0.0,Complete Physical Attendance,No
+50-60,Female,Homemaker,Other/not working,5,12,0.5,1,2,1.0,-0.5,-0.5,-0.5,-0.5,-0.5,0.0981981981981982,0.0,Work/study from home,Maybe
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,2,2,0.5,0.5,1.0,1.0,1.0,0.0,0.9990990990990991,0.09009009009009009,Work/study from home,Yes
+50-60,Female,Working Professional,Teaching,7,9,0.5,4,4,-0.5,-0.5,-0.5,-1.0,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+50-60,Female,Homemaker,Other/not working,5,12,0.5,1,2,1.0,-0.5,-0.5,-0.5,-0.5,-0.5,0.0981981981981982,0.0,Work/study from home,Maybe
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,2,2,0.5,0.5,1.0,1.0,1.0,0.0,0.9990990990990991,0.09009009009009009,Work/study from home,Yes
+50-60,Female,Working Professional,Teaching,7,9,0.5,4,4,-0.5,-0.5,-0.5,-1.0,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+40-50,Female,Working Professional,Teaching,7,7,0.5,1,3,0.5,0.5,0.5,0.5,0.5,0.5,0.9,0.9,Work/study from home,Yes
+60+,Male,Currently Out of Work,Other/not working,9,5,1.5,4,3,-1.0,1.0,1.0,1.0,1.0,1.0,0.9990990990990991,0.0,Complete Physical Attendance,No
+33-40,Male,Working Professional,Teaching,9,11,0.5,2,3,0.0,0.5,0.5,0.0,0.5,0.0,0.9,0.08918918918918918,Complete Physical Attendance,No
+50-60,Female,Homemaker,Other/not working,5,12,0.5,1,2,1.0,-0.5,-0.5,-0.5,-0.5,-0.5,0.0981981981981982,0.0,Work/study from home,Maybe
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,2,2,0.5,0.5,1.0,1.0,1.0,0.0,0.9990990990990991,0.09009009009009009,Work/study from home,Yes
+50-60,Female,Working Professional,Teaching,7,9,0.5,4,4,-0.5,-0.5,-0.5,-1.0,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+50-60,Female,Homemaker,Other/not working,5,12,0.5,1,2,1.0,-0.5,-0.5,-0.5,-0.5,-0.5,0.0981981981981982,0.0,Work/study from home,Maybe
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,2,2,0.5,0.5,1.0,1.0,1.0,0.0,0.9990990990990991,0.09009009009009009,Work/study from home,Yes
+50-60,Female,Working Professional,Teaching,7,9,0.5,4,4,-0.5,-0.5,-0.5,-1.0,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+40-50,Female,Working Professional,Teaching,7,7,0.5,1,3,0.5,0.5,0.5,0.5,0.5,0.5,0.9,0.9,Work/study from home,Yes
+60+,Male,Currently Out of Work,Other/not working,9,5,1.5,4,3,-1.0,1.0,1.0,1.0,1.0,1.0,0.9990990990990991,0.0,Complete Physical Attendance,No
+33-40,Male,Working Professional,Teaching,9,11,0.5,2,3,0.0,0.5,0.5,0.0,0.5,0.0,0.9,0.08918918918918918,Complete Physical Attendance,No
+50-60,Female,Homemaker,Other/not working,5,12,0.5,1,2,1.0,-0.5,-0.5,-0.5,-0.5,-0.5,0.0981981981981982,0.0,Work/study from home,Maybe
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,2,2,0.5,0.5,1.0,1.0,1.0,0.0,0.9990990990990991,0.09009009009009009,Work/study from home,Yes
+50-60,Female,Working Professional,Teaching,7,9,0.5,4,4,-0.5,-0.5,-0.5,-1.0,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+50-60,Female,Homemaker,Other/not working,5,12,0.5,1,2,1.0,-0.5,-0.5,-0.5,-0.5,-0.5,0.0981981981981982,0.0,Work/study from home,Maybe
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,2,2,0.5,0.5,1.0,1.0,1.0,0.0,0.9990990990990991,0.09009009009009009,Work/study from home,Yes
+50-60,Female,Working Professional,Teaching,7,9,0.5,4,4,-0.5,-0.5,-0.5,-1.0,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+40-50,Female,Working Professional,Teaching,7,7,0.5,1,3,0.5,0.5,0.5,0.5,0.5,0.5,0.9,0.9,Work/study from home,Yes
+60+,Male,Currently Out of Work,Other/not working,9,5,1.5,4,3,-1.0,1.0,1.0,1.0,1.0,1.0,0.9990990990990991,0.0,Complete Physical Attendance,No
+33-40,Male,Working Professional,Teaching,9,11,0.5,2,3,0.0,0.5,0.5,0.0,0.5,0.0,0.9,0.08918918918918918,Complete Physical Attendance,No
+50-60,Female,Homemaker,Other/not working,5,12,0.5,1,2,1.0,-0.5,-0.5,-0.5,-0.5,-0.5,0.0981981981981982,0.0,Work/study from home,Maybe
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,2,2,0.5,0.5,1.0,1.0,1.0,0.0,0.9990990990990991,0.09009009009009009,Work/study from home,Yes
+50-60,Female,Working Professional,Teaching,7,9,0.5,4,4,-0.5,-0.5,-0.5,-1.0,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+50-60,Female,Homemaker,Other/not working,5,12,0.5,1,2,1.0,-0.5,-0.5,-0.5,-0.5,-0.5,0.0981981981981982,0.0,Work/study from home,Maybe
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,2,2,0.5,0.5,1.0,1.0,1.0,0.0,0.9990990990990991,0.09009009009009009,Work/study from home,Yes
+50-60,Female,Working Professional,Teaching,7,9,0.5,4,4,-0.5,-0.5,-0.5,-1.0,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+40-50,Female,Working Professional,Teaching,7,7,0.5,1,3,0.5,0.5,0.5,0.5,0.5,0.5,0.9,0.9,Work/study from home,Yes
+60+,Male,Currently Out of Work,Other/not working,9,5,1.5,4,3,-1.0,1.0,1.0,1.0,1.0,1.0,0.9990990990990991,0.0,Complete Physical Attendance,No
+33-40,Male,Working Professional,Teaching,9,11,0.5,2,3,0.0,0.5,0.5,0.0,0.5,0.0,0.9,0.08918918918918918,Complete Physical Attendance,No
+50-60,Female,Homemaker,Other/not working,5,12,0.5,1,2,1.0,-0.5,-0.5,-0.5,-0.5,-0.5,0.0981981981981982,0.0,Work/study from home,Maybe
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,2,2,0.5,0.5,1.0,1.0,1.0,0.0,0.9990990990990991,0.09009009009009009,Work/study from home,Yes
+50-60,Female,Working Professional,Teaching,7,9,0.5,4,4,-0.5,-0.5,-0.5,-1.0,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+50-60,Female,Homemaker,Other/not working,5,12,0.5,1,2,1.0,-0.5,-0.5,-0.5,-0.5,-0.5,0.0981981981981982,0.0,Work/study from home,Maybe
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,2,2,0.5,0.5,1.0,1.0,1.0,0.0,0.9990990990990991,0.09009009009009009,Work/study from home,Yes
+50-60,Female,Working Professional,Teaching,7,9,0.5,4,4,-0.5,-0.5,-0.5,-1.0,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+40-50,Female,Working Professional,Teaching,7,7,0.5,1,3,0.5,0.5,0.5,0.5,0.5,0.5,0.9,0.9,Work/study from home,Yes
+60+,Male,Currently Out of Work,Other/not working,9,5,1.5,4,3,-1.0,1.0,1.0,1.0,1.0,1.0,0.9990990990990991,0.0,Complete Physical Attendance,No
+33-40,Male,Working Professional,Teaching,9,11,0.5,2,3,0.0,0.5,0.5,0.0,0.5,0.0,0.9,0.08918918918918918,Complete Physical Attendance,No
+50-60,Female,Homemaker,Other/not working,5,12,0.5,1,2,1.0,-0.5,-0.5,-0.5,-0.5,-0.5,0.0981981981981982,0.0,Work/study from home,Maybe
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,2,2,0.5,0.5,1.0,1.0,1.0,0.0,0.9990990990990991,0.09009009009009009,Work/study from home,Yes
+50-60,Female,Working Professional,Teaching,7,9,0.5,4,4,-0.5,-0.5,-0.5,-1.0,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+50-60,Female,Homemaker,Other/not working,5,12,0.5,1,2,1.0,-0.5,-0.5,-0.5,-0.5,-0.5,0.0981981981981982,0.0,Work/study from home,Maybe
+26-32,Female,Entrepreneur,Other/not working,5,9,1.5,2,2,0.5,0.5,1.0,1.0,1.0,0.0,0.9990990990990991,0.09009009009009009,Work/study from home,Yes
+50-60,Female,Working Professional,Teaching,7,9,0.5,4,4,-0.5,-0.5,-0.5,-1.0,-0.5,-0.5,0.08918918918918918,1.0,Complete Physical Attendance,No
+40-50,Female,Working Professional,Teaching,7,7,0.5,1,3,0.5,0.5,0.5,0.5,0.5,0.5,0.9,0.9,Work/study from home,Yes
+60+,Male,Currently Out of Work,Other/not working,9,5,1.5,4,3,-1.0,1.0,1.0,1.0,1.0,1.0,0.9990990990990991,0.0,Complete Physical Attendance,No
+33-40,Male,Working Professional,Teaching,9,11,0.5,2,3,0.0,0.5,0.5,0.0,0.5,0.0,0.9,0.08918918918918918,Complete Physical Attendance,No
+26-32,Female,Working Professional,Teaching,9,7,0.5,1,1,1.0,1.0,1.0,1.0,1.0,1.0,0.9900900900900901,0.9,Work/study from home,Yes
+33-40,Female,Medical Professional,Other/not working,5,7,1.5,4,4,-0.5,0.0,-0.5,0.5,-0.5,0.0,0.08918918918918918,0.9099099099099099,Complete Physical Attendance,Maybe
+40-50,Female,Entrepreneur,Other/not working,9,9,0.5,2,1,0.5,-0.5,-0.5,0.5,0.0,0.0,0.008108108108108109,0.0,Complete Physical Attendance,Yes
+26-32,Female,Working Professional,Teaching,9,7,0.5,1,1,1.0,1.0,1.0,1.0,1.0,1.0,0.9900900900900901,0.9,Work/study from home,Yes
+33-40,Female,Medical Professional,Other/not working,5,7,1.5,4,4,-0.5,0.0,-0.5,0.5,-0.5,0.0,0.08918918918918918,0.9099099099099099,Complete Physical Attendance,Maybe
+40-50,Female,Entrepreneur,Other/not working,9,9,0.5,2,1,0.5,-0.5,-0.5,0.5,0.0,0.0,0.008108108108108109,0.0,Complete Physical Attendance,Yes
+26-32,Female,Working Professional,Teaching,9,7,0.5,1,1,1.0,1.0,1.0,1.0,1.0,1.0,0.9900900900900901,0.9,Work/study from home,Yes
+33-40,Female,Medical Professional,Other/not working,5,7,1.5,4,4,-0.5,0.0,-0.5,0.5,-0.5,0.0,0.08918918918918918,0.9099099099099099,Complete Physical Attendance,Maybe
+40-50,Female,Entrepreneur,Other/not working,9,9,0.5,2,1,0.5,-0.5,-0.5,0.5,0.0,0.0,0.008108108108108109,0.0,Complete Physical Attendance,Yes
+26-32,Female,Working Professional,Teaching,9,7,0.5,1,1,1.0,1.0,1.0,1.0,1.0,1.0,0.9900900900900901,0.9,Work/study from home,Yes
+33-40,Female,Medical Professional,Other/not working,5,7,1.5,4,4,-0.5,0.0,-0.5,0.5,-0.5,0.0,0.08918918918918918,0.9099099099099099,Complete Physical Attendance,Maybe
+40-50,Female,Entrepreneur,Other/not working,9,9,0.5,2,1,0.5,-0.5,-0.5,0.5,0.0,0.0,0.008108108108108109,0.0,Complete Physical Attendance,Yes
+26-32,Female,Working Professional,Teaching,9,7,0.5,1,1,1.0,1.0,1.0,1.0,1.0,1.0,0.9900900900900901,0.9,Work/study from home,Yes
+33-40,Female,Medical Professional,Other/not working,5,7,1.5,4,4,-0.5,0.0,-0.5,0.5,-0.5,0.0,0.08918918918918918,0.9099099099099099,Complete Physical Attendance,Maybe
+40-50,Female,Entrepreneur,Other/not working,9,9,0.5,2,1,0.5,-0.5,-0.5,0.5,0.0,0.0,0.008108108108108109,0.0,Complete Physical Attendance,Yes
+26-32,Female,Working Professional,Teaching,9,7,0.5,1,1,1.0,1.0,1.0,1.0,1.0,1.0,0.9900900900900901,0.9,Work/study from home,Yes
+33-40,Female,Medical Professional,Other/not working,5,7,1.5,4,4,-0.5,0.0,-0.5,0.5,-0.5,0.0,0.08918918918918918,0.9099099099099099,Complete Physical Attendance,Maybe
+40-50,Female,Entrepreneur,Other/not working,9,9,0.5,2,1,0.5,-0.5,-0.5,0.5,0.0,0.0,0.008108108108108109,0.0,Complete Physical Attendance,Yes
+33-40,Female,Medical Professional,Other/not working,5,7,1.5,4,4,-0.5,0.0,-0.5,0.5,-0.5,0.0,0.08918918918918918,0.9099099099099099,Complete Physical Attendance,Maybe
+40-50,Female,Entrepreneur,Other/not working,9,9,0.5,2,1,0.5,-0.5,-0.5,0.5,0.0,0.0,0.008108108108108109,0.0,Complete Physical Attendance,Yes
+26-32,Female,Working Professional,Teaching,9,7,0.5,1,1,1.0,1.0,1.0,1.0,1.0,1.0,0.9900900900900901,0.9,Work/study from home,Yes
+33-40,Female,Medical Professional,Other/not working,5,7,1.5,4,4,-0.5,0.0,-0.5,0.5,-0.5,0.0,0.08918918918918918,0.9099099099099099,Complete Physical Attendance,Maybe
+40-50,Female,Entrepreneur,Other/not working,9,9,0.5,2,1,0.5,-0.5,-0.5,0.5,0.0,0.0,0.008108108108108109,0.0,Complete Physical Attendance,Yes
+26-32,Female,Working Professional,Teaching,9,7,0.5,1,1,1.0,1.0,1.0,1.0,1.0,1.0,0.9900900900900901,0.9,Work/study from home,Yes
+33-40,Female,Medical Professional,Other/not working,5,7,1.5,4,4,-0.5,0.0,-0.5,0.5,-0.5,0.0,0.08918918918918918,0.9099099099099099,Complete Physical Attendance,Maybe
+40-50,Female,Entrepreneur,Other/not working,9,9,0.5,2,1,0.5,-0.5,-0.5,0.5,0.0,0.0,0.008108108108108109,0.0,Complete Physical Attendance,Yes
+26-32,Female,Homemaker,Other/not working,5,12,0.5,3,5,-0.5,-1.0,-0.5,0.0,-0.5,-0.5,0.08918918918918918,0.0990990990990991,Complete Physical Attendance,Maybe
+26-32,Male,Working Professional,Engineering,9,11,0.5,3,2,0.5,0.5,0.5,0.5,0.0,0.0,1.0,0.0981981981981982,Complete Physical Attendance,Maybe
+26-32,Male,Working Professional,Engineering,11,12,1.5,2,2,0.0,0.0,0.0,-1.0,0.0,-0.5,1.0,0.9900900900900901,Complete Physical Attendance,Yes
+40-50,Male,Working Professional,Engineering,5,5,0.5,2,2,0.5,-0.5,0.5,0.5,0.5,0.5,0.9900900900900901,0.09009009009009009,Work/study from home,Yes
+26-32,Male,Working Professional,Engineering,9,9,1.5,3,5,0.0,0.0,0.0,0.0,0.0,0.0,0.9,1.0,Complete Physical Attendance,No
+26-32,Male,Working Professional,Engineering,9,5,1.5,2,3,0.5,0.5,0.5,0.5,0.5,0.5,0.9009009009009009,0.08918918918918918,Work/study from home,Yes
+26-32,Male,Working Professional,Engineering,11,12,0.5,3,3,0.0,0.0,-1.0,-1.0,0.0,0.0,0.009009009009009009,0.909009009009009,Complete Physical Attendance,Maybe
+26-32,Male,Entrepreneur,Other/not working,5,5,0.5,3,4,-0.5,-1.0,0.5,0.0,0.0,0.0,1.0,0.990990990990991,Complete Physical Attendance,Yes
+26-32,Female,Homemaker,Other/not working,5,12,0.5,3,5,-0.5,-1.0,-0.5,0.0,-0.5,-0.5,0.08918918918918918,0.0990990990990991,Complete Physical Attendance,Maybe
+26-32,Male,Working Professional,Engineering,9,11,0.5,3,2,0.5,0.5,0.5,0.5,0.0,0.0,1.0,0.0981981981981982,Complete Physical Attendance,Maybe
+26-32,Male,Working Professional,Engineering,11,12,1.5,2,2,0.0,0.0,0.0,-1.0,0.0,-0.5,1.0,0.9900900900900901,Complete Physical Attendance,Yes
+40-50,Male,Working Professional,Engineering,5,5,0.5,2,2,0.5,-0.5,0.5,0.5,0.5,0.5,0.9900900900900901,0.09009009009009009,Work/study from home,Yes
+26-32,Male,Working Professional,Engineering,9,9,1.5,3,5,0.0,0.0,0.0,0.0,0.0,0.0,0.9,1.0,Complete Physical Attendance,No
+26-32,Male,Working Professional,Engineering,9,5,1.5,2,3,0.5,0.5,0.5,0.5,0.5,0.5,0.9009009009009009,0.08918918918918918,Work/study from home,Yes
+26-32,Male,Working Professional,Engineering,11,12,0.5,3,3,0.0,0.0,-1.0,-1.0,0.0,0.0,0.009009009009009009,0.909009009009009,Complete Physical Attendance,Maybe
+26-32,Male,Entrepreneur,Other/not working,5,5,0.5,3,4,-0.5,-1.0,0.5,0.0,0.0,0.0,1.0,0.990990990990991,Complete Physical Attendance,Yes
+26-32,Female,Homemaker,Other/not working,5,12,0.5,3,5,-0.5,-1.0,-0.5,0.0,-0.5,-0.5,0.08918918918918918,0.0990990990990991,Complete Physical Attendance,Maybe
+26-32,Male,Working Professional,Engineering,9,11,0.5,3,2,0.5,0.5,0.5,0.5,0.0,0.0,1.0,0.0981981981981982,Complete Physical Attendance,Maybe
+26-32,Male,Working Professional,Engineering,11,12,1.5,2,2,0.0,0.0,0.0,-1.0,0.0,-0.5,1.0,0.9900900900900901,Complete Physical Attendance,Yes
+40-50,Male,Working Professional,Engineering,5,5,0.5,2,2,0.5,-0.5,0.5,0.5,0.5,0.5,0.9900900900900901,0.09009009009009009,Work/study from home,Yes
+26-32,Male,Working Professional,Engineering,9,9,1.5,3,5,0.0,0.0,0.0,0.0,0.0,0.0,0.9,1.0,Complete Physical Attendance,No
+26-32,Male,Working Professional,Engineering,9,5,1.5,2,3,0.5,0.5,0.5,0.5,0.5,0.5,0.9009009009009009,0.08918918918918918,Work/study from home,Yes
+26-32,Male,Working Professional,Engineering,11,12,0.5,3,3,0.0,0.0,-1.0,-1.0,0.0,0.0,0.009009009009009009,0.909009009009009,Complete Physical Attendance,Maybe
+26-32,Male,Entrepreneur,Other/not working,5,5,0.5,3,4,-0.5,-1.0,0.5,0.0,0.0,0.0,1.0,0.990990990990991,Complete Physical Attendance,Yes
+26-32,Female,Homemaker,Other/not working,5,12,0.5,3,5,-0.5,-1.0,-0.5,0.0,-0.5,-0.5,0.08918918918918918,0.0990990990990991,Complete Physical Attendance,Maybe
+26-32,Male,Working Professional,Engineering,9,11,0.5,3,2,0.5,0.5,0.5,0.5,0.0,0.0,1.0,0.0981981981981982,Complete Physical Attendance,Maybe
+26-32,Male,Working Professional,Engineering,11,12,1.5,2,2,0.0,0.0,0.0,-1.0,0.0,-0.5,1.0,0.9900900900900901,Complete Physical Attendance,Yes
+40-50,Male,Working Professional,Engineering,5,5,0.5,2,2,0.5,-0.5,0.5,0.5,0.5,0.5,0.9900900900900901,0.09009009009009009,Work/study from home,Yes
+26-32,Male,Working Professional,Engineering,9,9,1.5,3,5,0.0,0.0,0.0,0.0,0.0,0.0,0.9,1.0,Complete Physical Attendance,No
+26-32,Male,Working Professional,Engineering,9,5,1.5,2,3,0.5,0.5,0.5,0.5,0.5,0.5,0.9009009009009009,0.08918918918918918,Work/study from home,Yes
+26-32,Male,Working Professional,Engineering,11,12,0.5,3,3,0.0,0.0,-1.0,-1.0,0.0,0.0,0.009009009009009009,0.909009009009009,Complete Physical Attendance,Maybe
+26-32,Male,Entrepreneur,Other/not working,5,5,0.5,3,4,-0.5,-1.0,0.5,0.0,0.0,0.0,1.0,0.990990990990991,Complete Physical Attendance,Yes
+26-32,Female,Homemaker,Other/not working,5,12,0.5,3,5,-0.5,-1.0,-0.5,0.0,-0.5,-0.5,0.08918918918918918,0.0990990990990991,Complete Physical Attendance,Maybe
+26-32,Male,Working Professional,Engineering,9,11,0.5,3,2,0.5,0.5,0.5,0.5,0.0,0.0,1.0,0.0981981981981982,Complete Physical Attendance,Maybe
+26-32,Male,Working Professional,Engineering,11,12,1.5,2,2,0.0,0.0,0.0,-1.0,0.0,-0.5,1.0,0.9900900900900901,Complete Physical Attendance,Yes
+40-50,Male,Working Professional,Engineering,5,5,0.5,2,2,0.5,-0.5,0.5,0.5,0.5,0.5,0.9900900900900901,0.09009009009009009,Work/study from home,Yes
+26-32,Male,Working Professional,Engineering,9,9,1.5,3,5,0.0,0.0,0.0,0.0,0.0,0.0,0.9,1.0,Complete Physical Attendance,No
+26-32,Male,Working Professional,Engineering,9,5,1.5,2,3,0.5,0.5,0.5,0.5,0.5,0.5,0.9009009009009009,0.08918918918918918,Work/study from home,Yes
+26-32,Male,Working Professional,Engineering,11,12,0.5,3,3,0.0,0.0,-1.0,-1.0,0.0,0.0,0.009009009009009009,0.909009009009009,Complete Physical Attendance,Maybe
+26-32,Male,Entrepreneur,Other/not working,5,5,0.5,3,4,-0.5,-1.0,0.5,0.0,0.0,0.0,1.0,0.990990990990991,Complete Physical Attendance,Yes
+26-32,Female,Homemaker,Other/not working,5,12,0.5,3,5,-0.5,-1.0,-0.5,0.0,-0.5,-0.5,0.08918918918918918,0.0990990990990991,Complete Physical Attendance,Maybe
+26-32,Male,Working Professional,Engineering,9,11,0.5,3,2,0.5,0.5,0.5,0.5,0.0,0.0,1.0,0.0981981981981982,Complete Physical Attendance,Maybe
+26-32,Male,Working Professional,Engineering,11,12,1.5,2,2,0.0,0.0,0.0,-1.0,0.0,-0.5,1.0,0.9900900900900901,Complete Physical Attendance,Yes
+40-50,Male,Working Professional,Engineering,5,5,0.5,2,2,0.5,-0.5,0.5,0.5,0.5,0.5,0.9900900900900901,0.09009009009009009,Work/study from home,Yes
+26-32,Male,Working Professional,Engineering,9,9,1.5,3,5,0.0,0.0,0.0,0.0,0.0,0.0,0.9,1.0,Complete Physical Attendance,No
+26-32,Male,Working Professional,Engineering,9,5,1.5,2,3,0.5,0.5,0.5,0.5,0.5,0.5,0.9009009009009009,0.08918918918918918,Work/study from home,Yes
+26-32,Male,Working Professional,Engineering,11,12,0.5,3,3,0.0,0.0,-1.0,-1.0,0.0,0.0,0.009009009009009009,0.909009009009009,Complete Physical Attendance,Maybe
+26-32,Male,Entrepreneur,Other/not working,5,5,0.5,3,4,-0.5,-1.0,0.5,0.0,0.0,0.0,1.0,0.990990990990991,Complete Physical Attendance,Yes
+40-50,Female,Entrepreneur,Other/not working,9,9,0.5,2,1,0.5,-0.5,-0.5,0.5,0.0,0.0,0.008108108108108109,0.0,Complete Physical Attendance,Yes
+26-32,Female,Working Professional,Teaching,9,7,0.5,1,1,1.0,1.0,1.0,1.0,1.0,1.0,0.9900900900900901,0.9,Work/study from home,Yes
+33-40,Female,Medical Professional,Other/not working,5,7,1.5,4,4,-0.5,0.0,-0.5,0.5,-0.5,0.0,0.08918918918918918,0.9099099099099099,Complete Physical Attendance,Maybe
+40-50,Female,Entrepreneur,Other/not working,9,9,0.5,2,1,0.5,-0.5,-0.5,0.5,0.0,0.0,0.008108108108108109,0.0,Complete Physical Attendance,Yes
+26-32,Female,Homemaker,Other/not working,5,12,0.5,3,5,-0.5,-1.0,-0.5,0.0,-0.5,-0.5,0.08918918918918918,0.0990990990990991,Complete Physical Attendance,Maybe
+26-32,Male,Working Professional,Engineering,9,11,0.5,3,2,0.5,0.5,0.5,0.5,0.0,0.0,1.0,0.0981981981981982,Complete Physical Attendance,Maybe
+26-32,Male,Working Professional,Engineering,11,12,1.5,2,2,0.0,0.0,0.0,-1.0,0.0,-0.5,1.0,0.9900900900900901,Complete Physical Attendance,Yes
+40-50,Male,Working Professional,Engineering,5,5,0.5,2,2,0.5,-0.5,0.5,0.5,0.5,0.5,0.9900900900900901,0.09009009009009009,Work/study from home,Yes
+40-50,Female,Entrepreneur,Other/not working,9,9,0.5,2,1,0.5,-0.5,-0.5,0.5,0.0,0.0,0.008108108108108109,0.0,Complete Physical Attendance,Yes
+26-32,Female,Working Professional,Teaching,9,7,0.5,1,1,1.0,1.0,1.0,1.0,1.0,1.0,0.9900900900900901,0.9,Work/study from home,Yes
+33-40,Female,Medical Professional,Other/not working,5,7,1.5,4,4,-0.5,0.0,-0.5,0.5,-0.5,0.0,0.08918918918918918,0.9099099099099099,Complete Physical Attendance,Maybe
+40-50,Female,Entrepreneur,Other/not working,9,9,0.5,2,1,0.5,-0.5,-0.5,0.5,0.0,0.0,0.008108108108108109,0.0,Complete Physical Attendance,Yes
+26-32,Female,Homemaker,Other/not working,5,12,0.5,3,5,-0.5,-1.0,-0.5,0.0,-0.5,-0.5,0.08918918918918918,0.0990990990990991,Complete Physical Attendance,Maybe
+26-32,Male,Working Professional,Engineering,9,11,0.5,3,2,0.5,0.5,0.5,0.5,0.0,0.0,1.0,0.0981981981981982,Complete Physical Attendance,Maybe
+26-32,Male,Working Professional,Engineering,11,12,1.5,2,2,0.0,0.0,0.0,-1.0,0.0,-0.5,1.0,0.9900900900900901,Complete Physical Attendance,Yes
+40-50,Male,Working Professional,Engineering,5,5,0.5,2,2,0.5,-0.5,0.5,0.5,0.5,0.5,0.9900900900900901,0.09009009009009009,Work/study from home,Yes
+40-50,Female,Entrepreneur,Other/not working,9,9,0.5,2,1,0.5,-0.5,-0.5,0.5,0.0,0.0,0.008108108108108109,0.0,Complete Physical Attendance,Yes
+26-32,Female,Working Professional,Teaching,9,7,0.5,1,1,1.0,1.0,1.0,1.0,1.0,1.0,0.9900900900900901,0.9,Work/study from home,Yes
+33-40,Female,Medical Professional,Other/not working,5,7,1.5,4,4,-0.5,0.0,-0.5,0.5,-0.5,0.0,0.08918918918918918,0.9099099099099099,Complete Physical Attendance,Maybe
+40-50,Female,Entrepreneur,Other/not working,9,9,0.5,2,1,0.5,-0.5,-0.5,0.5,0.0,0.0,0.008108108108108109,0.0,Complete Physical Attendance,Yes
+26-32,Female,Homemaker,Other/not working,5,12,0.5,3,5,-0.5,-1.0,-0.5,0.0,-0.5,-0.5,0.08918918918918918,0.0990990990990991,Complete Physical Attendance,Maybe
+26-32,Male,Working Professional,Engineering,9,11,0.5,3,2,0.5,0.5,0.5,0.5,0.0,0.0,1.0,0.0981981981981982,Complete Physical Attendance,Maybe
+26-32,Male,Working Professional,Engineering,11,12,1.5,2,2,0.0,0.0,0.0,-1.0,0.0,-0.5,1.0,0.9900900900900901,Complete Physical Attendance,Yes
+40-50,Male,Working Professional,Engineering,5,5,0.5,2,2,0.5,-0.5,0.5,0.5,0.5,0.5,0.9900900900900901,0.09009009009009009,Work/study from home,Yes
+40-50,Female,Entrepreneur,Other/not working,9,9,0.5,2,1,0.5,-0.5,-0.5,0.5,0.0,0.0,0.008108108108108109,0.0,Complete Physical Attendance,Yes
+26-32,Female,Working Professional,Teaching,9,7,0.5,1,1,1.0,1.0,1.0,1.0,1.0,1.0,0.9900900900900901,0.9,Work/study from home,Yes
+33-40,Female,Medical Professional,Other/not working,5,7,1.5,4,4,-0.5,0.0,-0.5,0.5,-0.5,0.0,0.08918918918918918,0.9099099099099099,Complete Physical Attendance,Maybe
+40-50,Female,Entrepreneur,Other/not working,9,9,0.5,2,1,0.5,-0.5,-0.5,0.5,0.0,0.0,0.008108108108108109,0.0,Complete Physical Attendance,Yes
+26-32,Female,Homemaker,Other/not working,5,12,0.5,3,5,-0.5,-1.0,-0.5,0.0,-0.5,-0.5,0.08918918918918918,0.0990990990990991,Complete Physical Attendance,Maybe
+26-32,Male,Working Professional,Engineering,9,11,0.5,3,2,0.5,0.5,0.5,0.5,0.0,0.0,1.0,0.0981981981981982,Complete Physical Attendance,Maybe
+26-32,Male,Working Professional,Engineering,11,12,1.5,2,2,0.0,0.0,0.0,-1.0,0.0,-0.5,1.0,0.9900900900900901,Complete Physical Attendance,Yes
+40-50,Male,Working Professional,Engineering,5,5,0.5,2,2,0.5,-0.5,0.5,0.5,0.5,0.5,0.9900900900900901,0.09009009009009009,Work/study from home,Yes
+40-50,Female,Entrepreneur,Other/not working,9,9,0.5,2,1,0.5,-0.5,-0.5,0.5,0.0,0.0,0.008108108108108109,0.0,Complete Physical Attendance,Yes
+26-32,Female,Working Professional,Teaching,9,7,0.5,1,1,1.0,1.0,1.0,1.0,1.0,1.0,0.9900900900900901,0.9,Work/study from home,Yes
+33-40,Female,Medical Professional,Other/not working,5,7,1.5,4,4,-0.5,0.0,-0.5,0.5,-0.5,0.0,0.08918918918918918,0.9099099099099099,Complete Physical Attendance,Maybe
+40-50,Female,Entrepreneur,Other/not working,9,9,0.5,2,1,0.5,-0.5,-0.5,0.5,0.0,0.0,0.008108108108108109,0.0,Complete Physical Attendance,Yes
+26-32,Female,Homemaker,Other/not working,5,12,0.5,3,5,-0.5,-1.0,-0.5,0.0,-0.5,-0.5,0.08918918918918918,0.0990990990990991,Complete Physical Attendance,Maybe
+26-32,Male,Working Professional,Engineering,9,11,0.5,3,2,0.5,0.5,0.5,0.5,0.0,0.0,1.0,0.0981981981981982,Complete Physical Attendance,Maybe
+26-32,Male,Working Professional,Engineering,11,12,1.5,2,2,0.0,0.0,0.0,-1.0,0.0,-0.5,1.0,0.9900900900900901,Complete Physical Attendance,Yes
+40-50,Male,Working Professional,Engineering,5,5,0.5,2,2,0.5,-0.5,0.5,0.5,0.5,0.5,0.9900900900900901,0.09009009009009009,Work/study from home,Yes
+40-50,Female,Entrepreneur,Other/not working,9,9,0.5,2,1,0.5,-0.5,-0.5,0.5,0.0,0.0,0.008108108108108109,0.0,Complete Physical Attendance,Yes
+26-32,Female,Working Professional,Teaching,9,7,0.5,1,1,1.0,1.0,1.0,1.0,1.0,1.0,0.9900900900900901,0.9,Work/study from home,Yes
+33-40,Female,Medical Professional,Other/not working,5,7,1.5,4,4,-0.5,0.0,-0.5,0.5,-0.5,0.0,0.08918918918918918,0.9099099099099099,Complete Physical Attendance,Maybe
+40-50,Female,Entrepreneur,Other/not working,9,9,0.5,2,1,0.5,-0.5,-0.5,0.5,0.0,0.0,0.008108108108108109,0.0,Complete Physical Attendance,Yes
+26-32,Female,Homemaker,Other/not working,5,12,0.5,3,5,-0.5,-1.0,-0.5,0.0,-0.5,-0.5,0.08918918918918918,0.0990990990990991,Complete Physical Attendance,Maybe
+26-32,Male,Working Professional,Engineering,9,11,0.5,3,2,0.5,0.5,0.5,0.5,0.0,0.0,1.0,0.0981981981981982,Complete Physical Attendance,Maybe
+26-32,Male,Working Professional,Engineering,11,12,1.5,2,2,0.0,0.0,0.0,-1.0,0.0,-0.5,1.0,0.9900900900900901,Complete Physical Attendance,Yes
+40-50,Male,Working Professional,Engineering,5,5,0.5,2,2,0.5,-0.5,0.5,0.5,0.5,0.5,0.9900900900900901,0.09009009009009009,Work/study from home,Yes
+40-50,Female,Entrepreneur,Other/not working,9,9,0.5,2,1,0.5,-0.5,-0.5,0.5,0.0,0.0,0.008108108108108109,0.0,Complete Physical Attendance,Yes
+26-32,Female,Working Professional,Teaching,9,7,0.5,1,1,1.0,1.0,1.0,1.0,1.0,1.0,0.9900900900900901,0.9,Work/study from home,Yes
+33-40,Female,Medical Professional,Other/not working,5,7,1.5,4,4,-0.5,0.0,-0.5,0.5,-0.5,0.0,0.08918918918918918,0.9099099099099099,Complete Physical Attendance,Maybe
+40-50,Female,Entrepreneur,Other/not working,9,9,0.5,2,1,0.5,-0.5,-0.5,0.5,0.0,0.0,0.008108108108108109,0.0,Complete Physical Attendance,Yes
+26-32,Female,Homemaker,Other/not working,5,12,0.5,3,5,-0.5,-1.0,-0.5,0.0,-0.5,-0.5,0.08918918918918918,0.0990990990990991,Complete Physical Attendance,Maybe
+26-32,Male,Working Professional,Engineering,9,11,0.5,3,2,0.5,0.5,0.5,0.5,0.0,0.0,1.0,0.0981981981981982,Complete Physical Attendance,Maybe
+26-32,Male,Working Professional,Engineering,11,12,1.5,2,2,0.0,0.0,0.0,-1.0,0.0,-0.5,1.0,0.9900900900900901,Complete Physical Attendance,Yes
+40-50,Male,Working Professional,Engineering,5,5,0.5,2,2,0.5,-0.5,0.5,0.5,0.5,0.5,0.9900900900900901,0.09009009009009009,Work/study from home,Yes
